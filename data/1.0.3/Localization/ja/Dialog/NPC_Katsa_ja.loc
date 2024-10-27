@@ -62,8 +62,8 @@ Plh_48 { *ぶつぶつ* トラスティの言うことを聞いた方がいい�
 
 Plh_53 { 銀はどこだ？ずっと寝てたのか？次は銀を見せてほしい。 }
 
-Plh_54 { あなたは合計で $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 銀を探し出しました。$GVAR:EVars_Katsa.SilverDefaultAmount$ 銀は私たちのものになり、残りの $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 銀はあなたのものです。 }
+Plh_54 { あなたは合計で $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 銀を探し出しました。$GVAR:EVars_Katsa.SilverDefaultAmount$ 銀は私達のものになり、残りの $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 銀はあなたのものです。 }
 
-Plh_55 { あなたは合計で $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 銀を探し出しました。$GVAR:EVars_Katsa.SilverAngryAmount$ 銀は私たちのものになり、残りの $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 銀はあなたのものです。 }
+Plh_55 { あなたは合計で $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 銀を探し出しました。$GVAR:EVars_Katsa.SilverAngryAmount$ 銀は私達のものになり、残りの $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 銀はあなたのものです。 }
 
-Plh_56 { あなたは合計で $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 銀を探し出しました。$GVAR:EVars_Katsa.SilverFriendlyAmount$ 銀は私たちのものになり、残りの $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 銀はあなたのものです。 }
+Plh_56 { あなたは合計で $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ 銀を探し出しました。$GVAR:EVars_Katsa.SilverFriendlyAmount$ 銀は私達のものになり、残りの $GVAR:EVars_Katsa.SilverAmountLeaveMine$ 銀はあなたのものです。 }

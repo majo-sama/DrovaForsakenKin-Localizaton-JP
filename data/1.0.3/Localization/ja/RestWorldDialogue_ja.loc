@@ -14,7 +14,7 @@ R_Mottek_Routine_6 { 自分は他の場所にいたいけど、命令がある�
 
 R_Kati_Routine_7 { でも、あそこには一体何があるんだろう？ }
 
-R_Kati_Routine_8 { さあ、俺にはわからないよ。 }
+R_Kati_Routine_8 { さあ、俺には分からないよ。 }
 
 R_Kati_Routine_9 { うわ、なんでこんなクソみたいな仕事を引き受けなきゃいけないんだ？ }
 
@@ -32,7 +32,7 @@ R_Kati_Routine_15 { 今は黙ります… }
 
 R_Jero_EndAuwald_AfterDialog_16 { もしかしたら、ネメトンがまたすぐに攻撃してくるかもしれない。 }
 
-R_Jero_EndAuwald_AfterDialog_17 { 戦士たちは準備万端で立っています。私たちは備えています。 }
+R_Jero_EndAuwald_AfterDialog_17 { 戦士たちは準備万端で立っています。私達は備えています。 }
 
 R_Karotte_18 { ここで何が起こっているの？ }
 
@@ -44,11 +44,11 @@ BerniRunIntoDungeon_21 { ルナの状態だ！やっぱり正しかった！ }
 
 PitchNewPath_22 { 自分を祝おう！ }
 
-PitchNewPath_23 { もうすぐ、神性と栄光は私たちのものになる！ }
+PitchNewPath_23 { もうすぐ、神性と栄光は私達のものになる！ }
 
 HarpyEncounterAndLore_24 { 戦う準備をしろ！ }
 
-HarpyEncounterAndLore_25 { 何かがいつも私たちを待ち構えている。 }
+HarpyEncounterAndLore_25 { 何かがいつも私達を待ち構えている。 }
 
 HarpyEncounterAndLore_26 { あのくそったれのハーピーどもめ。 }
 
@@ -74,7 +74,7 @@ LeaveLeuchtwald_36 { 原始の森全体が… }
 
 LeaveLeuchtwald_37 { 壊滅した。 }
 
-LeaveLeuchtwald_38 { まだ私たちの任務は完了していない。 }
+LeaveLeuchtwald_38 { まだ私達の任務は完了していない。 }
 
 LeaveLeuchtwald_39 { 続けて！ }
 
@@ -298,7 +298,7 @@ FinalWorldDialogueBeforeAsmusAfrinEnd_148 { わかった、近くにいるよ。
 
 RuinEntranceLeuchtwald_149 { 覚えておいて。 }
 
-RuinEntranceLeuchtwald_150 { 人々は私たちに頼っている。 }
+RuinEntranceLeuchtwald_150 { 人々は私達に頼っている。 }
 
 RuinEntranceLeuchtwald_151 { 続けて！ }
 
@@ -522,7 +522,7 @@ R_AgiloGoToJola_260 { もう一つだけ… }
 
 R_AgiloGoToJola_261 { ピットで働いているのは一人のゲロですか？ }
 
-R_AgiloGoToJola_262 { さあ、わからないよ。自分で確かめてみたらどうだ？ }
+R_AgiloGoToJola_262 { さあ、分からないよ。自分で確かめてみたらどうだ？ }
 
 R_AgiloGoToJola_263 { わかった、ありがとう！ }
 

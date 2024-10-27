@@ -16,7 +16,7 @@ StoryMode { エクスプローラー }
 
 SkipIntro { イントロをスキップ }
 
-Option_BodyType { フィジーク }
+Option_BodyType { 体型 }
 
 Option_SkinColor { 肌の色 }
 
