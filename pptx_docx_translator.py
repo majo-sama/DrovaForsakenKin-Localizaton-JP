@@ -14,7 +14,7 @@ class TranslationService:
     @classmethod
     def sniff_writing_style(cls, sentences: List[str]) -> str:
         """Sniff the the sentences and return writing style."""
-        samples = "\n".join(sentences)[:50]
+        samples = "\n".join(sentences)[:400]
         messages = [
             {
                 "role": "user",
@@ -271,22 +271,19 @@ class DocxTranslator:
 
 if __name__ == "__main__":
     # Example usage:
-
     # PPTX translation
     translated_boxes = PptxTranslator.run(
-        "531159439894380757_2.4天恩師德.pptx",
-        "531159439894380757_2.4天恩師德_ja.pptx",
+        "foo.pptx",
+        "foo_ja.pptx",
         source_lang="Chinese",
         target_lang="Japanese",
     )
-    PptxTranslator.save_as_markdown(
-        translated_boxes, "531159439894380757_2.4天恩師德_ja.md"
-    )
+    PptxTranslator.save_as_markdown(translated_boxes, "foo_ja.md")
 
     # DOCX translation
     translated_paragraphs = DocxTranslator.run(
-        "人生真諦.docx",
+        "bar.docx",
         source_lang="Chinese",
         target_lang="Japanese",
     )
-    DocxTranslator.save_as_mark
+    DocxTranslator.save_as_markdown(translated_paragraphs, "bar_ja.md")
