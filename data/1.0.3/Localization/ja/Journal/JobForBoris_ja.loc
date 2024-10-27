@@ -1,0 +1,25 @@
+Title { ボリスの残党参加への投票 }
+
+Entry_00 { ボリスに私を推薦してもらい、残党に受け入れてもらうためには、ネメトンのアスムスから荷物を取り戻さなければならない。ネメトンへ行こう！ }
+
+Entry_01 { ボリスは私にラストモスのパックを三つ渡し、ヒューアーズに一パックあたり$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$コイン以上で売るように言った。彼のためにそれをやれば、彼は私を推薦してくれるだろう。 }
+
+Entry_02A { コラと私はラストモスを分け合ったので、彼女には$GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$コインで売った。その差額は自分の懐から出さなければならない。 }
+
+Entry_02B { コラはラストモスを$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$コインで購入した。 }
+
+Entry_03 { コルドは赤い金のパックを$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$コインで購入した。 }
+
+Entry_03_1 { 私はグリットにいくつかのラストモスを売った。 }
+
+Entry_03_2 { 私はセンガにいくつかのラストモスを売った。 }
+
+Entry_04 { リアンドラは$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$コインでラストモスのパックを購入した。 }
+
+Entry_05 { 私はボリスを味方につけた。彼は私を保証してくれるだろう。しかし、彼のクルーに加わりたいなら、彼らとユージンも味方につけなければならない。 }
+
+Entry_01B { 私はボリスのためにその品を売らなかった。 }
+
+Entry_Sold { 私はすべてを売り、ボリスに報告しなければならない。 }
+
+Entry_06 { モグはラストモスを持っている。それに対して私は$GVAR:QuestVars_JobForBoris_Config.PricePerJoint$コインを受け取った。 }

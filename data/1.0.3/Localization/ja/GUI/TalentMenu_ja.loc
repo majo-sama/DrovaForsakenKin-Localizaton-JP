@@ -1,0 +1,33 @@
+Level { レベル： }
+
+LearningPoints { 学習ポイント： }
+
+Category_Sword { 剣 }
+
+Category_Unknown { 剣??? }
+
+Category_Spear { 槍 }
+
+Category_Axe { 斧 }
+
+Category_Daggers { 短剣 }
+
+Category_Bow { 弓 }
+
+Category_Crafting { クラフト }
+
+Category_Hunting { 物品 }
+
+CombatStrength { 腕前 }
+
+Category_Slingshot { スリングショット }
+
+Category_Shield { 盾 }
+
+requirement { 前提条件： }
+
+Category_Preparation { 準備 }
+
+Category_Mining { 探査 }
+
+fighting_strength { 腕前 }

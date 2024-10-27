@@ -1,0 +1,15 @@
+NewGame { 新しいゲーム }
+
+LoadGame { ゲームをロード }
+
+Continue { 続ける }
+
+Options { オプション }
+
+QuitGame { 終了 }
+
+StartGame { スタート }
+
+Back { 戻る }
+
+Credits { クレジット }

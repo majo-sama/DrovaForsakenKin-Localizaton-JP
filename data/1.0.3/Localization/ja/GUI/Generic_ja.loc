@@ -1,0 +1,17 @@
+cancel { キャンセル }
+
+accept { 受け入れる }
+
+yes { はい }
+
+no { No }
+
+on { On }
+
+off { オフ }
+
+holdToSkip { スキップするには長押ししてください }
+
+gameModeChangeDesc { モードを変更すると、元に戻すことはできません。よろしいですか？ }
+
+loadLatestPopUp { 最新のセーブデータを読み込みますか？ }

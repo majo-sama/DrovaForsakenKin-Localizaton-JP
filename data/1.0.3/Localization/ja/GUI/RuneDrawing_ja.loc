@@ -1,0 +1,9 @@
+draw { 描く }
+
+delete { 削除する }
+
+move { 移動する }
+
+close { 閉じる }
+
+confirm { 確認する }

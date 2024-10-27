@@ -1,0 +1,25 @@
+SleepBuff { 休息中 }
+
+SleepBuffDescription { 移動速度が[MovementPercent]増加します。 }
+
+Poison { 毒 }
+
+PoisonDescription { 移動速度が[MovementPercent]減少します。 }
+
+Bleeding { 出血 }
+
+BleedingDescription { 毎秒、体力が減少します。 }
+
+SleepBuff_T2 { 十分に休息した }
+
+Veil_Name { ブラックフレイム }
+
+Veil_Desc { 継続的にダメージを受けています。 }
+
+Intoxicated_Name { 酔っ払った }
+
+Intoxicated_Desc { すべてが少しぼやけて見える… }
+
+NoFood_Name { 空腹 }
+
+NoFood_Desc { 何かを食べてお腹を満たそう。満腹になれば、時間とともに失った健康が回復する。 }

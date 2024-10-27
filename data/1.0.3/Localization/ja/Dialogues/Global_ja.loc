@@ -1,0 +1,137 @@
+back { （戻る） }
+
+end_dialog { （会話を終了） }
+
+End_(End) { （会話を終了します） }
+
+Silence { （何も言わない） }
+
+Leave { （退出する） }
+
+NotEnoughMoney { そのコインは足りないよ。十分な数を持って戻ってきて。 }
+
+NotEnoughMoney1 { そんなコインは少ししかないから、足りないよ。十分な数を持って戻ってきて。 }
+
+NotEnoughMoney2 { 私を騙そうとしないで。そんなコインは足りないよ。 }
+
+aboutQuests { クエストについて… }
+
+aboutOtherQuests { クエストの手助け… }
+
+end { 行かなきゃ。 }
+
+Teach_SpearSling { 槍とスリングショットを使ってもっと上手に戦う方法を教えてくれますか？ }
+
+End_WirSehenUns { またね。 }
+
+BloodSteel { 血と鉄！ }
+
+End_VergissEs { 忘れて。 }
+
+End_KeineZeit { そんな時間はない。 }
+
+Inf_DaWarNochWas { 他に何かあった… }
+
+SLP_GoaWay { どいて。 }
+
+Busy_NotNow { 今じゃない。 }
+
+End_MussLos { 行かなきゃ。 }
+
+aboutGenericTopics { 別のことを話したい。 }
+
+Teach_Smith { あなたの技術について何か教えて。 }
+
+showMeWares { あなたの品物を見せて。 }
+
+Inf_IchSchauMichUm { ただ見て回っているだけです。 }
+
+Inf_HabeFrage { 質問があります… }
+
+ShowMeSkills { 新しいスキルを学びたいです。 }
+
+Teach_Sword_! { 剣での戦い方をもっと上手に教えてください。 }
+
+Teach_Dagger_! { ダガーでの戦い方をもっと上手に教えてください。 }
+
+End_IchGehDannMal { 今から出かけます。 }
+
+End_VlltSpäter { 後でかもしれません。 }
+
+Acc_KuemmereMichDrum { 私がやります。 }
+
+Teach_Animals { 動物の内臓を取り出す方法を教えてもらえますか？ }
+
+Teach_General { 何か教えてください。 }
+
+Acc_HelfeDir { わかった、手伝いますね。 }
+
+End_ÜberlegeNoch { まだ考え中です。 }
+
+Teach_Dagger { ダガーの使い方を教えてくれますか？ }
+
+Armor? { これらの鎧のパーツで何かできますか？ }
+
+Armor { この3つの鎧のパーツがあるんですが、これらから完全な鎧を作れますか？ }
+
+ArmorLight { できるだけ軽くて、動きやすいものがいいです。 }
+
+ArmorHeavy { 最大限の防御力を提供するものがいいです。 }
+
+ArmorDruid { 多くのルーンが刻まれた鎧。 }
+
+End_AnderesZuTun { 他にやることがある。 }
+
+LetsTraining { 戦いの準備はできてる？ }
+
+LetsRevance { 再戦の準備はできてる？ }
+
+NoTime_TrainingTime { 太陽が空高くにあるとき、私は訓練場にいるよ。そしたら戦えるね。 }
+
+Inf_WasMachstDuHier { ここで何をしているの？ }
+
+SLP_Dunkel { ドロヴァの空高くに太陽が昇ったら戻ってきて！ }
+
+Run_IchBinNochDabei { まだやってるよ… }
+
+SLP_Müde { 三日三晩ずっと寝ていられるけど…やることが多すぎる。いつもやることが多すぎる… }
+
+Teach_Training { 一緒にトレーニングしよう。 }
+
+LetsTraining_fromMorvin { プロキムスが私たちはトレーニングすべきだと言った。 }
+
+Inf_Crimes { 私の悪行について… }
+
+FightingArena { 今日は私たち二人がアリーナで戦うことになる。 }
+
+Teach_Mind { 魔力を高める方法を教えて。 }
+
+Teach_SpearSling_! { 槍とスリングショットの使い方を教えて。 }
+
+Teach_Axe_! { 斧の使い方を上達させる方法を教えて。 }
+
+SLP_Zeit { *あくび* 今はいいや… }
+
+Acc_BinDabei { 参加するよ！ }
+
+Teach_Power { 私の筋力を向上させる方法を教えて。 }
+
+End_NichtsZuTun { それには関わりたくない。 }
+
+Teach_Sword { 剣術を教えてくれますか？ }
+
+Teach_Lockpicking { ロックピッキングを教えてください。 }
+
+MeldDichBeiMir { 報告してください。 }
+
+HereIsMyMoney { こちらがコインです。 }
+
+PlayerSaysTheyDontHaveMoney { コインが足りません… }
+
+PlayCatch { 鬼ごっこをしませんか？ }
+
+OnlyNemetonTeaching { ネメトンの戦士たちにだけ教えます。 }
+
+Teach_Axe { 斧でより上手に戦う方法を教えてくれますか？ }
+
+HaveRostmoos { 私のところにラストモスがあります。要りますか？ }

@@ -1,0 +1,11 @@
+Title { 第 $GVAR:WorldVars.CurrentChapter$ 章 }
+
+Chapter1 { 到着 }
+
+Chapter2 { 原始の森 }
+
+Chapter3 { 探検 }
+
+Chapter4 { 赤い塔への道 }
+
+Chapter5 { 赤い塔 }
