@@ -1,6 +1,6 @@
-Inventory_AssignQuick_PC { クイックバー_1、クイックバー_2、クイックバー_3、クイックバー_4：クイックバーに割り当てる }
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: Assign to Quickbar }
 
-Inventory_AssignQuick_Joystick { クイックスロット割り当て + クイックバー_1 クイックバー_2 クイックバー_3 クイックバー_4：クイックバーに割り当てる }
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$ Assign to Quickbar }
 
 Inventory_GarbageToggle_show { ジャンクを表示 }
 

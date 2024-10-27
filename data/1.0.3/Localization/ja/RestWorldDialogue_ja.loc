@@ -654,7 +654,7 @@ R_Working_RunIntoRoom_326 { これは何だ？ }
 
 R_Working_RunIntoRoom_327 { ここには何かあるかもしれない。周りを探すのを手伝って！ }
 
-R_Working_RunIntoRoom_WarningPlayer_328 { 気をつけて！ guard に驚かれたくないからね！ }
+R_Working_RunIntoRoom_WarningPlayer_328 { 気をつけて！ ガードに驚かれたくないからね！ }
 
 GoToEggs_329 { こっちだ！ }
 
@@ -674,7 +674,7 @@ Library_IdleSecretRoom_336 { さっさと逃げよう！ }
 
 IDLE_AfterFight_337 { ルーンが機能しているぞ！ }
 
-IDLE_AfterFight_338 { ルーンはまだアクティブだ！ラッキーだね！ }
+IDLE_AfterFight_338 { ルーンはまだ機能している！なんて幸運だ！ }
 
 HitReceiver_339 { あのスプリッガに何をしたんだ？ }
 
