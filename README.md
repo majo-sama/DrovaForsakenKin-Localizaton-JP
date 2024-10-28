@@ -6,7 +6,7 @@
 ## 日本語化手順
 
 1.	当リポジトリをダウンロードし、解凍します
-2.	解凍後、「ja」フォルダのみを以下の場所に配置します
+2.	解凍後、「data/<バージョン番号>/Localization/ja」フォルダのみを以下の場所に配置します
     - `Drova_data\StreamingAssets\Localization\ja`
 3.	[日本語フォントを追加したアセット](https://drive.google.com/file/d/1Tw2N2z-un8ql25-rEbbkgX0C1w933d27/view?usp=sharing)をダウンロードし、Drova_data フォルダに配置します(元ファイルのバックアップを推奨)
 4.	ゲームを起動し、オプションから言語設定を新たに追加された「???」に変更します
