@@ -56,7 +56,7 @@ Plh_35 { 確かに、俺は下がっておいた方が良さそうだな。 }
 
 Plh_33 { もし本当にあいつらを追い払ったら、$GVAR:QuestVars_BanditMine_Config.Reward$のコインを渡すよ。ここでは良い仕事には必ず報酬があるからな。 }
 
-Plh_34 { でも、$GVAR:QuestVars_BanditMine_Config.Reward$のコインはお前の命には見合わない。お前のような有能な切り出し屋を失うことになるしな。 }
+Plh_34 { でも、$GVAR:QuestVars_BanditMine_Config.Reward$のコインはお前の命には見合わない。お前のような有能な鉱夫を失うことになるしな。 }
 
 Plh_36 { やっぱりまだ少しは理性が残っているようだな。 }
 

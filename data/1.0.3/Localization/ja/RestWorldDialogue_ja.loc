@@ -504,7 +504,7 @@ R_NialaRunToWoodcamp_251 { 急いで！ }
 
 R_AgiloGoToJola_252 { $GVAR:EVars_Player.Name$が私を送ってきた。 }
 
-R_AgiloGoToJola_253 { まだヒューアを探していると聞いたよ？ }
+R_AgiloGoToJola_253 { まだ鉱夫を探していると聞いたよ？ }
 
 R_AgiloGoToJola_254 { その通りだ。レヴィンに報告してくれ。 }
 
