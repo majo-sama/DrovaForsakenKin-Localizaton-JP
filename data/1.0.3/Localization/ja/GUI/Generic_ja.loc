@@ -1,17 +1,17 @@
 cancel { キャンセル }
 
-accept { 受け入れる }
+accept { 受諾 }
 
 yes { はい }
 
-no { No }
+no { いいえ }
 
-on { On }
+on { オン }
 
 off { オフ }
 
-holdToSkip { スキップするには長押ししてください }
+holdToSkip { 長押しでスキップ }
 
-gameModeChangeDesc { モードを変更すると、元に戻すことはできません。よろしいですか？ }
+gameModeChangeDesc { モード変更すると元に戻せません。よろしいですか？ }
 
 loadLatestPopUp { 最新のセーブデータを読み込みますか？ }
