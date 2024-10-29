@@ -1,3 +1,15 @@
+from pathlib import Path
+
+
+def list_entries_recusive(path: Path):
+    entries = []
+    for entry in path.iterdir():
+        entries.append(entry)
+        if entry.is_dir():
+            entries.extend(list_entries_recusive(entry))
+    return entries
+
+
 def read_data_to_dict(data: str) -> dict:
     """
     Read data from a string format into a dictionary.
