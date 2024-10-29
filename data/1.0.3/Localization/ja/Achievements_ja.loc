@@ -8,7 +8,7 @@ Achievement_CengizWoodcampQuest_desc { チェンギズの部下全員が橋の�
 
 Achievement_LeftDeepMine_name { 下の方で }
 
-Achievement_LeftDeepMine_desc { 残党のキャンプにある深い鉱山から脱出せよ。 }
+Achievement_LeftDeepMine_desc { はぐれ者のキャンプにある深い鉱山から脱出せよ。 }
 
 Achievement_HelpedGeorg_name { 戦いと狐の物語 }
 
@@ -18,9 +18,9 @@ Achievement_JoinNemeton_name { 家族の一員 }
 
 Achievement_JoinNemeton_desc { ネメトンに参加せよ。 }
 
-Achievement_JoinRuinenlager_name { 残党に参加する }
+Achievement_JoinRuinenlager_name { はぐれ者に参加する }
 
-Achievement_JoinRuinenlager_desc { 残党に参加せよ。 }
+Achievement_JoinRuinenlager_desc { はぐれ者に参加せよ。 }
 
 Achievement_GotFamiliar_name { 私の活気あふれる小さなスパーク }
 
@@ -76,7 +76,7 @@ Achievement_Schnitzeljagd_desc { 自分だけのタリスマンを作ろう。 }
 
 Achievement_ArenaMaster_name { グラディエーター }
 
-Achievement_ArenaMaster_desc { 残党のキャンプでのアリーナバトルでトップに進もう。 }
+Achievement_ArenaMaster_desc { はぐれ者のキャンプでのアリーナバトルでトップに進もう。 }
 
 Achievement_Blackboard_name { コミュニティのために }
 
@@ -116,11 +116,11 @@ Achievement_GaveCayFamiliar_desc { ケイを救うために、自分の一部を
 
 Achievement_StoppedMurtaghAndMursel_name { 私は法だ。 }
 
-Achievement_StoppedMurtaghAndMursel_desc { 残党のキャンプにあるピットに正義をもたらせ。 }
+Achievement_StoppedMurtaghAndMursel_desc { はぐれ者のキャンプにあるピットに正義をもたらせ。 }
 
 Achievement_LeftMine100Silver_name { その銀は私のものだ！ }
 
-Achievement_LeftMine100Silver_desc { 残党のキャンプにあるピットを出るとき、ポケットに100銀を持っていけ。 }
+Achievement_LeftMine100Silver_desc { はぐれ者のキャンプにあるピットを出るとき、ポケットに100銀を持っていけ。 }
 
 Achievement_UndertookJourneyToRoots_name { 原始の森と一体となれ。 }
 

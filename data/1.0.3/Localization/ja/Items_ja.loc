@@ -70,7 +70,7 @@ key_chest_delani_description { デラニの宝箱の鍵。 }
 
 note_evidence_boris_name { 計画された待ち伏せ }
 
-note_evidence_boris_description { 私は残党のキャンプの外で盗賊からこれを奪いました。 }
+note_evidence_boris_description { 私ははぐれ者のキャンプの外で盗賊からこれを奪いました。 }
 
 item_stolenPackage_name { 盗まれた荷物 }
 
@@ -106,7 +106,7 @@ note_debtorlist_description { 多くの人が借金を抱えています。私�
 
 key_ratcellar_name { 地下室の鍵 }
 
-key_ratcellar_description { 残党のキャンプにある酒場の地下室の鍵。 }
+key_ratcellar_description { はぐれ者のキャンプにある酒場の地下室の鍵。 }
 
 weapon_axe_bady_dull_name { バディの鈍い斧。 }
 
@@ -658,7 +658,7 @@ consumable_potion_darkbrew_healing_name { ダークブリュー。 }
 
 key_mursel_mine_name { 銀鉱の鍵。 }
 
-key_mursel_mine_description { 残党のキャンプにあるピットのバンカーハウスの鍵。 }
+key_mursel_mine_description { はぐれ者のキャンプにあるピットのバンカーハウスの鍵。 }
 
 key_tristanBillKey_name { 上の酒場の鍵。 }
 
@@ -778,7 +778,7 @@ cons_flow_root_aoe_name { ルートサークル }
 
 cons_flow_root_aoe_description { あなたは周囲の敵をつかむ根を召喚し、[TimeAbs]秒間拘束します。 }
 
-item_escortLetter_name { お知らせ：残党のキャンプへの護衛 }
+item_escortLetter_name { お知らせ：はぐれ者のキャンプへの護衛 }
 
 item_blackboard_woodcamp_name { お知らせ：木こりのキャンプ }
 
@@ -1174,7 +1174,7 @@ armor_chest_nemeton_craftsman_name_name { ネメトンの職人の衣装 }
 
 armor_chest_nemeton_chief_name_name { ネメトンの指導者の鎧 }
 
-armor_chest_ruinenlager_chief_name_name { レムナントの指導者の鎧 }
+armor_chest_ruinenlager_chief_name_name { はぐれ者の指導者の鎧 }
 
 item_mumbertDiarrhoea_name { スパイクビール }
 
@@ -1608,9 +1608,9 @@ helmet_nemeton_guard1_name_name { ネメトンライトヘルメット }
 
 helmet_nemeton_guard2_name_name { ネメトンヘビーヘルメット }
 
-helmet_ruinenlager_guard1_name_name { レムナントシンプルヘルメット }
+helmet_ruinenlager_guard1_name_name { はぐれ者シンプルヘルメット }
 
-helmet_ruinenlager_guard2_name_name { レムナントヘビーヘルメット }
+helmet_ruinenlager_guard2_name_name { はぐれ者ヘビーヘルメット }
 
 helmet_cauldron_name_name { 大釜 }
 
@@ -1692,7 +1692,7 @@ note_naughty_female_description { 美しい裸の女性の絵。素晴らしい�
 
 misc_map_nemeton_name { ネメトンの地図 }
 
-misc_map_ruincamp_name { 残党のキャンプの地図 }
+misc_map_ruincamp_name { はぐれ者のキャンプの地図 }
 
 misc_map_leuchtwald_name { 原始の森の地図 }
 
@@ -1924,7 +1924,7 @@ recipe_flow_poisonArrow_name { 能力: 毒矢 }
 
 key_tavernKey_Cellar_name { 地下室の鍵 }
 
-key_tavernKey_Cellar_description { 残党のキャンプにある酒場の地下室の鍵。 }
+key_tavernKey_Cellar_description { はぐれ者のキャンプにある酒場の地下室の鍵。 }
 
 helmet_none_name { ID: ヘルメットなし }
 
