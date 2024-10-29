@@ -102,13 +102,13 @@ ExtractSecretion { イコールを抽出するためには、腺の端を押し�
 
 BrewPotion { 乳鉢と杵を使い、適切な熱を加え、慎重に計量することで…あなたは今、それらすべてを行うことができます。しかし、最も重要なのは良いレシピです！ }
 
-LearnIntro { 何を学びたいですか？ }
+LearnIntro { 何を学びたい？ }
 
 CantTeachAnymore { 私が教えることはもう何もありません。 }
 
 CantTeachAnymore1 { あなたが私に教えられることはすべて学びました。 }
 
-CantTeachAnymore2 { 別の先生を見つける必要があります。私が教えることはもう何も残っていません。 }
+CantTeachAnymore2 { 別の先生を見つける必要がある。私が教えることはもう何も残っていない。 }
 
 ComeBackSoon { 準備ができたら戻ってきてください。 }
 
