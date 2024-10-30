@@ -598,7 +598,7 @@ key_chest_mineBanditEntry_name { 錆びた鍵 }
 
 key_chest_mineBanditEntry_description { 盗賊から見つけた。 }
 
-item_runestone_description { このルーンストーンは、力強いイノシシの魔法の力への直接的な接続を提供します。これを使うことで、いつでも呪文を唱えることができます。 }
+item_runestone_description { このルーンストーンは、マイティボアの魔法の力への直接的な接続を提供します。これを使うことで、いつでも呪文を唱えることができます。 }
 
 cons_Familiar_Firefly_name { スパーク }
 

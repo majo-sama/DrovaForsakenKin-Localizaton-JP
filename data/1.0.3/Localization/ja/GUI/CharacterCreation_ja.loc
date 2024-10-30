@@ -46,17 +46,17 @@ Souvenir_Money_Tooltip { あなたはコインパースを持たずに家を出�
 
 Souvenir_Health { ライフの指輪 }
 
-Souvenir_Health_Tooltip { この指輪にはライフのエッセンスが注入されています。あなたの健康が増加します。 }
+Souvenir_Health_Tooltip { この指輪にはライフのエッセンスが注入されています。あなたの健康値が増加します。 }
 
 Souvenir_Thief { ロックピック }
 
-Souvenir_Thief_Tooltip { 運は…そう、自分の運を切り開く者に味方する。 }
+Souvenir_Thief_Tooltip { 運は…そう、自分で道を切り開く者に味方する。 }
 
 Souvenir_Strength { 力の指輪 }
 
 Souvenir_Strength_Tooltip { あなたは肉体的な強さを重視しています。この指輪はまさにそのためのものです。 }
 
-GameMode_Normal_Tooltip { おすすめの設定です。ドロヴァは危険です。誰に手を出すか気をつけて！ }
+GameMode_Normal_Tooltip { おすすめの設定です。ドロヴァは危険です。手を出す相手には気をつけて！ }
 
 GameMode_Immersive_Tooltip { 自分の決断に責任を持ちましょう。セーブデータは一つだけで、ゲームは自動的にセーブされます。 }
 
@@ -64,11 +64,11 @@ InvalidName { この名前は使用できません！ }
 
 HardcoreMode { ハードコア }
 
-GameMode_Hardcore_Tooltip { 究極の挑戦。あなたには一度きりの命と一つのセーブデータしかありません。 }
+GameMode_Hardcore_Tooltip { 究極の挑戦。人生は一度きり、セーブデータも1つだけ。 }
 
 UseKeyboard { キーボードを使って名前を入力してください！ }
 
-GameMode_Story_Tooltip { あなたはより多くのダメージを与え、より多くのダメージを受けることができます。 }
+GameMode_Story_Tooltip { あなたはより多くのダメージを与え、より多くのダメージに耐えます。 }
 
 Story_PopUp { 本当にExplorerモードでDrovaをプレイしますか？<br><br>あなたはより多くのダメージを与え、より耐えることができます。オプションでダメージ値をカスタマイズし、ExplorerモードとClassicモードを自由に切り替えることができます。<br><br>いつでもセーブとロードが可能です。 }
 
