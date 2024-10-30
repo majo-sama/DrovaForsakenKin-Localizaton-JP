@@ -1,4 +1,4 @@
-Achievement_ImmersiveMod_name { 鉄 }
+Achievement_ImmersiveMod_name { アイアン }
 
 Achievement_ImmersiveMod_desc { セーブモードをアイアンに設定してゲームをクリアしよう。 }
 
@@ -156,9 +156,9 @@ Achievement_FoundAtlanterWeapon_desc { 古代の武器を見つけよう。 }
 
 Achievement_CraftedEpicArmor_name { 何もあなたを傷つけることはない！ }
 
-Achievement_CraftedEpicArmor_desc { 過去の鎧を受け取れ。 }
+Achievement_CraftedEpicArmor_desc { 古き者の鎧を受け取れ。 }
 
-Achievement_WonAgainstBrutus_name { 過去の最後の主権者 }
+Achievement_WonAgainstBrutus_name { 古き者の最後の主権者 }
 
 Achievement_WonAgainstBrutus_desc { ドリヴァニウスを倒せ。 }
 

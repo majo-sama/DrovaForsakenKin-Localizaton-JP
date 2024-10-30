@@ -716,7 +716,7 @@ cons_flow_bloodRage_description { [WeaponDamagePercent]の武器ダメージを�
 
 item_rubin_name { ルビー }
 
-item_atlanterAcademyText_name { 過去の者たちのドロヴァへの旅 }
+item_atlanterAcademyText_name { 古き者のドロヴァへの旅 }
 
 cons_flow_blink_name { ミスティ・ステップ }
 
@@ -958,7 +958,7 @@ item_fishpan_name { 魚の炒め物 }
 
 item_roastedcallamushroom_name { フライドカラッシュルーム }
 
-item_roastofthepast_name { 過去のロースト }
+item_roastofthepast_name { 古き者のロースト }
 
 item_mudmash_name { オラフの肉シチュー }
 
@@ -1016,7 +1016,7 @@ armor_chest_tunic_name_description { 作業服。あまり多くの保護は提�
 
 helmet_antlers_name_name { シカのヘルメット }
 
-helmet_draugr_silver_name_name { 過去のヘルメット }
+helmet_draugr_silver_name_name { 古き者のヘルメット }
 
 helmet_earprotection_name_name { 耳保護具 }
 
@@ -1024,7 +1024,7 @@ helmet_ironwings_name_name { 鉄の翼のヘルメット }
 
 helmet_legionare_name_name { レギオネアヘルメット }
 
-Raven { マスク名 { カラスのマスク }
+Raven Mask_name { カラスの覆面 }
 
 quiver_simple_name_name { シンプルなクイバー }
 
@@ -1182,11 +1182,11 @@ item_mumbertDiarrhoea_description { ハンバートからアスムスへ }
 
 item_marinatedmeatleg_name { ティアのマリネされた肉のシャンク }
 
-item_letterCityDungeon_0_name { ドロヴァ IV の不安 }
+item_letterCityDungeon_0_name { ドロヴァの不安 IV }
 
-item_letterCityDungeon_1_name { ドロヴァ V の不安 }
+item_letterCityDungeon_1_name { ドロヴァの不安 V }
 
-item_letterCityDungeon_2_name { ドロヴァ VI の不安 }
+item_letterCityDungeon_2_name { ドロヴァの不安 VI }
 
 item_letterCityDungeon_3_name { 古い楽譜 }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { 私の芸術的才能のおかげで、�
 
 misc_riddle_deer_name { 銀の角 }
 
-misc_riddle_deer_description { 過去の魔法の遺物。神々にインスパイアされた。 }
+misc_riddle_deer_description { 古き者の魔法の遺物。神々の力を模倣したもの。 }
 
 misc_riddle_fox_name { 銀の爪 }
 
@@ -1268,7 +1268,7 @@ item_atlanter_wine_name { 過ぎ去りしワイン }
 
 item_atlanter_wine_description { ヴィンテージ：不明。 }
 
-item_herb_past_name { 過ぎ去りし癒しのハーブ }
+item_herb_past_name { 古き者の癒しのハーブ }
 
 item_herb_past_description { 古代のものであるが、依然としていくつかの癒しの特性を持っている。 }
 
@@ -1676,9 +1676,9 @@ helmet_mushroom_name_name { キノコの帽子 }
 
 helmet_mushroom_name_description { もし私が砂に埋もれて頭だけを出したら、誰か私を助けてくれるだろうか？ }
 
-helmet_draugr_dark_name_name { 過ぎ去りし暗黒のヘルメット }
+helmet_draugr_dark_name_name { 古き者の暗黒のヘルメット }
 
-helmet_draugr_mage_name_name { 過ぎ去りし魔法使いダークヘルメット }
+helmet_draugr_mage_name_name { 古き者の暗黒魔法使いのヘルメット }
 
 item_sheepfur_name { 羊毛皮 }
 
@@ -1804,7 +1804,7 @@ item_HiddenTreasure_name { 隠された宝物 }
 
 item_blackboard_Butterflies_name { お知らせ：グローブを助けてください }
 
-item_letterAtlanter_Arrival_name { 過去の者たちの到来 }
+item_letterAtlanter_Arrival_name { 古き者の到来 }
 
 category_keysAndQuestItems { 鍵とクエストアイテム }
 
@@ -1890,7 +1890,7 @@ category_crafting { クラフト素材 }
 
 category_saleitems { 雑貨、販売アイテム、ゴミ }
 
-item_letterAtlanter_Shrines_name { 過去の神殿 }
+item_letterAtlanter_Shrines_name { 古き者の神殿 }
 
 item_letterCityDungeon_GodPaintings_name { 神々を描いた壁画 }
 
@@ -1926,7 +1926,7 @@ key_tavernKey_Cellar_name { 地下室の鍵 }
 
 key_tavernKey_Cellar_description { はぐれ者のキャンプにある酒場の地下室の鍵。 }
 
-helmet_none_name { ID: ヘルメットなし }
+helmet_none_name { Id: helmet_none }
 
 recipe_silverringstrength_2_name { レシピ: ダラノットのリング }
 
@@ -2034,6 +2034,6 @@ recipe_throwingknife_name { レシピ：投げナイフ }
 
 item_letterAtlanter_Extractor2_description {  }
 
-item_letterAtlanter_Armor_name { 過去の鎧 }
+item_letterAtlanter_Armor_name { 古き者の鎧 }
 
 item_letterAtlanter_Armor_description {  }
