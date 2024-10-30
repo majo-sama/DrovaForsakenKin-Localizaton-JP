@@ -24,7 +24,7 @@ Dodge { 移動ボタンを押し続けて、$INPUTANIM:Dodge$を押すと、そ�
 
 Inventory { $INPUTANIM:Inventory$を押してインベントリを開こう。ここからアイテムをクイックバーにドラッグしたり、アイテムを装備したり使用したりできるよ。 }
 
-SwitchWeapon { 新しいタイプの武器を見つけた！Drovaにはいくつかの異なる武器タイプがあるから、試してみて自分に合ったものを見つけよう。<br>自由にカスタマイズできる武器セットが2つあるよ。$INPUTANIM:SwapWeaponSet$で切り替えられるから、使ってみてね。 }
+SwitchWeapon { 新しいタイプの武器を見つけた！ドロヴァにはいくつかの異なる武器タイプがあるから、試してみて自分に合ったものを見つけよう。<br>自由にカスタマイズできる武器セットが2つあるよ。$INPUTANIM:SwapWeaponSet$で切り替えられるから、使ってみてね。 }
 
 Perception_03_Controller { $INPUTANIM:PerceptionMode$を押して調査モードを起動しよう。オブジェクトを調べるには、その近くに立って$INPUTANIM:LookX$を使ってその方向を見てね。 }
 

@@ -1,10 +1,10 @@
 Key_Shift { Shift }
 
-control_mousebutton_left { Left Click }
+control_mousebutton_left { Left-Click }
 
-control_mousebutton_right { Right Click }
+control_mousebutton_right { Right-Click }
 
-control_keycode_space { Space }
+control_keycode_space { SPACE }
 
 control_keycode_control { Ctrl }
 
@@ -124,11 +124,11 @@ action_PrevPanel { 前のタブ }
 
 action_NextPanel { 次のタブ }
 
-action_Lockpick_Left { ミニゲームが残っています。 }
+action_Lockpick_Left { 左へ（ミニゲーム） }
 
-action_Lockpick_Right { ミニゲームが右にあります。 }
+action_Lockpick_Right { 右へ（ミニゲーム） }
 
-action_GuiScrollY { スクロールインターフェース }
+action_GuiScrollY { UIをスクロール }
 
 action_PlayNote_1 { ノート1 }
 
@@ -140,11 +140,11 @@ action_PlayNote_4 { ノート4 }
 
 action_MoveX { 移動 }
 
-action_MoveY { 動き }
+action_MoveY { 移動 }
 
 action_LookX { 周りを見る }
 
-action_lookY { 周囲を見渡す }
+action_lookY { 周りを見る }
 
 action_HelpUp { 手伝う }
 
@@ -152,7 +152,7 @@ action_Abilities { アビリティ }
 
 action_Squat { しゃがむ }
 
-action_DialogSkip { ダイアログをスキップ }
+action_DialogSkip { 会話をスキップ }
 
 action_CraftingMenu { クラフトメニュー }
 
