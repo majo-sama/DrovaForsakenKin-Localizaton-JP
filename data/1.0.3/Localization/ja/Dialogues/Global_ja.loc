@@ -44,41 +44,41 @@ Teach_Smith { あなたの技術について何か教えて。 }
 
 showMeWares { あなたの品物を見せて。 }
 
-Inf_IchSchauMichUm { ただ見て回っているだけです。 }
+Inf_IchSchauMichUm { ただ見て回っているだけだ。 }
 
-Inf_HabeFrage { 質問があります… }
+Inf_HabeFrage { 質問がある… }
 
-ShowMeSkills { 新しいスキルを学びたいです。 }
+ShowMeSkills { 新しいスキルを学びたい。 }
 
-Teach_Sword_! { 剣での戦い方をもっと上手に教えてください。 }
+Teach_Sword_! { 剣での戦い方をもっと上手に教えてほしい。 }
 
-Teach_Dagger_! { ダガーでの戦い方をもっと上手に教えてください。 }
+Teach_Dagger_! { ダガーでの戦い方をもっと上手に教えてほしい。 }
 
-End_IchGehDannMal { 今から出かけます。 }
+End_IchGehDannMal { もういくよ。 }
 
-End_VlltSpäter { 後でかもしれません。 }
+End_VlltSpäter { 後でにしてくれ }
 
-Acc_KuemmereMichDrum { 私がやります。 }
+Acc_KuemmereMichDrum { 私がやる。 }
 
-Teach_Animals { 動物の内臓を取り出す方法を教えてもらえますか？ }
+Teach_Animals { 動物の内臓を取り出す方法を教えてもらえないか？ }
 
-Teach_General { 何か教えてください。 }
+Teach_General { 技能を教えてほしい。 }
 
-Acc_HelfeDir { わかった、手伝いますね。 }
+Acc_HelfeDir { わかった、手伝おう。 }
 
-End_ÜberlegeNoch { まだ考え中です。 }
+End_ÜberlegeNoch { まだ考え中だ。 }
 
-Teach_Dagger { ダガーの使い方を教えてくれますか？ }
+Teach_Dagger { ダガーの使い方を教えてくれないか？ }
 
-Armor? { これらの鎧のパーツで何かできますか？ }
+Armor? { この鎧のパーツで何かできるか？ }
 
-Armor { この3つの鎧のパーツがあるんですが、これらから完全な鎧を作れますか？ }
+Armor { 3つの鎧のパーツから完全な鎧を作れるか？ }
 
-ArmorLight { できるだけ軽くて、動きやすいものがいいです。 }
+ArmorLight { できるだけ軽くて、動きやすいものがいい。 }
 
-ArmorHeavy { 最大限の防御力を提供するものがいいです。 }
+ArmorHeavy { 最大限の防御力を提供するものがいい。 }
 
-ArmorDruid { 多くのルーンが刻まれた鎧。 }
+ArmorDruid { 多くのルーンが刻まれた鎧だ。 }
 
 End_AnderesZuTun { 他にやることがある。 }
 
@@ -102,7 +102,7 @@ LetsTraining_fromMorvin { プロキムスが私達はトレーニングすべき
 
 Inf_Crimes { 私の悪行について… }
 
-FightingArena { 今日は私達二人がアリーナで戦うことになる。 }
+FightingArena { 今日は私達二人はアリーナで戦うことになる。 }
 
 Teach_Mind { 魔力を高める方法を教えて。 }
 
@@ -118,20 +118,20 @@ Teach_Power { 私の筋力を向上させる方法を教えて。 }
 
 End_NichtsZuTun { それには関わりたくない。 }
 
-Teach_Sword { 剣術を教えてくれますか？ }
+Teach_Sword { 剣術を教えてくれないか？ }
 
-Teach_Lockpicking { ロックピッキングを教えてください。 }
+Teach_Lockpicking { ロックピッキングを教えてほしい。 }
 
-MeldDichBeiMir { 報告してください。 }
+MeldDichBeiMir { 報告してくれ。 }
 
-HereIsMyMoney { こちらがコインです。 }
+HereIsMyMoney { さあ、コインだ。 }
 
 PlayerSaysTheyDontHaveMoney { コインが足りません… }
 
 PlayCatch { 鬼ごっこをしませんか？ }
 
-OnlyNemetonTeaching { ネメトンの戦士たちにだけ教えます。 }
+OnlyNemetonTeaching { 教えられるのは、ネメトンの戦士たちにだけだ。 }
 
-Teach_Axe { 斧でより上手に戦う方法を教えてくれますか？ }
+Teach_Axe { 斧でより上手に戦う方法を教えてくれないか？ }
 
-HaveRostmoos { 私のところにラストモスがあります。要りますか？ }
+HaveRostmoos { ラストモスを持っている。興味はないか？ }
