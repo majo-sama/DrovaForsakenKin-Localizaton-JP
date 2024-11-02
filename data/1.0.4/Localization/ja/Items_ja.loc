@@ -38,7 +38,7 @@ item_honey_name { ハニー }
 
 item_packageToMoorlager_name { 商品パケット }
 
-item_packageToMoorlager_description { ネメトンのアンガスのためのジョージからの品物。 }
+item_packageToMoorlager_description { ネメトンのアンガスのためのゲオルグからの品物。 }
 
 item_letterToAsmus_sealed_name { アスムスへの手紙 }
 
@@ -1986,7 +1986,7 @@ item_Map_Treasure_Forest_name { 宝物: 針葉樹の森 }
 
 item_Map_Treasure_Garden_name { 宝物: 遺跡 }
 
-item_Map_Treasure_GeorgsFarm_name { 宝物: ジョージファーム }
+item_Map_Treasure_GeorgsFarm_name { 宝物: ゲオルグ農場 }
 
 item_Map_Treasure_Heath_name { 宝物: ヒース }
 
