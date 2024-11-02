@@ -1244,7 +1244,7 @@ weapon_sword_karottegladius_description { 幅広のニンジンが彫り込ま�
 
 item_karottegladius_broken_name { カロッテの損傷した武器 }
 
-item_karottegladius_broken_description { チュンナイクはこの武器を修理できるはずだ。 }
+item_karottegladius_broken_description { チュナイクはこの武器を修理できるはずだ。 }
 
 item_letterboard_fragment_name { タブレットの破片 }
 
@@ -1848,7 +1848,7 @@ key_chest_BanditCamp_name { ヘビーキー }
 
 key_chest_BanditCamp_description { 一群の盗賊から奪った大きな鍵。 }
 
-item_chunnaic_diamond_name { チュンナイクのダイヤモンド }
+item_chunnaic_diamond_name { チュナイクのダイヤモンド }
 
 item_roastedMeat_t2_name { ジューシーな揚げ肉 }
 
