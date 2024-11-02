@@ -70,15 +70,15 @@ talent_slingshot_01_desc { あなたが与えるダメージを[DamageValuePerce
 
 talent_slingshot_02_desc { あなたが与えるダメージを[DamageValuePercent]増加させ、姿勢ダメージを[PoiseValuePercent]増加させます。 }
 
-talent_axe_01 { 基本的な斧の戦い方 }
+talent_axe_01 { 基本的な斧術 }
 
 talent_axe_01_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させます。武器の能力「ブラッドフレンジー」を習得します。 }
 
-talent_axe_02 { 訓練された斧の戦い方 }
+talent_axe_02 { 訓練された斧術 }
 
 talent_axe_02_desc { 与えるダメージを[DamageValuePercent]増加させ、3回目のコンボ攻撃を解放します。 }
 
-talent_axe_03 { 達人の斧の戦い方 }
+talent_axe_03 { 達人の斧術 }
 
 talent_axe_03_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させます。 }
 
@@ -94,7 +94,7 @@ talent_extractsecretion { イコールを抽出する }
 
 talent_extractsecretion_desc { 特定の動物からイコールを抽出することができます。イコールはポーションの醸造やクラフトに必要です。 }
 
-talent_tearclaws { 動物の内臓を取り出す }
+talent_tearclaws { 爪剥ぎ }
 
 talent_tearclaws_desc { いくつかの動物の爪や歯を取り外すことができます。爪は販売でき、歯はクラフトに使用できます。 }
 
@@ -110,7 +110,7 @@ talent_smith_02 { 熟練の技術 }
 
 talent_smith_02_desc { 危険な罠、アイテム、弾薬をクラフトすることができます。 }
 
-talent_stripfur { 動物の皮を剥ぐ }
+talent_stripfur { 皮剥ぎ }
 
 talent_stripfur_desc { いくつかの動物の皮を剥ぐことができます。皮を売ったり、クラフトに使用したりすることができます。 }
 

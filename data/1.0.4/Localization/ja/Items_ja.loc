@@ -826,7 +826,7 @@ cons_flow_bullRush_description { 前方に突進し、[DamageFlexAbs]の物理�
 
 cons_flow_ferventCry_name { 熱烈な叫び }
 
-cons_flow_ferventCry_description { [TimeAbs]秒間、あなたのダメージ耐性を[DamageResPercent]増加させます。 }
+cons_flow_ferventCry_description { [TimeAbs]秒間、物理ダメージ耐性を[DamageResPercent]増加させます。 }
 
 item_crowtrap_name { カラスの足跡 }
 
@@ -1024,7 +1024,7 @@ helmet_ironwings_name_name { 鉄の翼のヘルメット }
 
 helmet_legionare_name_name { レギオネアヘルメット }
 
-Raven Mask_name { カラスの覆面 }
+Raven { Mask_name { カラスの覆面 }
 
 quiver_simple_name_name { シンプルなクイバー }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { 出血効果はそのダメージをより早�
 
 item_vipertooth_name { バイパーの牙 }
 
-item_vipertooth_description { 毒の減速効果は[SlowPercent]によって増加します。 }
+item_vipertooth_description { 毒の減速効果は[SlowPercent]によって増加する。 }
 
 item_mastersmemory_name { マスターのベルト }
 
@@ -1704,7 +1704,7 @@ misc_worldmap_shrines_name { 神殿の地図 }
 
 armor_chest_ruinenlager_gladiator_name { 剣闘士の鎧 }
 
-armor_chest_ruinenlager_gladiator_description { 失った健康の1%ごとに、受けるダメージが1%減少します — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は私のものだ。 }
+armor_chest_ruinenlager_gladiator_description { 失った健康の%ごとに、受けるダメージが1%減る — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は俺の手の中にある。 }
 
 misc_bagOfCurrency_big_name { コインで満たされた大きなポーチ }
 

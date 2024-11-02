@@ -8,7 +8,7 @@ PoisonDescription { 移動速度が[MovementPercent]減少します。 }
 
 Bleeding { 出血 }
 
-BleedingDescription { 毎秒、体力が減少します。 }
+BleedingDescription { 時間が経つにつれて、体力が減っていく。 }
 
 SleepBuff_T2 { 十分に休息した }
 

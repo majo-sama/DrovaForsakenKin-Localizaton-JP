@@ -70,7 +70,7 @@ Journal { 新しい日記のエントリーを作成しました。<br>$INPUTANI
 
 Journal_Gamepad { 新しい日記のエントリーを作成しました。<br>$INPUTANIM:Inventory$ を押してメニューを開き、$INPUTANIM:PrevPanel$ と $INPUTANIM:NextPanel$ を使って日記タブにアクセスしましょう。<br>そこから、いつでもクエストの現在の進行状況を確認できます。 }
 
-FirstConsFlow_Gamepad { 呪文のスクロールを見つけました。<br>$INPUTANIM:OpenAbilities$ を押してメニューを開き、$INPUTANIM:PrevPanel$ と $INPUTANIM:NextPanel$ を使ってアビリティタブにアクセスしましょう。そこから呪文のスクロールを装備できます。<br>呪文のスクロールは難しい戦闘で優位に立つ手助けをしてくれますので、ため込む意味はありません。 }
+FirstConsFlow_Gamepad { 呪文のスクロールを見つけました。<br>メニューを開いて、$INPUTANIM:PrevPanel$ と $INPUTANIM:NextPanel$ を使ってアビリティタブにアクセスしましょう。そこから呪文のスクロールを装備できます。<br>呪文のスクロールは厳しい戦闘で有利に働くので、どんどん使ってしまいましょう。 }
 
 FirstThrow { 消耗品を見つけました！<br>$INPUTANIM:Inventory$ を押してインベントリを開きましょう。<br>ここからアイテムをクイックバーにドラッグできます。 }
 
