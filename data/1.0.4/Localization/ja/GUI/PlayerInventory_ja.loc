@@ -1,0 +1,59 @@
+title_character_segment { キャラクター }
+
+label_character_level { レベル }
+
+tooltip_character_level { 現在のレベルを表示します。これはあなたのキャラクターの強さを示しています。 }
+
+tooltip_character_faction { 現在の忠誠を表示します。 }
+
+tooltip_character_skillpoints { 学習ポイントを使って能力値を上げたり、教師から新しい才能を学んだりできます。新しいレベルごとに、<color=#55BD55>4</color>つの学習ポイントと<color=#55BD55>5</color>つの体力ポイントが与えられます。 }
+
+label_character_skillpoints { 学習ポイント }
+
+tooltip_character_xp { 敵を倒したり、タスクを完了したりすることで経験値を得られます。 }
+
+label_attributes_hitpoints { 健康 }
+
+tooltip_attributes_hitpoints { 健康がゼロになると、キャラクターは死亡します。 }
+
+tooltip_attributes_stamina { スタミナは、ブロック、回避、そして重い攻撃に使用されます。 }
+
+label_attributes_stamina { スタミナ }
+
+tooltip_attributes_flow { フォーカスは、アビリティに使用されます。ダメージを与えることで生成され、時間の経過やダメージを受けることで消失します。 }
+
+label_attributes_flow { フォーカス }
+
+tooltip_attributes_power { プラウェスは、あなたの属性スコアの合計であり、特定の武器を扱うための前提条件となります。 }
+
+tooltip_attributes_strength { 力は、あなたが与える物理ダメージを[VALUE]増加させます。 }
+
+tooltip_attributes_dexterity { 敏捷性は、あなたのクリティカルヒットの確率を[VALUE]増加させます。クリティカルヒットを受けた対象は出血し、武器の種類に応じて追加ダメージを受けます。 }
+
+tooltip_attributes_mind { 精神は、あなたの魔法ダメージを[VALUE1]増加させ、基本フォーカスを[VALUE2]増加させます。 }
+
+label_attributes_armor { アーマー }
+
+tooltip_attributes_armor { 受ける物理ダメージを軽減します。 }
+
+tooltip_attributes_magic_resistance { 受ける魔法ダメージを軽減します。 }
+
+label_attributes_magic_resistance { 魔法耐性 }
+
+title_equipment_segment { 装備 }
+
+title_directquickbar_segment { クイックバー }
+
+faction_none { 無派閥 }
+
+faction_nemeton { ネメトン }
+
+faction_ruincamp { はぐれ者のキャンプ }
+
+title_ammo { 弾薬 }
+
+totalFIghtingStrength { 腕前 }
+
+baseFightingStrength { 基本腕前 }
+
+baseFightingStrengthDesc { 基本腕前は、装備からの追加ボーナスを除いたあなたの属性の合計であり、才能の要件と見なされます。 }

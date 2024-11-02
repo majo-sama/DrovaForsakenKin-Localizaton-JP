@@ -1,0 +1,103 @@
+Movement_Gamepad { $MOVEMENT$を押して移動しよう。 }
+
+Movement_Keyboard { $MOVEMENT$を押して移動しよう。 }
+
+LookDirection { マウスを動かして周りを見渡そう。視線は歩いている方向によって変わるよ。反対方向を向くと、キャラクターは後ろ向きに歩き、より遅くなるから注意してね。 }
+
+LookDirection_Gamepad { $INPUTANIM:LookX$を使って周りを見ない限り、向いている方向に移動するよ。反対方向を向くと、キャラクターは後ろ向きに歩き、より遅くなるから気をつけてね。 }
+
+Perception_01 { $INPUTANIM:PerceptionMode$を押し続けて、より詳しく周りを見渡そう。これで、物の後ろや霧の向こうを見ることができるよ。 }
+
+Perception_01_Gamepad { $INPUTANIM:PerceptionMode$を押して調査モードを起動しよう。これで、物の後ろや霧の向こうを見ることができるよ。 }
+
+Perception_02 { もっと詳しく周りを見渡すと、普段は見えないものを明らかにできるよ。例えば、足跡とかね。 }
+
+ChangeStance { $INPUTANIM:DrawWeapon$を押して武器を抜いたりしまったりしよう。武器を抜いた状態で$INPUTANIM:Attack_Primary$で攻撃してね。 }
+
+EngageCombat { 武器を抜いているときだけ、$INPUTANIM:Attack_Primary$で攻撃できるよ！ }
+
+Interact { アイテムや人とインタラクトするには$INPUTANIM:Interact$を使おう。武器を抜いている間は、全くインタラクトできないから注意してね。<br>武器は$INPUTANIM:DrawWeapon$でしまってね。 }
+
+Perception_03 { 一部のオブジェクトは、より詳しく調べることができるよ。$INPUTANIM:PerceptionMode$を押し続けて、頭上の目のシンボルが完全に満たされるまで待ってね。 }
+
+Dodge { 移動ボタンを押し続けて、$INPUTANIM:Dodge$を押すと、その方向に回避できるよ。回避するとスタミナを消費するから注意してね。スタミナはキャラクターの下に表示されるよ。 }
+
+Inventory { $INPUTANIM:Inventory$を押してインベントリを開こう。ここからアイテムをクイックバーにドラッグしたり、アイテムを装備したり使用したりできるよ。 }
+
+SwitchWeapon { 新しいタイプの武器を見つけた！ドロヴァにはいくつかの異なる武器タイプがあるから、試してみて自分に合ったものを見つけよう。<br>自由にカスタマイズできる武器セットが2つあるよ。$INPUTANIM:SwapWeaponSet$で切り替えられるから、使ってみてね。 }
+
+Perception_03_Controller { $INPUTANIM:PerceptionMode$を押して調査モードを起動しよう。オブジェクトを調べるには、その近くに立って$INPUTANIM:LookX$を使ってその方向を見てね。 }
+
+Abilities_02 { 新しい能力を習得した！すでに自動的に装備されているよ。$INPUTANIM:SpellMenu$を押して能力メニューを開き、新しい能力を詳しく見たり、ホイールメニューの別のスロットに移動させたりしよう。ゲーム内では、ホイールメニュー($INPUTANIM:RingMenu$)を使ってアクティブな能力を変更できるよ。 }
+
+Abilities_02_Controller { 新しい能力を習得した！すでに自動的に装備されているよ。$INPUTANIM:Inventory$を押してメニューを開き、$INPUTANIM:PrevPanel$と$INPUTANIM:NextPanel$を使って能力タブにアクセスしよう。そこから新しい能力を詳しく見たり、ホイールメニューの別のスロットに移動させたりできるよ。ゲーム内では、ホイールメニュー($INPUTANIM:RingMenu$)を使ってアクティブな能力を変更できるよ。 }
+
+Abilities_03 { 初めての能力を装備した！能力を切り替えるには、$INPUTANIM:RingMenu$を押し続けて、アクティブに使いたい能力を選択しよう。 }
+
+FoodAndHeal { 時間が経つにつれて、食べ物と回復アイテムの両方が健康を回復します。回復アイテムとは異なり、食べ物は健康をよりゆっくり回復しますが、健康バーが満タンになると再生プロセスは一時停止します。さらに、バフがアクティブな限り、食べ物は追加の効果も与えます。 }
+
+FirstHeal { 回復植物を見つけた！<br>$INPUTANIM:Inventory$を押してインベントリを開こう。<br>ここからアイテムをクイックバーにドラッグしたり、$INPUTANIM:Interact$を使ってアイテムをすぐに装備したり消費したりできるよ。<br>$ICON:Heal$ 回復アイテムは時間をかけて健康を回復します。 }
+
+BattleBuddies_Blocks { $INPUTANIM:Block$を押し続けてブロックしよう。すべてのブロックした攻撃は、健康ではなくスタミナを減少させる。スタミナが使い果たされると、ブロックできなくなるよ。 }
+
+BattleBuddies_Blocks_Label { 成功したブロック }
+
+BattleBuddies_Combos { 攻撃した後、ちょうど良いタイミングで$INPUTANIM:Attack_Primary$を押すと、再度攻撃できる。コンボを使うことで、一般的に攻撃が速くなり、より大きなダメージを与えることができる。 }
+
+BattleBuddies_Combos_Label { 成功したコンボ }
+
+BattleBuddies_Spells { フォーカスバーのアビリティマークに示されているように、アビリティを使用するのに十分なフォーカスを集めました。$INPUTANIM:UseSpell$を押してアビリティを使用してください。 }
+
+BattleBuddies_Spells_Label { 成功したスペル }
+
+BattleBuddies_GetFlow { ヘルスバーの下にあるフォーカスバーは、現在のフォーカスを表示しています。戦闘中、相手に成功して攻撃を当てるたびにフォーカスが生成されます。攻撃を受けるとフォーカスを失います。フォーカスを使わないと消散しますが、基本フォーカスは残ります。 }
+
+FirstFood { 食べ物を見つけました！<br>$INPUTANIM:Inventory$ を押してインベントリを開きましょう。<br>ここから、食べ物をクイックバーにドラッグするか、$INPUTANIM:Interact$ を使ってすぐに消費できます。<br><br>$ICON:Food$ 食べ物は時間とともにあなたのヘルスを回復します。ただし、ヘルスバーが満タンの場合、回復は一時停止します。<br><br>常に満腹でいることを忘れずに。レシピを集めて、キャンプファイヤーで食べ物を調理しましょう。 }
+
+FirstGoodFood { 豊かな食べ物を消費しました。<br>ドロヴァの多くの料理は、満腹の間にパッシブ効果を与えます。<br>ただし、注意してください！その後、追加の食べ物を消費すると、満腹効果が上書きされます。効果が切れるまで待ってから再度食べるのがベストです。<br><br>パッシブなヘルス再生を楽しむためには、常に満腹でいることをお勧めします。 }
+
+FirstWeapon { 武器を見つけました！<br>$INPUTANIM:Inventory$ を押してインベントリを開きましょう。<br>ここから、$INPUTANIM:Interact$ を使って武器を装備できます。<br><br>(2つの武器セットをカスタマイズできます。$INPUTANIM:SwapWeaponSet$ を押して切り替えましょう。) }
+
+FirstNote { 手紙を見つけました！<br>すべての手紙は、ジャーナルの手紙タブに保存されています。いつでもそこから読むことができます。 }
+
+FirstNote_Gamepad { 手紙を見つけました。<br>$INPUTANIM:Inventory$ を押してメニューを開き、$INPUTANIM:PrevPanel$ と $INPUTANIM:NextPanel$ を使ってジャーナルタブにアクセスしましょう。すべての手紙は手紙タブに集められています。いつでもそこから読むことができます。 }
+
+NeedMunition { 戦闘で遠距離武器を使用するには、$INPUTANIM:Block$ で装填する必要があります。 }
+
+FirstRangeWeapon { 遠距離武器を見つけました。<br>$INPUTANIM:Inventory$ を押してインベントリにアクセスし、武器を装備しましょう。<br>使用するには、インベントリから適切な弾薬も装備する必要があります。 }
+
+Journal { 新しい日記のエントリーを作成しました。<br>$INPUTANIM:Journal$ を押して日記を開きましょう。<br>そこから、いつでもクエストの進行状況を確認できます。 }
+
+Journal_Gamepad { 新しい日記のエントリーを作成しました。<br>$INPUTANIM:Inventory$ を押してメニューを開き、$INPUTANIM:PrevPanel$ と $INPUTANIM:NextPanel$ を使って日記タブにアクセスしましょう。<br>そこから、いつでもクエストの現在の進行状況を確認できます。 }
+
+FirstConsFlow_Gamepad { 呪文のスクロールを見つけました。<br>$INPUTANIM:OpenAbilities$ を押してメニューを開き、$INPUTANIM:PrevPanel$ と $INPUTANIM:NextPanel$ を使ってアビリティタブにアクセスしましょう。そこから呪文のスクロールを装備できます。<br>呪文のスクロールは難しい戦闘で優位に立つ手助けをしてくれますので、ため込む意味はありません。 }
+
+FirstThrow { 消耗品を見つけました！<br>$INPUTANIM:Inventory$ を押してインベントリを開きましょう。<br>ここからアイテムをクイックバーにドラッグできます。 }
+
+Stealing { ドロヴァの住人たちは自分の持ち物に細心の注意を払っています。彼らから盗むこともできますが、見つからないように注意しましょう。<br>マウスポインターは、インタラクションが違反かどうかを示します。 }
+
+Stealing_Gamepad { ドロヴァの住人たちは自分の持ち物に細心の注意を払っています。彼らから盗むこともできますが、見つからないように注意しましょう。<br>インタラクションシンボルは、インタラクションが違反かどうかを示します。 }
+
+Crafting { キャンプファイヤーで料理を作り、ポーションを調合しましょう。他にも罠や装備、投擲物を作成するための作業台があります。<br>作業台なしで、$INPUTANIM:CraftingMenu$クラフトメニューから直接いくつかのレシピを作成しましょう。 }
+
+CloseTutorial { 閉じる }
+
+CloseTutorial_Gamepad { 閉じる（$INPUTANIM:UISubmit$を長押し） }
+
+Statuseffects { 棘の茂みに入ってしまい、「出血」状態になりました。<br>ゲーム内には、あなたのヘルスバーの右側に表示されるいくつかの状態異常があります。<br>$INPUTANIM:Inventory$を使ってメニューを開き、ツールチップを利用してさまざまな状態異常を詳しく見てみましょう。 }
+
+Secondaries { 盾を見つけました！<br>これはオフハンドアイテムです。$INPUTANIM:Block$を押して戦闘で使用しましょう。<br>オフハンドアイテムを装備していない状態で$INPUTANIM:Block$を押すと、武器の種類ごとに異なるアクションを実行します。 }
+
+UsedHealItem { 回復アイテムを使用しました。<br>これで回復効果が適用され、定期的にヘルスを回復します。<br>複数の回復効果を同時に発動させることができます。 }
+
+PoiseBreak { 相手はスタンスを崩した後、地面に倒れています。<br>スタンスはヘルスバーの下にある黄色のバーで表示されます。<br>この時間を利用して、相手に攻撃を加えたり、自分を回復したり、アイテムを使用しましょう。 }
+
+LookDirectionCombat { 戦闘中は、常に向いている方向に攻撃します。<br>キャラクターの下にある矢印が、向いている方向を示しています。<br>マウスを使ってこの方向を変更しましょう。 }
+
+LookDirectionCombat_Gamepad { 戦闘中は、常に向いている方向に攻撃します。<br>キャラクターの下にある矢印が、向いている方向を示しています。<br>$INPUTANIM:LookX$を使ってこの方向を変更しましょう。 }
+
+FirstTreasure { 宝の地図を見つけました！<br>すべての宝の地図は、手紙タブのジャーナルに保存されています。いつでもそこで見ることができます。 }
+
+FirstTreasure_Gamepad { 宝の地図を見つけました！<br>$INPUTANIM:Inventory$を押してメニューを開き、$INPUTANIM:PrevPanel$と$INPUTANIM:NextPanel$を使ってジャーナルタブにアクセスしましょう。<br>すべての宝の地図は、手紙タブのジャーナルに保存されています。いつでもそこで見ることができます。 }
+
+FirstRecipe { レシピを見つけました！<br>$INPUTANIM:Inventory$でインベントリを開きましょう。そこで$INPUTANIM:Interact$を使ってレシピを学ぶことができます。 }
