@@ -396,7 +396,7 @@ Ebru { エブル }
 
 Juri { ジュリ }
 
-Ada { アダ }
+Ada { エイダ }
 
 MorvinAliases { アントニウス・プロキムス }
 
@@ -404,13 +404,13 @@ WaterBarrel { 水の樽 }
 
 FriedelsTable { フリーデルのテーブル }
 
-Ada_Normal { アダ }
+Ada_Normal { エイダ }
 
-Ada_NameChange01 { ヴェイパーヘッド・アダ }
+Ada_NameChange01 { ヴェイパーヘッド・エイダ }
 
-Ada_NameChange02 { 敗北したアダ }
+Ada_NameChange02 { 敗北したエイダ }
 
-Ada_invincible { 無敗のアダ }
+Ada_invincible { 無敗のエイダ }
 
 RuinenlagerGuardUpper { ショーン }
 
