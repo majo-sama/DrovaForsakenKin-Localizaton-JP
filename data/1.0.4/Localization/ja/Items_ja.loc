@@ -566,7 +566,7 @@ item_treasureMap_auwald_name { 宝物：氾濫原の森 }
 
 misc_map_tristan_name { トリスタンの地図 }
 
-item_claw_description { 「爪を引き抜く」才能を使って動物から入手できます。 }
+item_claw_description { 「爪剥ぎ」才能を使って動物から入手できます。 }
 
 misc_bagOfCurrency_description { 振るとジャラジャラ音がする袋。それはただの数枚のコインなのか、それとももっと何かが隠されているのか？ }
 
@@ -576,11 +576,11 @@ key_chest_mineBanditMainKey_description { 私はこれを一群の盗賊から�
 
 item_mineRelic_name { 奇妙な遺物 }
 
-item_mineRelic_description { 過去の古代遺物。 }
+item_mineRelic_description { 古き者の遺物。 }
 
 item_rubble_name { 瓦礫 }
 
-Note_BanditMine_name { 過去の遺物 }
+Note_BanditMine_name { 古き者の遺物 }
 
 item_spiritVessel_greatTusk_name { 精霊の器 }
 
@@ -832,7 +832,7 @@ item_crowtrap_name { カラスの足跡 }
 
 item_crowtrap_description { 発動時に、相手に出血効果を与え、移動速度を低下させます。 }
 
-throwing_ensnare_name { ネットを投げる }
+throwing_ensnare_name { 投網 }
 
 throwing_ensnare_description { あなたはネットを投げ、相手を[TimeAbs]秒間動けなくします。 }
 
@@ -1252,7 +1252,7 @@ item_atlanter_coin_name { 古代のコイン }
 
 item_engraving_stones_name { 刻まれた石 }
 
-item_sealstone_past_name { 過去の印章石 }
+item_sealstone_past_name { 古き者の印章石 }
 
 item_sealstone_past_description { 精巧に装飾された石に埋め込まれたクリスタル。 }
 
@@ -1286,7 +1286,7 @@ item_letterTableBrutus_1_name { ドリヴァニウス最終研究 III }
 
 item_letterTableBrutus_2_name { ドリヴァニウス最終研究 IV }
 
-item_atlanteanarmorparts_name { 過去の鎧の欠片 }
+item_atlanteanarmorparts_name { 古き者の鎧の欠片 }
 
 item_atlanteanarmorparts_description { 価値がありそうですね。もしかしたら鍛冶屋がこれらを使って何かできるかもしれません。 }
 
@@ -1430,7 +1430,7 @@ recipe_rivercharm_name { レシピ：川のアミュレット }
 
 recipe_roastedcallamushroom_name { レシピ：揚げカラシャルーム }
 
-recipe_roastofthepast_name { レシピ：過去のロースト }
+recipe_roastofthepast_name { レシピ：古き者のロースト }
 
 recipe_rootstew_name { レシピ：霧のシチュー }
 
@@ -1504,11 +1504,11 @@ item_letter_sick_siser_name { ドルイドのメモ }
 
 SickSiser { 盗賊のキャンプからのメモ }
 
-armor_chest_light_atlanter_name { 過去のルーンアーマー }
+armor_chest_light_atlanter_name { 古き者のルーンアーマー }
 
-armor_chest_heavy_atlanter_name { 過去のルーン武器 }
+armor_chest_heavy_atlanter_name { 古き者のルーン武器 }
 
-armor_chest_druid_atlanter_name { 過去のルーンローブ }
+armor_chest_druid_atlanter_name { 古き者のルーンローブ }
 
 armor_chest_druid_atlanter_description { 古代の鎧、再び鍛えられた。その外見だけで、その力を証明している。 }
 
@@ -1720,11 +1720,11 @@ item_letterRedTower_5_name { 没落 I }
 
 item_AldriksNote_name { アルドリックのメモ }
 
-item_letterAtlanter_AtlanterCreation_name { 過去の創造 }
+item_letterAtlanter_AtlanterCreation_name { 古き者の創造 }
 
-item_letterAtlanter_AtlanterProblems_name { 過去の困難 }
+item_letterAtlanter_AtlanterProblems_name { 古き者の困難 }
 
-item_letterAtlanter_AtlanterRevolt_name { 過去の暴動 }
+item_letterAtlanter_AtlanterRevolt_name { 古き者の暴動 }
 
 item_letterAtlanter_CancelledResearch_name { 研究の中止 }
 
