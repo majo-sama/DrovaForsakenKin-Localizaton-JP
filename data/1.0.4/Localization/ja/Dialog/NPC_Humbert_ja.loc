@@ -288,7 +288,7 @@ Plh_63 { ああ、あの二人のいたずら者が背後にいると気づく�
 
 Plh_65 { あなたの感謝の気持ちを表す素敵な行為ですね。それを手伝わせてください。 }
 
-Plh_196 { そのキノコを$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$個持ってきてくれれば、エキスを作ってあげるよ。ネメトンの近く、赤い湿原で見つけられるはずだ。あのキノコはパリッとした赤い色をしているんだ。 }
+Plh_196 { そのキノコを$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$個持ってきてくれれば、エキスを作ってあげるよ。ネメトンの近く、レッドムーアで見つけられるはずだ。あのキノコはパリッとした赤い色をしているんだ。 }
 
 Plh_66 { エキスのために$GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$個のキノコですか？ }
 
