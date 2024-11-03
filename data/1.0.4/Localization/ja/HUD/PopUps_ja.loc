@@ -8,4 +8,4 @@ ReloadWarning { リロード！ }
 
 SpellAlreadyKnown { この能力はすでに習得済みです。 }
 
-NeedsQuiver { クイバーが必要です。 }
+NeedsQuiver { 矢筒が必要です。 }

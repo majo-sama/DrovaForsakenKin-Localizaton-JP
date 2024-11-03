@@ -1,6 +1,6 @@
 LoadingScreen_01 { 人やアイテムとやり取りする前に、武器をしまう必要があります。 }
 
-LoadingScreen_02 { $INPUT:DrawWeapon$ を押して武器を抜くかしましょう。 }
+LoadingScreen_02 { $INPUT:DrawWeapon$ を押して武器を装備状態を切り替えましょう。 }
 
 LoadingScreen_05 { $INPUT:PerceptionMode$ を使って周囲を詳しく見ることができます。その方法でしか発見できないものもあります！ }
 

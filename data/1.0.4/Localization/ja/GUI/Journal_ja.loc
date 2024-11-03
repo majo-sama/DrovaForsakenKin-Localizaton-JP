@@ -4,9 +4,9 @@ Entry_Updated { 日記が更新されました }
 
 OthersUpdated { +$JOURNAL:その他$ 雑記 }
 
-Tab_Quests_Finished { 完了しました }
+Tab_Quests_Finished { 完了済み }
 
-Tab_Quests_Running { 現在 }
+Tab_Quests_Running { 進行中 }
 
 Tab_Letters { 手紙 }
 

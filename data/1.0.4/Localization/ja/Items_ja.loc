@@ -108,11 +108,11 @@ key_ratcellar_name { 地下室の鍵 }
 
 key_ratcellar_description { はぐれ者のキャンプにある酒場の地下室の鍵。 }
 
-weapon_axe_bady_dull_name { バディの鈍い斧。 }
+weapon_axe_bady_dull_name { バディの鈍い斧 }
 
-weapon_axe_bady_sharp_name { バディの鋭い斧。 }
+weapon_axe_bady_sharp_name { バディの鋭い斧 }
 
-item_letterMehlunaToBady_name { メルナからのラブレター。 }
+item_letterMehlunaToBady_name { メルナからのラブレター }
 
 item_earthroot_name { アースルート }
 
@@ -120,7 +120,7 @@ item_earthroot_description { 洪水平野の森の川のそばに育つ。 }
 
 item_wine_name { ワイン }
 
-note_mineInformation_name { 伐採者を探している。 }
+note_mineInformation_name { 伐採者を探している }
 
 item_entryMine_name { レヴィンからのメモ }
 
@@ -472,7 +472,7 @@ item_cavemushroom_description { 暗い場所ならどこでも成長します。
 
 item_ruinherb_name { ルインブロッサム }
 
-item_tarnishedSilverCup_name { tarnished silver cup（ tarnished silver cup） }
+item_tarnishedSilverCup_name { 色褪せた銀杯 }
 
 item_mudLotus_name { スラッジロータス }
 
@@ -602,9 +602,9 @@ item_runestone_description { このルーンストーンは、マイティボア
 
 cons_Familiar_Firefly_name { スパーク }
 
-key_tavernKey_name { タバーンの鍵 }
+key_tavernKey_name { 宿屋の鍵 }
 
-key_tavernKey_description { タバーンの裏口用の鍵。 }
+key_tavernKey_description { 宿屋の裏口用の鍵。 }
 
 weapon_bow_atlanterBow_name { 神々の使者 }
 
@@ -614,57 +614,57 @@ weapon_shield_atlanterShield_name { 神々の保護 }
 
 weapon_shield_atlanterShield_description { 神々の選ばれし者よ、永遠に生きよ。 }
 
-misc_writing_importantdocument_name { 神聖なクリスタルの行方。 }
+misc_writing_importantdocument_name { 神聖なクリスタルの行方 }
 
-item_energycrystal_cityDungeon_empty_name { 原始の森からの空の神聖なクリスタル。 }
+item_energycrystal_cityDungeon_empty_name { 原始の森から得た神聖な空っぽのクリスタル }
 
-item_energycrystal_cityDungeon_charged_name { 原始の森からの宿った神聖なクリスタル。 }
+item_energycrystal_cityDungeon_charged_name { 原始の森から得た神聖なクリスタル }
 
-item_energycrystal_aufwald_charged_name { 氾濫原の森からの宿った神聖なクリスタル。 }
+item_energycrystal_aufwald_charged_name { 氾濫原の森から得た神聖なクリスタル }
 
 item_energycrystal_aufwald_charged_description { この神聖なクリスタルは魔法の力で脈打っています。 }
 
-item_energycrystal_brutus_empty_name { 空の神聖なクリスタル。 }
+item_energycrystal_brutus_empty_name { 空の神聖なクリスタル }
 
-item_energycrystal_brutus_charged_name { 宿った神聖なクリスタル。 }
+item_energycrystal_brutus_charged_name { 神聖なクリスタル }
 
-item_secret_foglets_name { 霧の分泌物。 }
+item_secret_foglets_name { 霧の分泌物 }
 
-item_ripper_head_name { 巨人のリッパークロー。 }
+item_ripper_head_name { 巨人のリッパークロー }
 
-item_essence_atlanter_name { 古代のエッセンス。 }
+item_essence_atlanter_name { 古代のエッセンス }
 
 item_essence_atlanter_description { このエッセンスは、古代の存在からのみ得ることができます。 }
 
-item_heart_name { クマの心。 }
+item_heart_name { クマの心臓 }
 
-item_secret_poise_name { 毒のイコール。 }
+item_secret_poise_name { 毒の膿液 }
 
-item_beak_name { くちばし。 }
+item_beak_name { くちばし }
 
-item_essence_stone_name { 大地のエッセンス。 }
+item_essence_stone_name { 大地のエッセンス }
 
 item_essence_stone_description { このエッセンスは、強力な岩の存在からのみ得ることができます。 }
 
-item_salivate_worm_name { ワームの唾液。 }
+item_salivate_worm_name { ワームの唾液 }
 
-item_spider_thread_name { クモの糸。 }
+item_spider_thread_name { クモの糸 }
 
-item_essence_void_name { 影の断片。 }
+item_essence_void_name { 影の断片 }
 
 item_essence_void_description { 薄暗い断片で、一時的に影のようになります。[DamageResPercent]のダメージ耐性を[TimeAbs]秒間増加させます。 }
 
-consumable_potion_darkbrew_healing_name { ダークブリュー。 }
+consumable_potion_darkbrew_healing_name { ダークブリュー }
 
-key_mursel_mine_name { 銀鉱の鍵。 }
+key_mursel_mine_name { 銀鉱の鍵 }
 
 key_mursel_mine_description { はぐれ者のキャンプにあるピットのバンカーハウスの鍵。 }
 
-key_tristanBillKey_name { 上の酒場の鍵。 }
+key_tristanBillKey_name { 上の酒場の鍵 }
 
 key_tristanBillKey_description { オラフの酒場の2階への扉の鍵。 }
 
-key_ruinenexplorer_name { 遺跡の襲撃者たちからの鍵。 }
+key_ruinenexplorer_name { 遺跡の襲撃者たちからの鍵 }
 
 key_ruinenexplorer_description { 遺跡の襲撃者たちへの扉を開ける。 }
 
@@ -676,15 +676,15 @@ item_energycrystal_aufwald_empty_name { 洪水平野の空の神聖なクリス�
 
 item_energycrystal_aufwald_empty_description { この神聖なクリスタルは空っぽのように感じる。 }
 
-common { 一般的な }
+common { 一般的 }
 
-uncommon { 珍しい }
+uncommon { 優良 }
 
-rare { 希少な }
+rare { 稀少 }
 
-epic { 壮大な }
+epic { 壮麗 }
 
-legendary { 伝説的な }
+legendary { 古今無双 }
 
 cons_flow_heavyBlow_name { 強力な一撃 }
 
@@ -736,7 +736,7 @@ cons_flow_root_cone_name { ルートコーン }
 
 cons_flow_root_cone_description { 前方の円錐形の範囲内に、敵を捕らえる根を召喚し、[TimeAbs]秒間拘束します。 }
 
-cons_flow_conjure_pack_name { 召喚：パック }
+cons_flow_conjure_pack_name { 召喚：群れ }
 
 cons_flow_conjure_pack_description { 敵を引き裂くリッパーの群れを召喚します。 }
 
@@ -1024,11 +1024,11 @@ helmet_ironwings_name_name { 鉄の翼のヘルメット }
 
 helmet_legionare_name_name { レギオネアヘルメット }
 
-Raven { Mask_name { カラスの覆面 }
+Raven Mask_name { カラスのマスク }
 
-quiver_simple_name_name { シンプルなクイバー }
+quiver_simple_name_name { シンプルな矢筒 }
 
-quiver_simple_name_description { 三本の矢を収納できるシンプルなクイバー。 }
+quiver_simple_name_description { 三本の矢を収納できるシンプルな矢筒。 }
 
 ring_aldo_name_name { アルドの指輪 }
 
@@ -1054,7 +1054,7 @@ item_riptoothchain_name { 牙のネックレス }
 
 item_riptoothchain_description { 出血効果はそのダメージをより早く与えます。 }
 
-item_vipertooth_name { バイパーの牙 }
+item_vipertooth_name { 毒蛇の牙 }
 
 item_vipertooth_description { 毒の減速効果は[SlowPercent]によって増加する。 }
 
@@ -1208,7 +1208,7 @@ item_letterAuwaldDungeon_4_name { クモの観察 }
 
 item_letterAuwaldDungeon_5_name { 最後の生存者の一人 }
 
-key_ShadyDistrict_name { ダーククォーターの鍵。 }
+key_ShadyDistrict_name { ダーククォーターの鍵 }
 
 item_rustmoss_BadFromGera_name { カット・ラストモス }
 
@@ -1264,7 +1264,7 @@ item_shell_01_name { クラム }
 
 item_shell_02_name { クラム }
 
-item_atlanter_wine_name { 過ぎ去りしワイン }
+item_atlanter_wine_name { 古き者のワイン }
 
 item_atlanter_wine_description { ヴィンテージ：不明。 }
 
@@ -1414,7 +1414,7 @@ recipe_lockpick_name { レシピ：ロックピック }
 
 recipe_marinatedmeatleg_name { レシピ：ティアのマリネした肉のシャンク }
 
-recipe_mediumquiver_name { レシピ：ミディアムクイバー }
+recipe_mediumquiver_name { レシピ：ミディアム矢筒 }
 
 recipe_mudmash_name { レシピ：オラフの肉のシチュー }
 
@@ -1778,7 +1778,7 @@ item_letterAtlanter_ThirdDownfall_name { 第三の神の堕落 }
 
 item_letterAtlanter_ToTheRuinRaiders_name { ruin raidersへ }
 
-item_letterAtlanter_WhereIsDrivanius_name { ドリヴァニウスはどこですか？私が尋ねています。 }
+item_letterAtlanter_WhereIsDrivanius_name { ドリヴァニウスはどこですか？私が尋ねています }
 
 item_letterAtlanter_WhereIsDrivanius2_name { ドリヴァニウスはどこですか？II }
 
