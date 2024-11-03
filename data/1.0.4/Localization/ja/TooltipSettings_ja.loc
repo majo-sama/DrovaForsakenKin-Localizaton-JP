@@ -120,6 +120,6 @@ needrunestone { ルーンストーンが必要です。 }
 
 strength_value { 力 [VALUE] }
 
-dex_value { 敏捷性 [VALUE] }
+dex_value { 器用さ [VALUE] }
 
 mind_value { 精神力 [VALUE] }

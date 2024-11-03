@@ -28,7 +28,7 @@ tooltip_attributes_power { プラウェスは、あなたの属性スコアの�
 
 tooltip_attributes_strength { 力は、あなたが与える物理ダメージを[VALUE]増加させます。 }
 
-tooltip_attributes_dexterity { 敏捷性は、あなたのクリティカルヒットの確率を[VALUE]増加させます。クリティカルヒットを受けた対象は出血し、武器の種類に応じて追加ダメージを受けます。 }
+tooltip_attributes_dexterity { 器用さは、あなたのクリティカルヒットの確率を[VALUE]増加させます。クリティカルヒットを受けた対象は出血し、武器の種類に応じて追加ダメージを受けます。 }
 
 tooltip_attributes_mind { 精神は、あなたの魔法ダメージを[VALUE1]増加させ、基本フォーカスを[VALUE2]増加させます。 }
 
