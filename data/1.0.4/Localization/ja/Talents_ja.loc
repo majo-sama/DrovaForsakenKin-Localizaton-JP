@@ -90,9 +90,9 @@ talent_lockpicking_01 { 複雑な鍵を開ける }
 
 talent_lockpicking_01_desc { もはやあなたに安全な鍵はありません。 }
 
-talent_extractsecretion { イコールを抽出する }
+talent_extractsecretion { 膿液を抽出する }
 
-talent_extractsecretion_desc { 特定の動物からイコールを抽出することができます。イコールはポーションの醸造やクラフトに必要です。 }
+talent_extractsecretion_desc { 特定の動物から膿液を抽出することができます。膿液はポーションの醸造やクラフトに必要です。 }
 
 talent_tearclaws { 爪剥ぎ }
 

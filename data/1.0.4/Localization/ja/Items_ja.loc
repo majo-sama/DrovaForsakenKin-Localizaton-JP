@@ -404,9 +404,9 @@ item_ironlump_name { 鉄の塊 }
 
 item_frogleg_name { カエルの足 }
 
-item_acidsecretion_name { 酸性のイコール }
+item_acidsecretion_name { 酸性の膿液 }
 
-item_acidsecretion_description { 「イコール抽出」スキルを使用して動物から入手できます。 }
+item_acidsecretion_description { 「膿液抽出」スキルを使用して動物から入手できます。 }
 
 item_forestessence_name { 森のエッセンス }
 
@@ -698,7 +698,7 @@ cons_flow_spartanKick_name { キック }
 
 cons_flow_spartanKick_description { [DamageFlexAbs]のダメージを与え、敵をノックバックさせます。 }
 
-cons_flow_execute_name { 実行する }
+cons_flow_execute_name { エグゼキュート }
 
 cons_flow_execute_description { [WeaponDamagePercent]の武器ダメージを与え、さらに相手にかかっているアクティブな出血ごとに[WeaponDamagePercent2]の武器ダメージを追加します。 }
 
