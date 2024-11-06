@@ -420,7 +420,7 @@ Plh_121 { 狭い世界だし、はぐれ者のキャンプには良いコネク�
 
 Plh_122 { *しかめっ面をする* 本当にそれを心配する必要があるの？私たちのためにすべてを複雑にしないで。荷物とコインを私に渡してくれればいい。そうすれば、私たち二人とも幸せになれる。 }
 
-Plh_49 { 素晴らしい、荷物はここにある。ボリスはそれに対して$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$コインを君に借りている。$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$コインだ！100でも199でもなく、$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$だ。気をつけて、彼は騙すのが好きだから。 }
+Plh_49 { 素晴らしい、荷物はここにある。ボリスはそれに対して$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$コインを君に払うだろう。$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$コインだ！100でも199でもなく、$GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$だ。気をつけて、彼は騙すのが好きだから。 }
 
 Plh_50 { はぐれ者のキャンプに行きたいなら、こうすればいい：ネメトンの南に、西へ続く道がある。その道を進んでいくと、酒場に着く。そこから北へ向かって進んでください。 }
 
