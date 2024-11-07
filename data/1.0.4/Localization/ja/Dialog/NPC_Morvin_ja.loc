@@ -18,7 +18,7 @@ Plh_156 { $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$に賭けます。
 
 Plh_157 { $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$に賭けます。 }
 
-Plh_252 { 賭けを正しく行えば、今夜のアリーナバトルの後に winnings を受け取ることができます。そうでなければ…受け取れません。 }
+Plh_252 { 賭けを正しく行えば、今夜のアリーナバトルの後に賞金を受け取ることができます。そうでなければ…受け取れません。 }
 
 Plh_375 { 来なければ、あなたのコインは失われます。 }
 
@@ -138,7 +138,7 @@ Plh_308 { 君がどれだけやれるか見てみよう。 }
 
 Plh_310 { アリーナのマスターになりたいなら、ランクを上げていかなければならない。エブルの後は、リアンドラ、シニストラ、そして最後にエイダと戦うことになる。無敗のエイダだ。 }
 
-Plh_311 { 君にはエブルと戦ってもらう。$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ コインが必要だ。どの相手と戦うか、そして観客がどのように賭けるかによって、君の winnings が決まる。 }
+Plh_311 { 君にはエブルと戦ってもらう。$GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ コインが必要だ。どの相手と戦うか、そして観客がどのように賭けるかによって、君の賞金が決まる。 }
 
 Plh_312 { コインがなかったらどうする？ }
 

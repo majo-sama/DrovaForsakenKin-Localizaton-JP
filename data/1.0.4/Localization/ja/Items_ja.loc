@@ -800,7 +800,7 @@ item_traps_name { 注意: もっと罠が必要です }
 
 cons_flow_obsidianSpear_name { 黒曜石の槍を召喚する }
 
-cons_flow_obsidianSpear_description { あなたは、周囲に集中を生み出す過去の槍を conjure します。 }
+cons_flow_obsidianSpear_description { あなたは、周囲にフォーカスを生み出す古代の槍を召喚します。 }
 
 item_playWithKids_name { お知らせ：子供たちと遊ぶ }
 
@@ -1156,7 +1156,7 @@ item_harpyiefeather_description { 遺跡にいる古い翼のある生き物か�
 
 item_hunterstrophy_name { ハンターのトロフィー }
 
-item_hunterstrophy_description { ranged attacksが弾薬を消費しない確率は[TriggerPercent]です。 }
+item_hunterstrophy_description { 遠距離武器が弾薬を消費しない確率を[TriggerPercent]に引き上げる。 }
 
 item_talismanJourneyToTheRoots_name { ブラッディタリスマン }
 
@@ -1936,7 +1936,7 @@ recipe_silberringskill_2_name { レシピ: 雇われた暗殺者の銀のリン�
 
 recipe_silberringskill_2_description { レシピ: 銀のリングのスキル 2 説明 }
 
-recipe_silberringmind_2_name { レシピ: 精霊の exquisite リング }
+recipe_silberringmind_2_name { レシピ: 華美な精霊のリング }
 
 recipe_silberringmind_2_description { レシピ: 銀のリングのマインド 2 説明 }
 

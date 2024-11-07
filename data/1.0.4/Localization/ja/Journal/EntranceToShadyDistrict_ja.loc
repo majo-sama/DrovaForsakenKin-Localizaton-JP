@@ -2,7 +2,7 @@ Title { ダーククォーター }
 
 Entry_01 { ボリスは、レイナから$GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$コインを手に入れるように言っています。彼は私にダーククォーターの鍵を渡しました。はぐれ者のキャンプの西部のどこかに、隠された入口があるはずです。 }
 
-Entry_02 { ボリスに会った後、ゲラが私を intercept して、彼女の恩を返すように言ってきました。私は、以前に切ったラストモスをレイナに植え付け、その後ボリスに彼女のことを密告することになっています。 }
+Entry_02 { ボリスに会った後、ゲラが私を呼び止め、彼女の恩を返すように言ってきました。私は、ラストモスをレイナに植え付けた後、ボリスに彼女のことを密告することになっています。 }
 
 Entry_03 { レイナは私に$GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$コインを渡しました。私はボリスに伝えるべきです。 }
 
