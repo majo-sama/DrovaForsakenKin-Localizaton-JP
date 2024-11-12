@@ -14,7 +14,7 @@ ImmersiveMode { アイアン }
 
 StoryMode { エクスプローラー }
 
-SkipIntro { イントロをスキップ }
+SkipIntro { 導入スキップ }
 
 Option_BodyType { 体型 }
 
