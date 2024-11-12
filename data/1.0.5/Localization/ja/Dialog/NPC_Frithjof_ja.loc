@@ -10,6 +10,6 @@ Plh_12 { ああ、いろいろな手段があるんだ。時にはアイテム�
 
 Plh_14 { もし君が$GVAR:EVars_Frithjof.MoneyForLearning$コインを持っているならね。*ニヤリ* }
 
-Plh_15 { はい、君の金だ。 （$GVAR:EVars_Frithjof.MoneyForLearning$コインを渡す） }
+Plh_15 { ほら、君の金だ。（$GVAR:EVars_Frithjof.MoneyForLearning$コインを渡す） }
 
 Plh_17 { *ニヤリ* 約束を守るよ。 }
