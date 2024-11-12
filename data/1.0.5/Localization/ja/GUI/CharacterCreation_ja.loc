@@ -1,0 +1,83 @@
+EnterName { 名前を入力してください... }
+
+Body { 体 }
+
+Visual { 外見 }
+
+Souvenir { お守り }
+
+SaveMode { ゲームモード }
+
+DefaultMode { クラシック }
+
+ImmersiveMode { アイアン }
+
+StoryMode { エクスプローラー }
+
+SkipIntro { イントロをスキップ }
+
+Option_BodyType { 体型 }
+
+Option_SkinColor { 肌の色 }
+
+Option_Voice { 声 }
+
+Option_Hair { 髪型 }
+
+Option_HairColor { 髪の色 }
+
+Option_Deco { 装飾 }
+
+Option_Beard { ひげ }
+
+Option_BeardColor { ひげの色 }
+
+Souvenir_Empty { 思い出の品なし }
+
+Souvenir_Empty_Tooltip { ただあなたとあなたの能力だけ。必要なものはすべて揃っています。 }
+
+Souvenir_Alchemy { 治療法 }
+
+Souvenir_Alchemy_Tooltip { あなたは十分に準備ができていて、いつも小さな治療法のストックを持ち歩いています。 }
+
+Souvenir_Money { コインパース }
+
+Souvenir_Money_Tooltip { あなたはコインパースを持たずに家を出ることはありません。 }
+
+Souvenir_Health { ライフの指輪 }
+
+Souvenir_Health_Tooltip { この指輪にはライフのエッセンスが注入されています。あなたの健康値が増加します。 }
+
+Souvenir_Thief { ロックピック }
+
+Souvenir_Thief_Tooltip { 運は…そう、自分で道を切り開く者に味方する。 }
+
+Souvenir_Strength { 力の指輪 }
+
+Souvenir_Strength_Tooltip { あなたは肉体的な強さを重視しています。この指輪はまさにそのためのものです。 }
+
+GameMode_Normal_Tooltip { おすすめの設定です。ドロヴァは危険です。手を出す相手には気をつけて！ }
+
+GameMode_Immersive_Tooltip { 自分の決断に責任を持ちましょう。セーブデータは一つだけで、ゲームは自動的にセーブされます。 }
+
+InvalidName { この名前は使用できません！ }
+
+HardcoreMode { ハードコア }
+
+GameMode_Hardcore_Tooltip { 究極の挑戦。人生は一度きり、セーブデータも1つだけ。 }
+
+UseKeyboard { キーボードを使って名前を入力してください！ }
+
+GameMode_Story_Tooltip { あなたはより多くのダメージを与え、より多くのダメージに耐えます。 }
+
+Story_PopUp { 本当にExplorerモードでDrovaをプレイしますか？<br><br>あなたはより多くのダメージを与え、より耐えることができます。オプションでダメージ値をカスタマイズし、ExplorerモードとClassicモードを自由に切り替えることができます。<br><br>いつでもセーブとロードが可能です。 }
+
+Immersive_PopUp { 本当にIronモードでDrovaをプレイしますか？<br><br>セーブデータは1つしかなく、ゲームは対話、戦闘、クエストの進行、重要な決定の後に自動的に定期的にセーブされます。<br><br>ゲームを開始した後は、このモードを変更することはできません。 }
+
+Hardcore_PopUp { 本当にHardcoreモードでDrovaをプレイしますか？<br><br>セーブデータは1つしかなく、ゲームは自動的にセーブされます。キャラクターが死亡すると、セーブデータは削除されます。<br><br>ゲームを開始した後は、このモードを変更することはできません。<br><br>究極の挑戦です。最もタフなDrovaの戦士だけがこのモードをマスターできます。 }
+
+SaveModePopUp_Title { セーブモードを選択してください。 }
+
+SaveModePopUp_Text_Default { Drovaでは、ゲームをセーブするためのいくつかのオプションがあります。<br><br>クラシックモードでは、いつでも異なるスロットにセーブできます。<br><br>アイアンモードを選択すると、ゲームは自動的にセーブされます。このモードでは手動でのセーブはできません。 }
+
+ChangeGameModeWarning { アイアンモードを終了してもよろしいですか？もしそうする場合、ゲームの進行中にこのモードを再度有効にすることはできません。 }

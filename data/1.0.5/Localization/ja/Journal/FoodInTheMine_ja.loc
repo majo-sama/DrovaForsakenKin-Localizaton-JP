@@ -1,0 +1,5 @@
+Title { 鉱夫のための肉 }
+
+Entry_01 { 食料を担当しているショナは、私にピットの掘削豚から$GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$個の生の筋の多い肉を取ってくるように頼んでいる。 }
+
+Entry_02 { ショナは、私が持ってきた肉で新しい料理を用意した。それで鉱夫たちはしばらくの間、十分に食べることができるだろう。 }

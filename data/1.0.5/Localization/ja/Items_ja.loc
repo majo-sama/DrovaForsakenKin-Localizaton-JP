@@ -1,0 +1,2039 @@
+weapon_sword { 剣 }
+
+weapon_spear { 槍 }
+
+weapon_axe { 斧 }
+
+weapon_dagger { 短剣 }
+
+weapon_shield { 盾 }
+
+weapon_bow { 弓 }
+
+weapon_slingshot { スリングショット }
+
+item_honeyMead_name { ハニーミード }
+
+item_redHerb_name { ラストルート }
+
+item_redHerb_description { 湿原で育つ。 }
+
+item_meat_raw_name { ジューシーな肉 }
+
+item_meat_raw_description { まだ生のままだ。それは人間の食用には適していない。 }
+
+item_farmersFood_name { 農夫の食事 }
+
+item_bogIron_name { ボグアイアン }
+
+armor_feet_shoe_lost_name { 片方の革靴 }
+
+armor_feet_shoe_lost_description { 一足の悪臭を放つ靴 }
+
+item_letterToAsmus_open_name { アスムス宛ての開封された手紙 }
+
+item_letterToAsmus_open_description { この手紙はアスムス宛てです。封印が破られています。 }
+
+item_honey_name { ハニー }
+
+item_packageToMoorlager_name { 商品パケット }
+
+item_packageToMoorlager_description { ネメトンのアンガスのためのゲオルグからの品物。 }
+
+item_letterToAsmus_sealed_name { アスムスへの手紙 }
+
+item_letterToAsmus_sealed_description { この手紙はアスムス宛てです。 }
+
+item_healthPlant_0_name { 癒しの植物 }
+
+item_healthPlant_1_name { 大きな癒しの植物 }
+
+item_lanternFruit_name { ランタンフルーツ }
+
+item_lanternFruit_description { 原始の森の木々に見られます。 }
+
+item_lyra_name { リラ }
+
+misc_lockpick_simple_name { シンプルロックピック }
+
+misc_lockpick_simple_description { もう私にとって安全な鍵はない。 }
+
+misc_worldmap_name { ドロヴァの粗い地図 }
+
+misc_mapink_name { インク }
+
+misc_mapink_description { 地図上の場所を示すために使用されます。 }
+
+key_chest_delani_name { デラニの鍵 }
+
+key_chest_delani_description { デラニの宝箱の鍵。 }
+
+note_evidence_boris_name { 計画された待ち伏せ }
+
+note_evidence_boris_description { 私ははぐれ者のキャンプの外で盗賊からこれを奪いました。 }
+
+item_stolenPackage_name { 盗まれた荷物 }
+
+item_stolenPackage_description { 私はこの荷物をリンゴ園で見つけました。ひどい悪臭がします。 }
+
+item_alraune_name { マンドラゴラ }
+
+item_alraune_description { 叫ぶ根。これは何のためにあるのだろう… }
+
+item_callashroom_name { カラシュルーム }
+
+item_callashroom_description { 湿地からのキノコ。 }
+
+item_egg_name { 卵 }
+
+item_egg_description { 巣からの卵。 }
+
+item_beer_name { ビール }
+
+item_beer_description { シンプルなビール。飲めば飲むほど、味が良くなる。 }
+
+item_apple_name { リンゴ }
+
+item_callashroom_extract_name { カラシャルームエキス }
+
+item_callashroom_extract_description { ヘルマのタリスマンに必要なエキス。 }
+
+item_ironbar_name { 鉄のインゴット }
+
+note_debtorlist_name { フリーデルの債務者リスト }
+
+note_debtorlist_description { 多くの人が借金を抱えています。私は今、債権回収業者になったのでしょうか？ }
+
+key_ratcellar_name { 地下室の鍵 }
+
+key_ratcellar_description { はぐれ者のキャンプにある酒場の地下室の鍵。 }
+
+weapon_axe_bady_dull_name { バディの鈍い斧 }
+
+weapon_axe_bady_sharp_name { バディの鋭い斧 }
+
+item_letterMehlunaToBady_name { メルナからのラブレター }
+
+item_earthroot_name { アースルート }
+
+item_earthroot_description { 洪水平野の森の川のそばに育つ。 }
+
+item_wine_name { ワイン }
+
+note_mineInformation_name { 伐採者を探している }
+
+item_entryMine_name { レヴィンからのメモ }
+
+item_silverore_name { 銀鉱石 }
+
+tool_pickaxe_silberhauer_name { シルバースマッシャー }
+
+tool_pickaxe_silberhauer_description { メリクが売ってくれた、かなり素晴らしいピッケルだ。 }
+
+item_logwood_name { 丸太 }
+
+item_salve_healing_name { 治癒軟膏 }
+
+item_pigglet_food_name { 強化飼料 }
+
+item_pigglet_food_description { それは子豚たちが力を取り戻すのに役立ちます。 }
+
+item_brokenwings_name { ノミの羽 }
+
+item_furtuft_name { 革の切れ端 }
+
+item_resin_name { 樹液 }
+
+item_resin_description { 樹の生き物から受け取った。 }
+
+weapon_axe_largeBranch_name { 石の斧 }
+
+weapon_axe_woodSplitter_name { 丸太割り器 }
+
+weapon_axe_bronzeTusk_name { 青銅のつるはし }
+
+weapon_axe_bronzeTusk_description { 鉱石の採掘を可能にします。 }
+
+weapon_axe_jawboneAxe_name { 顎骨の斧 }
+
+weapon_axe_heavyNailClub_name { ギザギザの青銅の斧 }
+
+weapon_axe_deformedAxe_name { 即席の石の斧 }
+
+weapon_axe_lightAxe_name { 軽量の斧 }
+
+weapon_axe_coarseBronzeAxe_name { 粗雑な青銅の斧 }
+
+weapon_axe_oldAxe_name { 古い斧 }
+
+weapon_axe_splittingAxe_name { 割り斧 }
+
+weapon_axe_beardedAxe_name { 変形したひげ斧 }
+
+weapon_axe_broadAxe_name { 大斧 }
+
+weapon_axe_highlandAxe_name { ハイランドアックス }
+
+weapon_axe_coarseDoubleAxe_name { スカルクリーバー }
+
+weapon_axe_doubleAxe_name { ラフアイアンアックス }
+
+weapon_axe_rustyAxe_name { バトルアックス }
+
+weapon_axe_coarseWarAxe_name { アイアンアックス }
+
+weapon_axe_warAxe_name { さびた斧 }
+
+weapon_axe_bearSlaughtererAxe_name { クマの肉切り斧 }
+
+weapon_axe_greatAxe_name { 大斧 }
+
+weapon_axe_barbarianBattleAxe_name { バーバリアンポールアックス }
+
+weapon_axe_iron-BoundGreatAxe_name { 鈍器の大斧 }
+
+weapon_axe_bloodReaper_name { オブシディアンリーパー }
+
+weapon_axe_berserkAxe_name { 処刑人 }
+
+weapon_axe_berserkAxe_description { 誰も彼の裁きから逃れることはできない。 }
+
+weapon_sword_gildedSickle_name { 金メッキの鎌 }
+
+weapon_sword_nailClub_name { くすんだ青銅の剣 }
+
+weapon_sword_heavyNailClub_name { 鈍った青銅の刃 }
+
+weapon_sword_bronzeShortSword_name { 擦り切れたショートソード }
+
+weapon_sword_warClub_name { 即席の青銅の剣 }
+
+weapon_sword_oldBronzeGladius_name { 古い青銅のグラディウス }
+
+weapon_sword_roughSword_name { 変形した剣 }
+
+weapon_sword_sword_name { 短剣 }
+
+weapon_sword_scavengingScimitar_name { 略奪のシミター }
+
+weapon_sword_hawk'SClaw_name { ファルコンの爪 }
+
+weapon_sword_crudeIronBlade_name { 生のアイアンブレード }
+
+weapon_sword_coarseBroadsword_name { ブロードソード }
+
+weapon_sword_broadsword_name { 錆びたブロードソード }
+
+weapon_sword_longsword_name { ロングソード }
+
+weapon_sword_battleBlade_name { バトルブレード }
+
+weapon_sword_berserkBlade_name { バーサーカーブレード }
+
+weapon_sword_swordOfNemeton_name { 鈍器の戦士の剣 }
+
+weapon_sword_swordOfTheFaithful_name { 忠誠の剣 }
+
+weapon_sword_runeSword_name { ルーンソード }
+
+weapon_sword_moonSword_name { 月の剣 }
+
+weapon_sword_moonSword_description { ルナの提案を拒む者は、すぐに彼女の暗い一面を味わうことになるだろう。 }
+
+weapon_dagger_tombstick_name { 擦り切れた青銅の短剣 }
+
+weapon_dagger_pineDagger_name { ギザギザの青銅のナイフ }
+
+weapon_dagger_breadKnife_name { パン切り包丁 }
+
+weapon_dagger_fang_name { 鈍いトゲ }
+
+weapon_dagger_boneKnife_name { 骨のナイフ }
+
+weapon_dagger_wornBronzeDagger_name { 青銅の短剣 }
+
+weapon_dagger_bronzeDagger_name { バランスの取れた短剣 }
+
+weapon_dagger_pointedDagger_name { 変形した青銅の短剣 }
+
+weapon_dagger_ceremonialDagger_name { 儀式用の短剣 }
+
+weapon_dagger_sacrificialDagger_name { ショートブレード }
+
+weapon_dagger_shortBlade_name { 牙のある短剣 }
+
+weapon_dagger_coarseDagger_name { 蚊の刺し針 }
+
+weapon_dagger_ironSpike_name { 鉄の刺し針 }
+
+weapon_dagger_mosquitoSting_name { 錆びた短剣 }
+
+weapon_dagger_ironDagger_name { 霧の刺し針 }
+
+weapon_dagger_blackKnife_name { 黒いナイフ }
+
+weapon_dagger_eviscerator_name { エヴィスセレーター }
+
+weapon_dagger_silence_name { 鈍い鉄の短剣 }
+
+weapon_dagger_heartSeeker_name { ハートシーカー }
+
+weapon_dagger_theKingslayer_name { ブラッドダガー }
+
+weapon_dagger_bloodDagger_name { キングスレイヤー }
+
+weapon_dagger_bloodDagger_description { 人々が立ち上がるとき、王は倒れるだろう。 }
+
+weapon_sling_coarseSling_name { 粗製スリング }
+
+weapon_sling_simpleSlingshot_name { シンプルなスリングショット }
+
+weapon_sling_heavySlingshot_name { 重いスリングショット }
+
+weapon_sling_headSlingshot_name { ヘッドスリングショット }
+
+weapon_sling_battleSlingshot_name { バトルスリングショット }
+
+weapon_bow_simpleBow_name { シンプルボウ }
+
+weapon_bow_shortBow_name { ショートボウ }
+
+weapon_bow_huntingBow_name { 即席の弓 }
+
+weapon_bow_longBow_name { ロングボウ }
+
+weapon_bow_reinforcedBow_name { 歪んだ弓 }
+
+weapon_bow_battleBow_name { バトルボウ }
+
+item_bloodquitostinger_name { ナットスティンガー }
+
+item_boartusk_name { イノシシの牙 }
+
+weapon_sword_shortSword_name { ブロンズショートソード }
+
+weapon_sword_gladius_name { グラディウス }
+
+weapon_spear_woodenSpear_name { 古い槍 }
+
+weapon_spear_stoneSpear_name { 鈍い槍 }
+
+weapon_spear_pitchfork_name { 即席の槍 }
+
+weapon_spear_fishSpear_name { 歪んだ青銅の槍 }
+
+weapon_spear_wolfToothSpear_name { 狼の牙の槍 }
+
+weapon_spear_shortSpear_name { ショートスピア }
+
+weapon_spear_simpleBronzeSpear_name { シンプルな青銅の槍 }
+
+weapon_spear_huntingSpear_name { 変形した狩猟用の槍 }
+
+weapon_spear_ango_name { アンゴ }
+
+weapon_spear_framea_name { フレメア }
+
+weapon_spear_ger_name { ゲル }
+
+weapon_spear_bronzeSpear_name { アイアン・スピア }
+
+weapon_spear_spear_name { イノシシの槍 }
+
+weapon_spear_deathRitualSpear_name { 錆びた槍 }
+
+weapon_spear_partisan_name { パルティザン }
+
+weapon_spear_pilum_name { ピルム }
+
+weapon_spear_wingSpear_name { 翼の槍 }
+
+weapon_spear_silverSpear_name { 鈍い鉄の槍 }
+
+weapon_spear_bloodBlade_name { ブラッドブレード }
+
+weapon_spear_tipOfDeath_name { 赤い蛇の槍 }
+
+weapon_spear_messengerOfTheDivine_name { ヒドラの牙 }
+
+weapon_spear_messengerOfTheDivine_description { 目には目を、歯には歯を — 共にヒドラにも立ち向かおう。 }
+
+weapon_shield_adornedWoodenShield_name { 装飾された盾 }
+
+weapon_shield_smallRoundShield_name { 小さな円形の盾 }
+
+weapon_shield_smallBronzeShield_name { 小さな青銅の盾 }
+
+weapon_shield_bronzeShield_name { 変形した青銅の盾 }
+
+weapon_shield_sigilShield_name { 紋章の盾 }
+
+weapon_shield_roundShield_name { 錆びた丸い盾 }
+
+weapon_shield_theWall_name { 壁 }
+
+weapon_shield_protection_name { 鉄の盾 }
+
+weapon_axe_snaga_name { スナガ }
+
+weapon_sword_branch_name { 枝 }
+
+weapon_sword_baton_name { バトン }
+
+weapon_shield_woodenBoard_name { 木の板 }
+
+weapon_shield_smallWoodenShield_name { 小さな木の盾 }
+
+item_roastedMeat_name { 揚げた細切れ肉 }
+
+item_roastedMeat_description { 特に美味しくはないが、少なくともどこから来たのかはわかる。 }
+
+item_signOfAtonement_name { 贖罪のトークン }
+
+item_signOfAtonement_description { 私の避難所での罪は、ここにおいて許される。 }
+
+item_luminousTruffle_name { トリュフ }
+
+item_slingermunition_name { スリングストーン }
+
+item_slingermunition_description { スリングショット用の弾薬。川で見つけることができます。 }
+
+item_ironore_name { 鉄鉱石 }
+
+item_ironlump_name { 鉄の塊 }
+
+item_frogleg_name { カエルの足 }
+
+item_acidsecretion_name { 酸性の膿液 }
+
+item_acidsecretion_description { 「膿液抽出」スキルを使用して動物から入手できます。 }
+
+item_forestessence_name { 森のエッセンス }
+
+item_forestessence_description { このエッセンスは、森の強力な存在から入手できます。 }
+
+item_teeth_name { 歯 }
+
+item_leather_name { 革 }
+
+item_leather_description { 「動物の皮を剥ぐ」スキルを使って動物から入手できます。 }
+
+item_feather_name { 羽根 }
+
+item_feather_description { 巣の中で見つけることができます。 }
+
+item_stalkerfeather_name { スナプターの羽根 }
+
+item_meat_stringy_name { ストリングミート }
+
+item_flowPlant_0_name { スプリングワート }
+
+item_flowPlant_0_description { 古い構造物の近くで見つけることができます。 }
+
+item_flowPlant_1_name { スプリングブロッサム }
+
+item_flowPlant_1_description { 古い構造物の近くで見つけることができます。 }
+
+item_healthPlant_2_name { ライフブロッサム }
+
+item_potion_health_0_name { ヒーリングポーション }
+
+item_potion_health_1_name { ポテンヒーリングポーション }
+
+item_permapotion_life_name { 命のエリクサー }
+
+item_permapotion_strength_name { 力のエリクサー }
+
+item_permapotion_mind_name { 心のエリクサー }
+
+item_permapotion_skill_name { 器用さのエリクサー }
+
+item_permaherb_strength_name { バサルトルート }
+
+item_permaherb_mind_name { ヴォイドプラント }
+
+item_permaherb_life_name { ホーソン }
+
+item_permaherb_skill_name { クリフライケン }
+
+item_shadowmushroom_name { シェードシュルーム }
+
+item_shadowmushroom_description { 暗い場所ならどこでも育つ。 }
+
+item_redmushroomtincture_name { レッドシュルームティンクチャー }
+
+item_beartrap_name { クマの罠 }
+
+item_beartrap_description { 対象を[TimeAbs]秒間スタンさせ、重度の出血を引き起こします。 }
+
+item_cavemushroom_name { キャバーンシュルーム }
+
+item_cavemushroom_description { 暗い場所ならどこでも成長します。 }
+
+item_ruinherb_name { ルインブロッサム }
+
+item_tarnishedSilverCup_name { 色褪せた銀杯 }
+
+item_mudLotus_name { スラッジロータス }
+
+item_mudLotus_description { ぬかるんだ湿原で育つ。 }
+
+item_shinyStone_name { 神秘的なクリスタル }
+
+item_shinyStone_description { ドルイドから入手した。私はこれをネメトンに持って行くことになっている。 }
+
+cons_flow_energyProjectile_name { マジックミサイル }
+
+cons_flow_energyProjectile_description { 視界内に魔法の弾を発射し、衝突時に爆発して[DamageFlexAbs]の魔法ダメージを与えます。 }
+
+cons_flow_conflagration_name { ブレイズ }
+
+cons_flow_conflagration_description { 炎の爆発を呼び起こし、[DamageFlexAbs]の魔法ダメージを与えます。 }
+
+cons_flow_wound_name { 傷 }
+
+cons_flow_wound_description { [WeaponDamagePercent]の武器ダメージを与え、出血を引き起こします。 }
+
+key_harvey_name { 古い鍵 }
+
+key_harvey_description { ネメトンで見つかりました。古くて擦り切れた様子です。 }
+
+misc_currency_name { コイン }
+
+misc_currency_description { ドロヴァの通貨。 }
+
+weapon_barehands_name { 拳 }
+
+weapon_barehands_description { 素手攻撃の攻撃力は、力に応じて増加します。 }
+
+item_stew_tiaa_name { ティアのシチュー }
+
+item_stew_tiaa_manipulated_name { 改ざんされた食べ物 }
+
+item_stew_tiaa_manipulated_description { バディの腸は喜ばないだろう。 }
+
+item_mushroom_name { 普通のキノコ }
+
+item_berry_name { ベリー }
+
+item_berry_description { 氾濫原の森で育ちます。 }
+
+item_fish_bass_name { バス }
+
+item_bottlePost_name { 瓶の中のメッセージ }
+
+item_auwaldDungeon_name { クリスタルの泥棒 }
+
+misc_riddle_sundial_name { ラムのフィギュア }
+
+misc_riddle_mirror_name { 鏡 }
+
+misc_riddle_incense_name { 香炉 }
+
+misc_riddle_horn_name { 角 }
+
+misc_riddle_horn_description { 多くの状況で役立ち、常に求められる。 }
+
+misc_riddle_conch_name { ハマグリ }
+
+misc_riddle_club_name { 儀式用の剣 }
+
+item_yellowGlyphStone_name { 黄色くて光沢のある石 }
+
+item_yellowGlyphStone_description { 装飾の施された黄色い石。そこには、カラスのシンボルの下で交差した二つの手が描かれています。 }
+
+tool_pickaxe_improvisedpickaxebroken_name { 破壊されたスマッシャー }
+
+tool_pickaxe_improvisedpickaxebroken_description { くそ！メリックは俺にどんなレモンを売ったんだ？ }
+
+throwing_knife_name { 投げナイフ }
+
+throwing_knife_description { あなたは、[DamageFlexAbs]のダメージを与え、対象の鎧を無視するナイフを投げます。 }
+
+item_lyra_description { 誰もが理解できる言語を話します。 }
+
+tool_torch_name { トーチ }
+
+tool_torch_description { 暗い場所や洞窟を照らします。武器を抜くとトーチを落としてしまいます。 }
+
+item_claw_name { 爪 }
+
+misc_bagOfCurrency_name { ジャラジャラ音のするポーチ }
+
+item_diaryKora_name { コラの日記 }
+
+item_treasureMap_auwald_name { 宝物：氾濫原の森 }
+
+misc_map_tristan_name { トリスタンの地図 }
+
+item_claw_description { 「爪剥ぎ」才能を使って動物から入手できます。 }
+
+misc_bagOfCurrency_description { 振るとジャラジャラ音がする袋。それはただの数枚のコインなのか、それとももっと何かが隠されているのか？ }
+
+key_chest_mineBanditMainKey_name { 錆びた鍵 }
+
+key_chest_mineBanditMainKey_description { 私はこれを一群の盗賊から奪った。 }
+
+item_mineRelic_name { 奇妙な遺物 }
+
+item_mineRelic_description { 古き者の遺物。 }
+
+item_rubble_name { 瓦礫 }
+
+Note_BanditMine_name { 古き者の遺物 }
+
+item_spiritVessel_greatTusk_name { 精霊の器 }
+
+item_atlanterRune_name { 奇妙なルーン }
+
+item_runestone_name { ルーンストーン }
+
+item_runestone_empty_name { 空のルーンストーン }
+
+item_packageBrutusMineWeapons_name { 武器パック }
+
+item_packageBrutusMineWeapons_description { みんなのための十分な武器が揃った。さあ、ここから脱出する時だ！ }
+
+key_chest_mineBanditEntry_name { 錆びた鍵 }
+
+key_chest_mineBanditEntry_description { 盗賊から見つけた。 }
+
+item_runestone_description { このルーンストーンは、マイティボアの魔法の力への直接的な接続を提供します。これを使うことで、いつでも呪文を唱えることができます。 }
+
+cons_Familiar_Firefly_name { スパーク }
+
+key_tavernKey_name { 宿屋の鍵 }
+
+key_tavernKey_description { 宿屋の裏口用の鍵。 }
+
+weapon_bow_atlanterBow_name { 神々の使者 }
+
+weapon_bow_atlanterBow_description { 彼らのメッセージが気に入らないかもしれません。自分で伝えてください。 }
+
+weapon_shield_atlanterShield_name { 神々の保護 }
+
+weapon_shield_atlanterShield_description { 神々の選ばれし者よ、永遠に生きよ。 }
+
+misc_writing_importantdocument_name { 神聖なクリスタルの行方 }
+
+item_energycrystal_cityDungeon_empty_name { 原始の森から得た神聖な空っぽのクリスタル }
+
+item_energycrystal_cityDungeon_charged_name { 原始の森から得た神聖なクリスタル }
+
+item_energycrystal_aufwald_charged_name { 氾濫原の森から得た神聖なクリスタル }
+
+item_energycrystal_aufwald_charged_description { この神聖なクリスタルは魔法の力で脈打っています。 }
+
+item_energycrystal_brutus_empty_name { 空の神聖なクリスタル }
+
+item_energycrystal_brutus_charged_name { 神聖なクリスタル }
+
+item_secret_foglets_name { 霧の分泌物 }
+
+item_ripper_head_name { 巨人のリッパークロー }
+
+item_essence_atlanter_name { 古代のエッセンス }
+
+item_essence_atlanter_description { このエッセンスは、古代の存在からのみ得ることができます。 }
+
+item_heart_name { クマの心臓 }
+
+item_secret_poise_name { 毒の膿液 }
+
+item_beak_name { くちばし }
+
+item_essence_stone_name { 大地のエッセンス }
+
+item_essence_stone_description { このエッセンスは、強力な岩の存在からのみ得ることができます。 }
+
+item_salivate_worm_name { ワームの唾液 }
+
+item_spider_thread_name { クモの糸 }
+
+item_essence_void_name { 影の断片 }
+
+item_essence_void_description { 薄暗い断片で、一時的に影のようになります。[DamageResPercent]のダメージ耐性を[TimeAbs]秒間増加させます。 }
+
+consumable_potion_darkbrew_healing_name { ダークブリュー }
+
+key_mursel_mine_name { 銀鉱の鍵 }
+
+key_mursel_mine_description { はぐれ者のキャンプにあるピットのバンカーハウスの鍵。 }
+
+key_tristanBillKey_name { 上の酒場の鍵 }
+
+key_tristanBillKey_description { オラフの酒場の2階への扉の鍵。 }
+
+key_ruinenexplorer_name { 遺跡の襲撃者たちからの鍵 }
+
+key_ruinenexplorer_description { 遺跡の襲撃者たちへの扉を開ける。 }
+
+cons_Familiar_Firefly_description { 私の弾けるような小さなスパーク。私が行くところならどこでもついてくる。 }
+
+item_bear_claw_name { クマの爪 }
+
+item_energycrystal_aufwald_empty_name { 洪水平野の空の神聖なクリスタル }
+
+item_energycrystal_aufwald_empty_description { この神聖なクリスタルは空っぽのように感じる。 }
+
+common { 一般的 }
+
+uncommon { 優良 }
+
+rare { 稀少 }
+
+epic { 壮麗 }
+
+legendary { 古今無双 }
+
+cons_flow_heavyBlow_name { 強力な一撃 }
+
+cons_flow_heavyBlow_description { [WeaponDamagePercent]の武器ダメージと[PoiseDamageAbs]のスタンスダメージを与える重い攻撃。 }
+
+cons_flow_shockingBlow_name { 粉砕の一撃 }
+
+cons_flow_shockingBlow_description { [WeaponDamagePercent]の武器ダメージを与え、敵を[StunTime]秒間スタンさせます。 }
+
+cons_flow_spartanKick_name { キック }
+
+cons_flow_spartanKick_description { [DamageFlexAbs]のダメージを与え、敵をノックバックさせます。 }
+
+cons_flow_execute_name { エグゼキュート }
+
+cons_flow_execute_description { [WeaponDamagePercent]の武器ダメージを与え、さらに相手にかかっているアクティブな出血ごとに[WeaponDamagePercent2]の武器ダメージを追加します。 }
+
+cons_flow_pierce_name { 貫通 }
+
+cons_flow_pierce_description { あなたは前方に跳び込み、槍を使って複数の素早い突きを繰り出し、前方の敵に対して1回のヒットごとに[WeaponDamagePercent]の武器ダメージを与えます。 }
+
+cons_flow_infection_name { 感染 }
+
+cons_flow_infection_description { あなたは[WeaponDamagePercent]の武器ダメージを与え、出血状態の敵に毒を与えます。 }
+
+cons_flow_bloodRage_name { ブラッドフレンジー }
+
+cons_flow_bloodRage_description { [WeaponDamagePercent]の武器ダメージを与える重攻撃です。ブラッドフレンジーが発動中に敵を倒すと、そのスキルのフォーカスポイントを回復します。 }
+
+item_rubin_name { ルビー }
+
+item_atlanterAcademyText_name { 古き者のドロヴァへの旅 }
+
+cons_flow_blink_name { ミスティ・ステップ }
+
+cons_flow_blink_description { あなたは、向いている方向に短い距離だけテレポートします。 }
+
+item_kiepe_name { パニエ }
+
+cons_flow_fogForm_name { 霧の形 }
+
+cons_flow_fogForm_description { [MovementPercent]の間、移動速度が増加し、[TimeAbs]秒間物理ダメージに対して無敵になります。 }
+
+cons_flow_fireCry_name { 炎の叫び }
+
+cons_flow_fireCry_description { 前方の円錐形の範囲内に[DamageFlexAbs]の魔法ダメージを与えます。 }
+
+cons_flow_root_cone_name { ルートコーン }
+
+cons_flow_root_cone_description { 前方の円錐形の範囲内に、敵を捕らえる根を召喚し、[TimeAbs]秒間拘束します。 }
+
+cons_flow_conjure_pack_name { 召喚：群れ }
+
+cons_flow_conjure_pack_description { 敵を引き裂くリッパーの群れを召喚します。 }
+
+cons_flow_conjure_insects_name { 召喚：昆虫 }
+
+cons_flow_conjure_insects_description { 敵を毒する昆虫を召喚します。 }
+
+cons_flow_conjure_rats_name { 召喚：ネズミ }
+
+cons_flow_conjure_rats_description { 敵に「出血」を与える可能性のあるネズミを召喚します。 }
+
+cons_flow_venomCry_name { 毒の叫び }
+
+cons_flow_venomCry_description { あなたは目の前に雲を呼び寄せ、敵を毒し、毎秒[DamageFlexAbs]の魔法ダメージを与えます。 }
+
+cons_flow_thunderstorm_name { 雷雨 }
+
+cons_flow_thunderstorm_description { あなたは強力な雷雨を作り出し、敵に向かって雷を落とします。その効果は[TimeAbs]秒間持続します。 }
+
+misc_traderBag_name { 汚れた袋 }
+
+misc_traderBag_description { 二つの交差した手の下にカラスを描いたシンボルが刺繍された、満たされた袋。 }
+
+misc_emptyTraderBag_name { 空の汚れた袋 }
+
+misc_emptyTraderBag_description { カラスの下に交差した二つの手を描いたシンボルが刺繍された空の袋。 }
+
+item_redGlyphStone_name { 赤い装飾された石 }
+
+item_redGlyphStone_description { 装飾された赤い石。それはカラスのシンボルの下に交差した二つの手を描いています。 }
+
+misc_riddle_butterfly_name { 触れられた蝶 }
+
+item_searchingForArenaFighter_name { お知らせ：アリーナ }
+
+item_letterFromEtzel_name { 待ち伏せからのメモ }
+
+cons_flow_root_aoe_name { ルートサークル }
+
+cons_flow_root_aoe_description { あなたは周囲の敵をつかむ根を召喚し、[TimeAbs]秒間拘束します。 }
+
+item_escortLetter_name { お知らせ：はぐれ者のキャンプへの護衛 }
+
+item_blackboard_woodcamp_name { お知らせ：木こりのキャンプ }
+
+cons_flow_flowForm_name { フォーカスシェイプ }
+
+cons_flow_flowForm_description { 物理ダメージを[DamagePercent]増加させ、移動速度と攻撃速度を[MovePercent]上昇させ、すべての行動におけるスタミナ消費を[StaminaValuePercent]減少させます。<br><br>フォーカスコストは時間とともに消費されます。この効果は、すべてのフォーカスが使い切られるまで持続します。 }
+
+cons_flow_whirlingEnergy_name { 渦巻くエネルギー }
+
+cons_flow_whirlingEnergy_description { あなたは周囲に魔法の風を呼び起こし、敵に[DamageFlexAbs]の魔法ダメージを与えます。この効果は[TimeAbs]秒間持続します。 }
+
+cons_flow_magicVision_name { 魔法の視覚 }
+
+cons_flow_magicVision_description { あなたの夜間視力は猫に匹敵します — [TimeAbs]秒間。 }
+
+item_searchingGraffiti_name { 注意: 破損した壁 }
+
+item_traps_name { 注意: もっと罠が必要です }
+
+cons_flow_obsidianSpear_name { 黒曜石の槍を召喚する }
+
+cons_flow_obsidianSpear_description { あなたは、周囲にフォーカスを生み出す古代の槍を召喚します。 }
+
+item_playWithKids_name { お知らせ：子供たちと遊ぶ }
+
+item_mikeschLetter_name { 借りがある恩義 }
+
+item_BanditsOnTheBridge_name { お知らせ：橋を解放せよ }
+
+cons_flow_dash_name { ダッシュ }
+
+cons_flow_dash_description { あなたは視界の中に向かって突進します。 }
+
+cons_flow_aggressiveCry_name { アグレッシブシャウト }
+
+cons_flow_aggressiveCry_description { あなたは前方の円錐形のエリアに向かって咆哮し、[PoiseDamageAbs]のスタンスダメージを与えます。 }
+
+cons_flow_battleCry_name { バトルシャウト }
+
+cons_flow_battleCry_description { 与えるダメージが[DamagePercent]増加し、移動速度と攻撃速度が[MovePercent]上昇しますが、受けるダメージも[ReceiveDamagePercent]増加します。この効果は[TimeAbs]秒間持続します。 }
+
+cons_flow_bullRush_name { チャージ }
+
+cons_flow_bullRush_description { 前方に突進し、[DamageFlexAbs]の物理ダメージを与えます。 }
+
+cons_flow_ferventCry_name { 熱烈な叫び }
+
+cons_flow_ferventCry_description { [TimeAbs]秒間、物理ダメージ耐性を[DamageResPercent]増加させます。 }
+
+item_crowtrap_name { カラスの足跡 }
+
+item_crowtrap_description { 発動時に、相手に出血効果を与え、移動速度を低下させます。 }
+
+throwing_ensnare_name { 投網 }
+
+throwing_ensnare_description { あなたはネットを投げ、相手を[TimeAbs]秒間動けなくします。 }
+
+item_permapotion_flow_name { 集中のエリクサー }
+
+item_permaherb_flow_name { 光輝のバス }
+
+item_potion_flow_0_name { 流れのポーション }
+
+item_potion_flow_1_name { 強力な流れのポーション }
+
+item_fishing_name { お知らせ：スープ用の魚を釣ってください }
+
+item_butterfliesAllAround_name { 蝶々 }
+
+item_rootTrap_name { ルートトラップ }
+
+item_rootTrap_description { 発動時、すべての敵を[TimeAbs]秒間動けなくします。 }
+
+item_poisonedThrowingKnife_name { 毒の投げナイフ }
+
+item_poisonedThrowingKnife_description { あなたは[DamageFlexAbs]のダメージと毒を与えるナイフを投げます。対象の鎧を無視します。 }
+
+item_thornyRanke_name { トゲのあるつる }
+
+item_thornyRanke_description { あなたは対象を毒し、引き寄せるつるを投げます。 }
+
+item_bomb_name { クラスター爆弾 }
+
+item_bomb_description { あなたは、範囲内のすべての対象に[DamageFlexAbs]のダメージを与える爆弾を投げます。対象の装甲を無視します。 }
+
+item_woodArrow_name { ストーンアロー }
+
+item_ironArrow_name { アイアンアロー }
+
+item_silverArrow_name { シルバーアロー }
+
+item_ironStone_name { アイアンボールズ }
+
+item_silverStone_name { シルバーボールズ }
+
+item_diamond_name { ダイヤモンド }
+
+item_ripperfur_name { リッパースキン }
+
+item_pigfur_name { イノシシの皮 }
+
+item_bearfur_name { クマの皮 }
+
+item_shiningfur_name { 光る皮 }
+
+item_gnarlyroot_name { ねじれた根 }
+
+item_silverlump_name { 銀の塊 }
+
+item_bellow_name { ふいご }
+
+item_bellow_description { 売れ！コイン！コイン！コイン！ }
+
+item_blanktrap_name { トラップモールド }
+
+item_blanktrap_description { これは罠を構築するために使用されます。 }
+
+item_splittertrap_name { クラスタートラップ }
+
+item_splittertrap_description { 発動すると、効果範囲内のすべての敵に[DamageFlexAbs]のダメージを与える爆発が発生します。ターゲットの防具は無視されます。 }
+
+item_acidtrap_name { アシッドトラップ }
+
+item_acidtrap_description { 発動すると、効果範囲内のすべての敵を減速させる毒の爆発が発生します。 }
+
+item_jaggedthrowingknife_name { ギザギザの儀式用ナイフ }
+
+item_jaggedthrowingknife_description { ナイフを投げて[DamageFlexAbs]のダメージを与え、出血を引き起こします。対象の鎧を無視します。 }
+
+item_acidbomb_name { 酸爆弾 }
+
+item_acidbomb_description { 爆弾を投げると、有毒な雲が広がり、範囲内のすべての敵の動きを遅くします。 }
+
+item_bogwheat_name { ムールウィート }
+
+item_bogwheat_description { 農場の近くの湿地で育ちます。 }
+
+item_glauglocke_name { リリーグレー }
+
+item_glauglocke_description { 原始の森で育ちます。 }
+
+item_riverbedmoss_name { 河床の苔 }
+
+item_needlelichen_name { 針状地衣類 }
+
+item_needlelichen_description { 針葉樹林の木に生えています。 }
+
+item_povage_name { クローバージュ }
+
+item_povage_description { 酒場の近くに生えています。 }
+
+item_skulldew_name { スカルデュー }
+
+item_skulldew_description { 湿地の最深部で見つかります。非常に珍しいです。 }
+
+item_rustymosspipe_name { ラストモス }
+
+item_rustymosspipe_description { あなたをリラックスさせ、日々の煩わしさを忘れさせてくれます。 }
+
+item_potion_windwalker_name { さまよえる羽のポーション }
+
+item_potion_windwalker_description { [TimeAbs]秒間、あなたの移動速度を[MovePercent]増加させます。 }
+
+item_harpybrew_name { ハーピーブリュー }
+
+item_harpybrew_description { フォーカスと健康を入れ替えます。それは完全に無意味ではないはずですよね？ }
+
+item_golemsalve_name { ゴーレム軟膏 }
+
+item_golemsalve_description { 物理ダメージを[DamageResPhysPercent]分軽減しますが、魔法ダメージを[DamageResMagicPercent]分一時的に増加させます。この効果は[TimeAbs]秒間持続します。 }
+
+item_agilostew_name { アジロの奇妙なシチュー }
+
+item_foodpile_name { 魚のオムレツ }
+
+item_fishpan_name { 魚の炒め物 }
+
+item_roastedcallamushroom_name { フライドカラッシュルーム }
+
+item_roastofthepast_name { 古き者のロースト }
+
+item_mudmash_name { オラフの肉シチュー }
+
+item_fogstew_name { 陰鬱なシチュー }
+
+item_rootstew_name { 霧のシチュー }
+
+item_troutskewersbombus_name { デススキューア・ア・ラ・ボンバス }
+
+item_aditroast_name { 洞窟のシチュー }
+
+armor_chest_leather_name_name { 革の鎧 }
+
+armor_chest_leather_name_description { 私の初めての本格的な鎧。 }
+
+armor_chest_miner_name_name { 伐採者の装備 }
+
+armor_chest_miner_name_description { 爪に対してはあまり防御力がないが、作業するには快適だ。 }
+
+armor_chest_nemeton_guardian_druid_name_name { ネメトン・ドルイドの戦闘鎧 }
+
+armor_chest_nemeton_guardian_druid_name_description { ネメトンの守護者のみがこの鎧を着用することを許されている。 }
+
+armor_chest_nemeton_guardian_heavy_name_name { ネメトン重装戦闘鎧 }
+
+armor_chest_nemeton_guardian_light_name_name { ネメトン軽装戦闘鎧 }
+
+armor_chest_lendha_heavy_name_name { ネメトン重装鎧 }
+
+armor_chest_lendha_heavy_name_description { この鎧はネメトンのメンバーにのみ与えられています。これは私のネメトンへの忠誠を示しています。 }
+
+armor_chest_lendha_name_name { ネメトン軽装鎧 }
+
+armor_chest_shirt_ragged_name_name { ボロ布 }
+
+armor_chest_shirt_ragged_name_description { ないよりはマシだと思う… }
+
+armor_chest_ruinenlager_fighter_druid_name_name { はぐれ者のドルイド戦士の鎧 }
+
+armor_chest_ruinenlager_fighter_druid_name_description { はぐれ者のキャンプで最も強い者だけが、この鎧を着用することを許されている。 }
+
+armor_chest_ruinenlager_fighter_fight_name_name { はぐれ者の軽戦士の鎧 }
+
+armor_chest_ruinenlager_fighter_heavy_name_name { はぐれ者の重戦士の鎧 }
+
+armor_chest_ruinenlager_heavy_name_name { はぐれ者の重装甲 }
+
+armor_chest_ruinenlager_heavy_name_description { この鎧ははぐれ者のメンバー専用です。これは私のジェロへの忠誠を示しています。 }
+
+armor_chest_ruinenlager_name_name { はぐれ者の軽装甲 }
+
+armor_chest_tunic_name_name { 作業服 }
+
+armor_chest_tunic_name_description { 作業服。あまり多くの保護は提供しませんが、何もないよりはましです。 }
+
+helmet_antlers_name_name { シカのヘルメット }
+
+helmet_draugr_silver_name_name { 古き者のヘルメット }
+
+helmet_earprotection_name_name { 耳保護具 }
+
+helmet_ironwings_name_name { 鉄の翼のヘルメット }
+
+helmet_legionare_name_name { レギオネアヘルメット }
+
+Raven Mask_name { カラスのマスク }
+
+quiver_simple_name_name { シンプルな矢筒 }
+
+quiver_simple_name_description { 三本の矢を収納できるシンプルな矢筒。 }
+
+ring_aldo_name_name { アルドの指輪 }
+
+ring_aldo_name_description { Aの文字が刻まれた小さな指輪。 }
+
+item_mediumquiver_name { 中型の矢筒 }
+
+item_mediumquiver_description { この矢筒には五本の矢を収納するスペースがあります。 }
+
+item_bigquiver_name { 大型の矢筒 }
+
+item_bigquiver_description { この矢筒には七本の矢を収納するスペースがあります。 }
+
+item_rivercharm_name { 川のアミュレット }
+
+item_rivercharm_description { 成功したヒット時に、攻撃は[FocusValueAbsolut]分のフォーカスを生成します。 }
+
+item_thornfetish_name { トゲのあるフェティッシュ }
+
+item_thornfetish_description { 各呪文および各能力は追加で[HealValuePercent]の健康を消費しますが、[DamageValuePercent]の追加ダメージを与えます。 }
+
+item_riptoothchain_name { 牙のネックレス }
+
+item_riptoothchain_description { 出血効果はそのダメージをより早く与えます。 }
+
+item_vipertooth_name { 毒蛇の牙 }
+
+item_vipertooth_description { 毒の減速効果は[SlowPercent]によって増加する。 }
+
+item_mastersmemory_name { マスターのベルト }
+
+item_mastersmemory_description { 剣または斧のコンボの最終ヒットは、[DamageValuePercent]の追加ダメージを与え、[FocusValuePercent]の追加フォーカスを生成します。 }
+
+item_cleavageskull_name { スカルクリーバー }
+
+item_cleavageskull_description { 相手に対して[PoiseValuePercent]の追加スタンスダメージを与えます。 }
+
+item_bloodthirstamulet_name { ブラッドサースティアミュレット }
+
+item_bloodthirstamulet_description { 相手がアクティブな出血状態である場合、あなたの近接攻撃は[TriggerPercent]の確率で[TriggerChance]の健康を再生します。 }
+
+item_berserkerring_name { バーサーカリング }
+
+item_berserkerring_description { 倒した相手ごとに[HealValueAbsolut]の健康を回復します。 }
+
+item_berserkerring_2_name { 豪華なバーサーカリング }
+
+item_berserkerring_2_description { 倒した相手ごとに[HealValuePercent]の健康を回復します。 }
+
+item_sprigganheart_name { 乾燥したスプリガの心臓 }
+
+item_sprigganheart_description { あなたに当たるすべての近接攻撃は、[TriggerPercent]の確率で根が相手を捕らえ、[StunTime]秒間スタンさせます。 }
+
+item_hunterquiver_name { ハンターの角 }
+
+item_hunterquiver_description { あなたの矢筒の容量を1増やし、リロードを速めます。 }
+
+item_boartooth_name { イノシシの頭蓋骨 }
+
+item_boartooth_description { 重い攻撃は[StaminaValuePercent]分スタミナを消費しません。 }
+
+item_tendonofglory_name { 壮大なる一撃 }
+
+item_tendonofglory_description { 遠距離攻撃は最初に命中した対象を貫通します。 }
+
+item_shaftofpurefury_name { 純粋なる怒りの矢 }
+
+item_shaftofpurefury_description { 失った健康ごとに[HealthPercent]につき、[DamagePercent]の追加ダメージを与えます。 }
+
+item_bloodbornering_name { 血の指輪 }
+
+item_bloodbornering_description { 一度攻撃を受けると、相手にダメージを与えることで失った健康を再生するための短い時間が与えられます。古い血に注意してください。 }
+
+item_whispersilkbag_name { ささやく絹で作られたポーチ }
+
+item_whispersilkbag_description { あなたは1秒ごとに[StaminaValueAbsolut]のスタミナを再生します。 }
+
+item_rubintalisman_name { ルビーのタリスマン }
+
+item_rubintalisman_description { すべてのシャウトの効果を強化します。 }
+
+item_flowcatchertalisman_name { フロウキャッチャータリスマン }
+
+item_flowcatchertalisman_description { フォーカス能力を使用すると、次の近接攻撃によって与えるダメージが一時的に[DamageValuePercent]増加します。 }
+
+item_windtalisman_name { ウィンドタリスマン }
+
+item_windtalisman_description { 回避した後、次の攻撃は[DamageValuePercent]の追加ダメージを与えます。 }
+
+item_lifering_name { ノルンの指輪 }
+
+item_spiritamulet_0_name { 精霊のアミュレット }
+
+item_spiritamulet_1_name { 強化された精霊のアミュレット }
+
+item_silverringstrength_0_name { 暴力の指輪 }
+
+item_silverringstrength_1_name { 偉大なる暴力の指輪 }
+
+item_silverringstrength_2_name { ダラノットの指輪 }
+
+item_silberringskill_0_name { 盗賊の銀の指輪 }
+
+item_silberringskill_1_name { 殺人者の銀の指輪 }
+
+item_silberringskill_2_name { 雇われた殺人者の銀の指輪 }
+
+item_silberringmind_0_name { 精霊の指輪 }
+
+item_silberringmind_1_name { 繊細な精霊の指輪 }
+
+item_silberringmind_2_name { 絶妙な精霊の指輪 }
+
+item_armorring_0_name { 鉄のトリスケリオン }
+
+item_armorring_1_name { 銀のトリスケリオン }
+
+item_magicresring_0_name { トリケトラ }
+
+item_magicresring_1_name { 光輝のトリケトラ }
+
+item_harpyiefeather_name { ハーピーフェザー }
+
+item_harpyiefeather_description { 遺跡にいる古い翼のある生き物から得られた。 }
+
+item_hunterstrophy_name { ハンターのトロフィー }
+
+item_hunterstrophy_description { 遠距離武器が弾薬を消費しない確率を[TriggerPercent]に引き上げる。 }
+
+item_talismanJourneyToTheRoots_name { ブラッディタリスマン }
+
+item_talismanJourneyToTheRoots_description { ディーモから得たタリスマンです。私はこれを母の根のそれぞれに持って行くことになっています。 }
+
+armor_chest_leather_strong_name_name { 強力な革の鎧 }
+
+armor_chest_leather_magielager_name_name { 結ばれし者の衣服 }
+
+armor_chest_leather_magielager_name_description { 今、私は原始の森と一体となった。 }
+
+armor_chest_nemeton_merchant_name_name { ネメトンの商人の衣装 }
+
+armor_chest_nemeton_craftsman_name_name { ネメトンの職人の衣装 }
+
+armor_chest_nemeton_chief_name_name { ネメトンの指導者の鎧 }
+
+armor_chest_ruinenlager_chief_name_name { はぐれ者の指導者の鎧 }
+
+item_mumbertDiarrhoea_name { スパイクビール }
+
+item_mumbertDiarrhoea_description { ハンバートからアスムスへ }
+
+item_marinatedmeatleg_name { ティアのマリネされた肉のシャンク }
+
+item_letterCityDungeon_0_name { ドロヴァの不安 IV }
+
+item_letterCityDungeon_1_name { ドロヴァの不安 V }
+
+item_letterCityDungeon_2_name { ドロヴァの不安 VI }
+
+item_letterCityDungeon_3_name { 古い楽譜 }
+
+item_letterCityDungeon_Underground_0_name { 終わりが近い I }
+
+item_letterCityDungeon_Underground_1_name { 終わりが近い II }
+
+item_letterCityDungeon_Underground_2_name { 密室 }
+
+item_letterAuwaldDungeon_0_name { 自然の操作の始まり }
+
+item_letterAuwaldDungeon_1_name { 驚くべき副作用 }
+
+item_letterAuwaldDungeon_2_name { クモの洞窟 }
+
+item_letterAuwaldDungeon_3_name { 自然の操作の成功 }
+
+item_letterAuwaldDungeon_4_name { クモの観察 }
+
+item_letterAuwaldDungeon_5_name { 最後の生存者の一人 }
+
+key_ShadyDistrict_name { ダーククォーターの鍵 }
+
+item_rustmoss_BadFromGera_name { カット・ラストモス }
+
+item_rustmoss_BadFromGera_description { ゲラは私に、このラストモスをレイナの供給品の中に「紛れ込ませる」ように言っています。 }
+
+item_kiepe_rubble_name { パニエ }
+
+item_paperchasestone_cleansed_name { 浄化されたタリスマン }
+
+item_paperchasestone_cleansed_description { その草木灰はタリスマンからすべての邪悪を浄化した。しかし、ひとつのルーンが欠けている。 }
+
+item_paperchasestone_band_name { 紐付きタリスマン }
+
+item_paperchasestone_band_description { 粗雑なタリスマンは今、紐からぶら下がっている。しかし、まだ整っているようには見えない… }
+
+item_paperchasestone_raw_name { 粗雑なタリスマン }
+
+item_paperchasestone_rune_name { 装飾されたタリスマン }
+
+item_paperchasestone_rune_description { 私の芸術的才能のおかげで、このタリスマンにはルーンが飾られました。子供たちに見せてみようかな？ }
+
+misc_riddle_deer_name { 銀の角 }
+
+misc_riddle_deer_description { 古き者の魔法の遺物。神々の力を模倣したもの。 }
+
+misc_riddle_fox_name { 銀の爪 }
+
+misc_riddle_eagle_name { 銀の羽 }
+
+weapon_sword_karottegladius_name { カロッテの武器 }
+
+weapon_sword_karottegladius_description { 幅広のニンジンが彫り込まれた扱いやすい武器。 }
+
+item_karottegladius_broken_name { カロッテの損傷した武器 }
+
+item_karottegladius_broken_description { チュナイクはこの武器を修理できるはずだ。 }
+
+item_letterboard_fragment_name { タブレットの破片 }
+
+item_atlanter_coin_name { 古代のコイン }
+
+item_engraving_stones_name { 刻まれた石 }
+
+item_sealstone_past_name { 古き者の印章石 }
+
+item_sealstone_past_description { 精巧に装飾された石に埋め込まれたクリスタル。 }
+
+item_brutus_seal_inactive_name { 無効のドリヴァニウスの封印 }
+
+item_brutus_seal_inactive_description { 七つの印章石に埋め込まれたクリスタルのすべてがアクティブであるわけではありません。 }
+
+item_shell_01_name { クラム }
+
+item_shell_02_name { クラム }
+
+item_atlanter_wine_name { 古き者のワイン }
+
+item_atlanter_wine_description { ヴィンテージ：不明。 }
+
+item_herb_past_name { 古き者の癒しのハーブ }
+
+item_herb_past_description { 古代のものであるが、依然としていくつかの癒しの特性を持っている。 }
+
+item_headdress_magicamp_name { 絆の冠 }
+
+item_headdress_magicamp_description { 原始の森との絆を象徴する冠。 }
+
+item_brutus_seal_active_name { ドリヴァニウスのアクティブシール }
+
+item_brutus_seal_active_description { 埋め込まれた七つのクリスタルすべてが輝いている。 }
+
+item_letterTableBrutus_0_name { ドリヴァニウス最終研究 II }
+
+item_letterTableBrutus_1_name { ドリヴァニウス最終研究 III }
+
+item_letterTableBrutus_2_name { ドリヴァニウス最終研究 IV }
+
+item_atlanteanarmorparts_name { 古き者の鎧の欠片 }
+
+item_atlanteanarmorparts_description { 価値がありそうですね。もしかしたら鍛冶屋がこれらを使って何かできるかもしれません。 }
+
+recipe_flow_aggressiveCry_name { 能力：アグレッシブシャウト }
+
+recipe_flow_battleCry_name { 能力：バトルシャウト }
+
+recipe_flow_blink_name { 呪文：ミスティステップ }
+
+recipe_flow_bloodRage_name { 能力：ブラッドフレンジー }
+
+recipe_flow_bullRush_name { 能力：チャージ }
+
+recipe_flow_conflagration_name { 呪文：ブレイズ }
+
+recipe_flow_dash_name { 能力：ダッシュ }
+
+recipe_flow_energyProjectile_name { 呪文：エネルギーボルト }
+
+recipe_flow_execute_name { 能力：エグゼキュート }
+
+recipe_flow_ferventCry_name { 能力：熱烈な叫び }
+
+recipe_flow_fireCry_name { 呪文：炎の叫び }
+
+recipe_flow_flowForm_name { 呪文：フォーカスシェイプ }
+
+recipe_flow_fogForm_name { 呪文：霧の形 }
+
+recipe_flow_heavyBlow_name { 能力：マイティブロー }
+
+recipe_flow_infection_name { 能力：感染 }
+
+recipe_flow_magicVision_name { 呪文：魔法の視界 }
+
+recipe_flow_obsidianSpear_name { 呪文：黒曜石の槍を召喚する }
+
+recipe_flow_pierce_name { 能力：貫通 }
+
+recipe_flow_root_aoe_name { 呪文：ルートサークル }
+
+recipe_flow_root_cone_name { 呪文：ルートコーン }
+
+recipe_flow_shockingBlow_name { 能力：シャッタリングブロー }
+
+recipe_flow_spartanKick_name { 能力：キック }
+
+recipe_flow_thunderstorm_name { 呪文：サンダーストーム }
+
+recipe_flow_venomCry_name { 呪文：毒の叫び }
+
+recipe_flow_whirlingEnergy_name { 呪文：渦巻くエネルギー }
+
+recipe_flow_wound_name { 能力：傷 }
+
+recipe_acidbomb_name { レシピ：酸爆弾 }
+
+recipe_acidtrap_name { レシピ：酸トラップ }
+
+recipe_aditroast_name { レシピ：洞窟シチュー }
+
+recipe_agilostew_name { レシピ：アジロの奇妙なシチュー }
+
+recipe_beartrap_name { レシピ：クマの罠 }
+
+recipe_bellow_name { レシピ： bellows（ふいご） }
+
+recipe_bigquiver_name { レシピ：大きな矢筒 }
+
+recipe_blanktrap_name { レシピ：罠の型 }
+
+recipe_bomb_name { レシピ：クラスター爆弾 }
+
+recipe_crowfeettrap_name { レシピ：カラスの足 }
+
+recipe_elixier_concentration_name { レシピ：集中のエリクサー }
+
+recipe_elixier_life_name { レシピ：生命のエリクサー }
+
+recipe_elixier_skill_name { レシピ：器用さのエリクサー }
+
+recipe_elixier_spirit_name { レシピ：精神のエリクサー }
+
+recipe_elixier_strength_name { レシピ：力のエリクサー }
+
+recipe_farmersmeal_name { レシピ：農夫の食事 }
+
+recipe_fishpan_name { レシピ：魚の炒め物 }
+
+recipe_flowpotion_0_name { レシピ：トンネルロースト }
+
+recipe_flowpotion_1_name { レシピ：強力なフローポーション }
+
+recipe_fogstew_name { レシピ：陰鬱なシチュー }
+
+recipe_foodpile_name { レシピ：魚のオムレツ }
+
+recipe_golemsalve_name { レシピ：ゴーレム軟膏 }
+
+recipe_harpybrew_name { レシピ：ハーピーブリュー }
+
+recipe_healingsalve_name { レシピ：治癒軟膏 }
+
+recipe_healingsalve_2_name { レシピ：レッドシュルームティンクチャー }
+
+recipe_healingsalve_3_name { レシピ：ダークブリュー }
+
+recipe_honeybeer_name { レシピ：ハニーミード }
+
+recipe_hunterstrophy_name { レシピ：ハンターのトロフィー }
+
+recipe_ironarrow_name { レシピ：アイアンアロー }
+
+recipe_ironbar_name { レシピ：アイアンインゴット }
+
+recipe_ironlump_name { レシピ：鉄の塊 }
+
+recipe_ironstone_name { レシピ：鉄の玉 }
+
+recipe_jaggedthrowingknife_name { レシピ：ギザギザの儀式用ナイフ }
+
+recipe_leather_name { レシピ：革 }
+
+recipe_lockpick_name { レシピ：ロックピック }
+
+recipe_marinatedmeatleg_name { レシピ：ティアのマリネした肉のシャンク }
+
+recipe_mediumquiver_name { レシピ：ミディアム矢筒 }
+
+recipe_mudmash_name { レシピ：オラフの肉のシチュー }
+
+recipe_poisonedthrowingknife_name { レシピ：毒入り投げナイフ }
+
+recipe_potion_health_0_name { レシピ：回復ポーション }
+
+recipe_potion_health_1_name { レシピ：強力な回復ポーション }
+
+recipe_potion_windwalker_name { レシピ：さまよう羽のポーション }
+
+recipe_rivercharm_name { レシピ：川のアミュレット }
+
+recipe_roastedcallamushroom_name { レシピ：揚げカラシャルーム }
+
+recipe_roastofthepast_name { レシピ：古き者のロースト }
+
+recipe_rootstew_name { レシピ：霧のシチュー }
+
+recipe_rustymosspipe_name { レシピ：サビコケ }
+
+recipe_silberringmind_0_name { レシピ：精霊の指輪 }
+
+recipe_silberringmind_1_name { レシピ：繊細な精霊の指輪 }
+
+recipe_silberringskill_0_name { レシピ：盗賊の銀の指輪 }
+
+recipe_silberringskill_1_name { レシピ：殺人者の銀の指輪 }
+
+recipe_silverarrow_name { レシピ：銀の矢 }
+
+recipe_silverlump_name { レシピ：銀の塊 }
+
+recipe_silverringstrength_0_name { レシピ：暴力の指輪 }
+
+recipe_silverringstrength_1_name { レシピ：大いなる暴力の指輪 }
+
+recipe_silverstone_name { レシピ：銀の玉 }
+
+recipe_smashironbar_name { レシピ：鉄の塊 }
+
+recipe_spiritamulet_0_name { レシピ：精霊のアミュレット }
+
+recipe_spiritamulet_1_name { レシピ：強化された精霊のアミュレット }
+
+recipe_splittertrap_name { レシピ：クラスタートラップ }
+
+recipe_thronyvine_name { レシピ：トゲのあるツタ }
+
+recipe_thrownet_name { レシピ：キャスト・ア・ネット }
+
+recipe_troutskewersbombus_name { レシピ：デス・スキューアー・ア・ラ・ボンブス }
+
+recipe_whispersilkbag_name { レシピ：ささやく絹のポーチ }
+
+recipe_woodenarrow_name { レシピ：石の矢 }
+
+ring_tuz_name_name { 汚れた指輪 }
+
+ring_tuz_name_description { 悪臭がする。私はそれを荒れ地で見つけた。 }
+
+item_letterfromolafaboutBrutus_name { ドリヴァニウスの手紙 }
+
+item_ruinenlager_bandit_name { 誰が誰を待ち伏せしているのか }
+
+speed_slow { 遅い }
+
+speed_medium { 中速 }
+
+speed_fast { 速い }
+
+speed_veryfast { 非常に速い }
+
+category_all { すべてのアイテム }
+
+category_armor { 鎧、ヘルメット、アクセサリー }
+
+category_weapons { 武器、盾、弾薬 }
+
+category_consumables { ポーション、治療、食料 }
+
+item_ripper_head_huntTheRipper_name { リッパーのリーダーの首 }
+
+item_ripper_head_huntTheRipper_description { このリッパーは、オラフの酒場周辺をもはや恐怖に陥れることはない。 }
+
+item_letter_sick_siser_name { ドルイドのメモ }
+
+SickSiser { 盗賊のキャンプからのメモ }
+
+armor_chest_light_atlanter_name { 古き者のルーンアーマー }
+
+armor_chest_heavy_atlanter_name { 古き者のルーン武器 }
+
+armor_chest_druid_atlanter_name { 古き者のルーンローブ }
+
+armor_chest_druid_atlanter_description { 古代の鎧、再び鍛えられた。その外見だけで、その力を証明している。 }
+
+item_letter_library_0_name { ルーン魔法の歴史 I }
+
+item_letter_library_1_name { ルーン魔法の歴史 II }
+
+item_letter_library_2_name { ルーン魔法の歴史 III }
+
+item_letter_library_3_name { ルーン魔法の歴史 IV }
+
+item_letter_library_circleRoom_note1_name { テレポーテーションサークル }
+
+item_letter_library_circleRoom_note2_name { ダークシルバー }
+
+item_letter_library_energyRoom_note_name { ルーンストーン }
+
+item_letter_library_golemRoom_note1_name { 研究：自然魔法 }
+
+item_letter_library_golemRoom_note2_name { 研究：力の魔法 }
+
+item_letter_library_golemRoom_note3_name { 火のルーン事故 }
+
+item_letter_library_golemRoom_note4_name { 初めてのルーンゴーレム }
+
+item_letter_library_natureRoom_note_name { スプリガの心臓 }
+
+item_letter_library_soundRoom_note_name { ソニックトラブル }
+
+item_letter_library_spearRoom_note1_name { エクストラクターI }
+
+item_letter_library_spearRoom_note2_name { ルーンスピアI }
+
+item_letter_library_spearRoom_note3_name { ルーンスピアII }
+
+item_letter_shrine_apus_circinus_name { アプスの神殿 }
+
+item_letter_shrine_bootes_auriga_name { ボーディスの神殿 }
+
+item_letter_shrine_cygnus_name { 白鳥の神殿 }
+
+item_letter_shrine_luna_name { ルナの神殿 }
+
+item_letter_shrine_sol_name { ソルの神殿 }
+
+item_letter_shrine_terra_borealis_name { テラの神殿 }
+
+item_letter_shrine_vela_name { ヴォラゴの神殿 }
+
+key_sleepingTavernKey_name { 部屋の鍵 }
+
+key_sleepingTavernKey_description { オラフの2階の部屋を1泊借りました。 }
+
+item_strangeFossil_name { 奇妙な化石 }
+
+letter_leru_hint01_name { ロルティズの最初の夢の絵 }
+
+letter_leru_hint02_name { ロルティズの第二の夢の絵 }
+
+armor_chest_nemeton_social_name_name { ネメトンの衣装 }
+
+armor_chest_tunic_ragged_2_name { 破壊された鎧 }
+
+armor_chest_tunic_ragged_2_description { ここでは鎧として通用するかもしれない…他に何もなければ。 }
+
+armor_chest_tunic_noble_name_name { 上質な衣服 }
+
+armor_chest_tunic_noble_name_description { 初対面の印象を良くするチャンスは二度とない。この服を着ると、なかなか決まっているだろう。 }
+
+armor_chest_bandit_T1_name { 盗賊の軽装鎧 }
+
+armor_chest_bandit_T2_name { 盗賊の中装鎧 }
+
+armor_chest_bandit_T2_description { 防御よりも威圧の手段として機能します。 }
+
+armor_chest_bandit_T4_name { 盗賊の重装鎧 }
+
+armor_chest_bandit_T4_description { ステータスシンボルと防御を一つにまとめた便利なパッケージ。 }
+
+helmet_crown_name_name { 古代の頭飾り }
+
+helmet_crown_name_description { かつて誰がこれを身に着けていたのだろうか？ }
+
+helmet_mask_empathetic_name_name { 共感のマスク }
+
+helmet_mask_empathetic_name_description { 他者に注意を払う者だけが、このマスクの価値を理解するだろう。 }
+
+helmet_mask_arrogant_name_name { 優越のマスク }
+
+helmet_mask_arrogant_name_description { 自分に自信を持つ者だけが、このマスクの価値を理解するだろう。 }
+
+helmet_mask_rational_name_name { 洞察のマスク }
+
+helmet_mask_rational_name_description { 批判的かつ分析的に考える者だけが、このマスクの価値を理解するだろう。 }
+
+helmet_nemeton_guard1_name_name { ネメトンライトヘルメット }
+
+helmet_nemeton_guard2_name_name { ネメトンヘビーヘルメット }
+
+helmet_ruinenlager_guard1_name_name { はぐれ者シンプルヘルメット }
+
+helmet_ruinenlager_guard2_name_name { はぐれ者ヘビーヘルメット }
+
+helmet_cauldron_name_name { 大釜 }
+
+helmet_cauldron_name_description { 持ち運ぶ際は、自分の持ち物に気を付けてください。 }
+
+helmet_leathercap_name_name { 革の帽子 }
+
+helmet_leathercap_name_description { おしゃれですね。似合っています。 }
+
+helmet_gladiator_name_name { グラディエーターのヘルメット }
+
+helmet_gladiator_name_description { 狭い隙間から未来の犠牲者を見つめることができます。 }
+
+helmet_blindfold_dark_name_name { 暗いアイマスク }
+
+helmet_blindfold_dark_name_description { 狭い隙間からすべてを見ることができます。そして、あなたはもっと神秘的に見えるでしょう！ }
+
+helmet_blindfold_light_name_name { 明るいアイマスク }
+
+helmet_atlanter_name_name { 過ぎ去りし時のヘルメット }
+
+helmet_atlanter_name_description { 何世紀も誰にも着用されていないと思われる古代のヘルメット。 }
+
+helmet_straw_name_name { 麦わら帽子 }
+
+helmet_straw_name_description { この麦わら帽子は、頻繁に修理されているにもかかわらず、まだかなりシャープに見える。誰かが非常に大切に扱ってきたのだろう。 }
+
+helmet_hood_bandit_name_name { 盗賊のフード }
+
+helmet_hood_bandit_name_description { 顔と意図を隠す。 }
+
+helmet_hood_bandit_t4_name_name { 盗賊の重いフード }
+
+helmet_barbarian_name_name { 野蛮人のヘルメット }
+
+helmet_barbarian_name_description { 野蛮人のためのヘルメット。内部には「C」の文字が刻まれています。 }
+
+helmet_mask_sheep_name_name { 羊のマスク }
+
+helmet_mask_sheep_name_description { メェ！ }
+
+helmet_onion_name_name { 玉ねぎのヘルメット }
+
+helmet_onion_name_description { 独特な形をしたヘルメット。 }
+
+helmet_mask_vodoo_name_name { ブードゥーのマスク }
+
+helmet_mask_vodoo_name_description { このマスクには魔法の力があると言われています。 }
+
+helmet_mask_frog_name_name { カエルのマスク }
+
+helmet_mask_frog_name_description { ゲコ！ }
+
+helmet_mask_death_name_name { 死のマスク }
+
+helmet_mask_death_name_description { 不気味。恐ろしい。しかし、かなりよく作られている。 }
+
+helmet_mask_obito_name_name { 渦巻きのマスク }
+
+helmet_mask_obito_name_description { 渦の中心には目がある。 }
+
+helmet_mushroom_name_name { キノコの帽子 }
+
+helmet_mushroom_name_description { もし私が砂に埋もれて頭だけを出したら、誰か私を助けてくれるだろうか？ }
+
+helmet_draugr_dark_name_name { 古き者の暗黒のヘルメット }
+
+helmet_draugr_mage_name_name { 古き者の暗黒魔法使いのヘルメット }
+
+item_sheepfur_name { 羊毛皮 }
+
+note_naughty_male_name { 裸の真実 }
+
+note_naughty_male_description { ハンサムな裸の男性の絵。彼はどこか見覚えがあるように見えませんか？ }
+
+note_naughty_female_name { 人生の最盛期 }
+
+note_naughty_female_description { 美しい裸の女性の絵。素晴らしい。 }
+
+misc_map_nemeton_name { ネメトンの地図 }
+
+misc_map_ruincamp_name { はぐれ者のキャンプの地図 }
+
+misc_map_leuchtwald_name { 原始の森の地図 }
+
+misc_worldmap_detailed_name { ドロヴァの地図 }
+
+misc_worldmap_detailed_description { 「ロルティズ」という者によって描かれた。 }
+
+misc_worldmap_shrines_name { 神殿の地図 }
+
+armor_chest_ruinenlager_gladiator_name { 剣闘士の鎧 }
+
+armor_chest_ruinenlager_gladiator_description { 失った健康の%ごとに、受けるダメージが1%減る — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は俺の手の中にある。 }
+
+misc_bagOfCurrency_big_name { コインで満たされた大きなポーチ }
+
+item_letterRedTower_0_name { 霧が近づいている }
+
+item_letterRedTower_1_name { ダウンフォール II }
+
+item_letterRedTower_2_name { 怒れる神々 }
+
+item_letterRedTower_3_name { 暗号のメモ }
+
+item_letterRedTower_5_name { 没落 I }
+
+item_AldriksNote_name { アルドリックのメモ }
+
+item_letterAtlanter_AtlanterCreation_name { 古き者の創造 }
+
+item_letterAtlanter_AtlanterProblems_name { 古き者の困難 }
+
+item_letterAtlanter_AtlanterRevolt_name { 古き者の暴動 }
+
+item_letterAtlanter_CancelledResearch_name { 研究の中止 }
+
+item_letterAtlanter_DangerousRunes_name { ルーン魔法の危険性 }
+
+item_letterAtlanter_DangerousTravels_name { 危険な旅 I }
+
+item_letterAtlanter_DangerousTravels2_name { 危険な旅 II }
+
+item_letterAtlanter_DrivaniusAttitude_name { ドリヴァニウスの信念 }
+
+item_letterAtlanter_EmergingFog_name { 霧が立ち込めている }
+
+item_letterAtlanter_Extractor2_name { エクストラクター II }
+
+item_letterAtlanter_Eye_name { インペリアンアイ }
+
+item_letterAtlanter_FirstDownfall_name { 神々の最初の堕落 }
+
+item_letterAtlanter_ItsMoreDangerous_name { ドロヴァはますます危険になっている I }
+
+item_letterAtlanter_ItsMoreDangerous2_name { ドロヴァはますます危険になっている II }
+
+item_letterAtlanter_LightAndDarkness_name { 光と影 }
+
+item_letterAtlanter_NewsRedTower_name { 真紅の塔からの円形 }
+
+item_letterAtlanter_OlafDiary_name { オラフの古い日記 }
+
+item_letterAtlanter_ReijaAndMonko_name { レイジャとモンコの大発見 }
+
+item_letterAtlanter_Revolt1_name { ドロヴァIの動乱 }
+
+item_letterAtlanter_Revolt2_name { ドロヴァIIの動乱 }
+
+item_letterAtlanter_Revolt3_name { ドロヴァIIIの動乱 }
+
+item_letterAtlanter_RuneVessel_Nemeton_name { ルーン容器のガイド }
+
+item_letterAtlanter_RuneVessel_Ruinenlager_name { ルーン容器のガイド }
+
+item_letterAtlanter_Senat_name { 上院からの手紙 }
+
+item_letterAtlanter_ShiftingPriorities_name { 優先事項の変化 }
+
+item_letterAtlanter_SpreadingDanger_name { 危険が広がっている }
+
+item_letterAtlanter_Stars_name { 星に書かれていることは何か？ }
+
+item_letterAtlanter_ThirdDownfall_name { 第三の神の堕落 }
+
+item_letterAtlanter_ToTheRuinRaiders_name { ruin raidersへ }
+
+item_letterAtlanter_WhereIsDrivanius_name { ドリヴァニウスはどこですか？私が尋ねています }
+
+item_letterAtlanter_WhereIsDrivanius2_name { ドリヴァニウスはどこですか？II }
+
+item_letterAtlanter_Workerletter_name { 労働者からの手紙 }
+
+item_letterCelts_Anatoli_name { アナトリの懸念 }
+
+item_letterCelts_BoundaryStone_name { 境界石とネメトン }
+
+item_letterCelts_Diemo_name { ディエモのネメトンに関する考え }
+
+item_letterCelts_Jero_name { ジェロの神々に対する意見 }
+
+item_letterCelts_Nemeton_name { ネメトンの創設 }
+
+item_letterCelts_Roarke_name { ロークの奇妙な考え }
+
+item_letterCelts_SafeHaven_name { 避難所の目的 }
+
+item_letterCelts_Treason_name { 避難所の目的 }
+
+item_HiddenTreasure_name { 隠された宝物 }
+
+item_blackboard_Butterflies_name { お知らせ：グローブを助けてください }
+
+item_letterAtlanter_Arrival_name { 古き者の到来 }
+
+category_keysAndQuestItems { 鍵とクエストアイテム }
+
+weapon_sword_draugrIronBlade_name { ドラウグルの剣 }
+
+weapon_spear_draugr_name { ドラウグルの槍 }
+
+weapon_shield_draugr_name { ドラウグルの盾 }
+
+weapon_axe_improvisedpickaxe_name { ID: 武器_斧_即席ピッケル }
+
+helmet_earprotection_name_description { いくつかの音はただ痛むだけです。これらのワックスの塊がそれを和らげてくれます。 }
+
+armor_chest_lendha_dylara_name { ディララの鎧と靴 }
+
+item_stalker_egg_name { スナプターの卵 }
+
+item_headleshen_name { レシェンの頭 }
+
+item_shadowfur_name { シャドウコート }
+
+item_fogears_name { フォグリングの耳 }
+
+item_foxpaw_name { フォックスパウ }
+
+item_foodpile_strong_name { ジャンピングバス }
+
+item_fish_trout_name { トラウト }
+
+item_fish_trout_description { それはまだ生のままだ。人間が食べるには適していない。 }
+
+item_fish_dead_name { デスフィッシュ }
+
+item_fish_dead_description { それはまだ生のままだ。人間が食べるには適していない。 }
+
+recipe_foodpile_strong_name { レシピ：ジャンピングバス }
+
+letter_leru_hint03_name { ロルティズの第三の夢の絵画 }
+
+key_chest_BanditCamp_name { ヘビーキー }
+
+key_chest_BanditCamp_description { 一群の盗賊から奪った大きな鍵。 }
+
+item_chunnaic_diamond_name { チュナイクのダイヤモンド }
+
+item_roastedMeat_t2_name { ジューシーな揚げ肉 }
+
+item_roastedTrout_name { 揚げマス }
+
+recipe_meat_cooked_name { レシピ：揚げストリングミート }
+
+recipe_meat_2_name { レシピ：ジューシーな揚げ肉 }
+
+item_ring_god_name { 神々の祝福 }
+
+item_ring_god_description { 私自身のタリスマン。 }
+
+key_harald_name { 鉱山の鍵 }
+
+key_harald_description { これを使えば、ハラルドの鉱山に入って銀を探ることができる。 }
+
+item_letterTableBrutus_3_name { ドリヴァニウスの最終研究 I }
+
+helmet_brutus_name_name { ネクサスヘルメット }
+
+helmet_brutus_name_description { 多くのルーンで飾られた奇妙なヘルメット。 }
+
+item_letter_foresttavern_chapter1_name { リッパーハント 1 }
+
+item_letter_foresttavern_chapter3_name { リッパーハント 2 }
+
+category_traps { 使用可能なアイテム }
+
+item_MeriksBusiness_name { メリクへの手紙 }
+
+item_KendrickThreat_name { 脅迫状 }
+
+item_KendrickHideout_name { 隠された手紙 }
+
+item_KendrickGoodsBook_name { 貨物目録 }
+
+category_crafting { クラフト素材 }
+
+category_saleitems { 雑貨、販売アイテム、ゴミ }
+
+item_letterAtlanter_Shrines_name { 古き者の神殿 }
+
+item_letterCityDungeon_GodPaintings_name { 神々を描いた壁画 }
+
+item_letter_Reija_name { ドリヴァニウスの奇妙な観察 }
+
+weapon_spear_georg_name { ゲオルグの槍 }
+
+weapon_spear_georg_description {  }
+
+weapon_sword_jendra_name { ジェンドラの剣 }
+
+weapon_sword_jendra_description {  }
+
+flow_ricochet_name { リコシェット }
+
+flow_ricochet_description { あなたは、[WeaponDamagePercent]の武器ダメージを与える弾を発射し、それが標的に跳ね返って近くの追加の敵に当たります。 }
+
+recipe_flow_ricochet_name { アビリティ: リコシェット }
+
+flow_bruntShot_name { 衝撃弾 }
+
+flow_bruntShot_description { あなたは矢を放ち、[WeaponDamagePercent]の武器ダメージを与え、敵を[StunTime]秒間スタンさせます。 }
+
+recipe_flow_bruntShot_name { アビリティ: 衝撃弾 }
+
+flow_poisonArrow_name { 毒矢 }
+
+flow_poisonArrow_description { あなたは矢を放ち、[WeaponDamagePercent]の武器ダメージを与え、敵を毒にします。 }
+
+recipe_flow_poisonArrow_name { 能力: 毒矢 }
+
+key_tavernKey_Cellar_name { 地下室の鍵 }
+
+key_tavernKey_Cellar_description { はぐれ者のキャンプにある酒場の地下室の鍵。 }
+
+helmet_none_name { Id: helmet_none }
+
+recipe_silverringstrength_2_name { レシピ: ダラノットのリング }
+
+recipe_silverringstrength_2_description { レシピ: 銀のリングの強度 2 説明 }
+
+recipe_silberringskill_2_name { レシピ: 雇われた暗殺者の銀のリング }
+
+recipe_silberringskill_2_description { レシピ: 銀のリングのスキル 2 説明 }
+
+recipe_silberringmind_2_name { レシピ: 華美な精霊のリング }
+
+recipe_silberringmind_2_description { レシピ: 銀のリングのマインド 2 説明 }
+
+item_Whiskey_StoneWall_name { ストーンウォールウイスキー }
+
+item_Whiskey_StoneWall_description { 古い壁の描かれた古いボトル。 }
+
+item_trinket_boxer_name { トーニーセスタス }
+
+item_trinket_boxer_description { あなたの素手攻撃は常にクリティカルヒットを引き起こします。 }
+
+item_bigligering_name { ユグドラシルのリング }
+
+item_bigligering_description {  }
+
+recipe_yggdrasil_name { レシピ：ユグドラシルのリング }
+
+misc_key_locked_door_name { [LOCA] キーが見つかりません: misc_key_locked_door_name。パス: Items }
+
+misc_key_locked_door_description { [LOCA] キーが見つかりません: misc_key_locked_door_description。パス: Items }
+
+cons_flow_conjure_ripper_name { Id: cons_flow_conjure_ripper }
+
+cons_flow_natureSpirit_npc_name { Id: cons_flow_natureSpirit_npc }
+
+cons_flow_aggressiveCry_npc_name { Id: cons_flow_aggressiveCry_npc }
+
+cons_flow_bullRush_bady_name { Id: cons_flow_bullRush_bady }
+
+cons_flow_heavyBlow_bady_name { Id: cons_flow_heavyBlow_bady }
+
+cons_flow_infection_bady_name { Id: cons_flow_infection_bady }
+
+cons_flow_shockingBlow_bady_name { Id: cons_flow_shockingBlow_bady }
+
+item_poisonedThrowingKnife_npc_fan_name { Id: item_poisonedThrowingKnife_npc_fan }
+
+item_poisonedThrowingKnife_npc_fast_name { Id: item_poisonedThrowingKnife_npc_fast }
+
+item_splittertrap_npc_ebru_all_arena_name { Id: item_splittertrap_npc_ebru_all_arena }
+
+item_splittertrap_npc_ebru_single_name { Id: item_splittertrap_npc_ebru_single }
+
+flow_battleCry_npc_name { Id: flow_battleCry_npc }
+
+item_Map_Treasure_Forest_name { 宝物: 針葉樹の森 }
+
+item_Map_Treasure_Garden_name { 宝物: 遺跡 }
+
+item_Map_Treasure_GeorgsFarm_name { 宝物: ゲオルグ農場 }
+
+item_Map_Treasure_Heath_name { 宝物: 荒れ地 }
+
+item_Map_Treasure_PrimevalForest_name { 宝物: 原始の森 }
+
+item_Map_Treasure_Rotmoor_name { 宝物: レッドムーア }
+
+item_Map_Treasure_WayToMine_name { 宝物: 鉱山への道 }
+
+item_trinket_doriansHeirloom_name { ドリアンの家宝 }
+
+item_trinket_doriansHeirloom_description { [PoiseValuePercent]のスタンスダメージとフォーカスダメージを受ける量を減少させます。 }
+
+weapon_axe_blaansoldsword_name { ブラーンの古い斧 }
+
+weapon_axe_blaansoldsword_description {  }
+
+weapon_sword_carimasoldsword_name { カリマの古い剣 }
+
+weapon_sword_carimasoldsword_description {  }
+
+item_wine_description { それを楽しむべきだ。 }
+
+item_silverore_description { 鍛冶場で精錬する必要がある。 }
+
+item_ironore_description { 鍛冶場で精錬する必要がある。 }
+
+item_trinket_pureDmg_name { ティンカーの復讐 }
+
+item_trinket_pureDmg_description { 罠や投擲物のダメージを100%増加させる。 }
+
+item_VoragoFragment_0_name { エンブレムの断片 }
+
+item_VoragoFragment_0_description { もう一方の半分が欠けているようです。その上のシンボルははっきりと認識できません。貝殻のようなものでしょうか？ }
+
+item_letterAtlanter_Excalibur_name { 石に刺さった剣 }
+
+item_letterAtlanter_Excalibur_description {  }
+
+item_KendrickSagar_name { しわくちゃの手紙 }
+
+item_KendrickSagar_description {  }
+
+recipe_throwingknife_name { レシピ：投げナイフ }
+
+item_letterAtlanter_Extractor2_description {  }
+
+item_letterAtlanter_Armor_name { 古き者の鎧 }
+
+item_letterAtlanter_Armor_description {  }
