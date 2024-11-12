@@ -130,7 +130,7 @@ Plh_92 { それで、具体的に何を持ってきてほしいの？ }
 
 Plh_94 { 私もそう願っている… }
 
-Plh_95 { $GVAR:BanditMineBrutus_Day03.CountMushrooms$ シェードマッシュルームと $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ ケイブマッシュルームを持ってきて。これでみんなに十分だと思う。 }
+Plh_95 { $GVAR:BanditMineBrutus_Config.CountMushrooms$ 普通のキノコを持ってきて。これでみんなに十分だと思う。 }
 
 Plh_96 { 肉もあればいいけど、リスクを考えるとそれは無理だね。とにかく無事に戻ってきて。 }
 

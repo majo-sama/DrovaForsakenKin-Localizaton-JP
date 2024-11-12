@@ -30,7 +30,7 @@ Entry_Day2_03 { 古い部屋を発見したが、ちょうどその時、警備�
 
 Entry_Day3_01 { 3日目：食料が不足してきた。私は食料を調達し、ブルナに持っていく任務を与えられた。せめて、これで日常の変化がある… }
 
-Entry_Day3_02 { ブルナは私に、$GVAR:BanditMineBrutus_Day03.CountMushrooms$のキャバーンシェルームと$GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$のシェードシェルームを手に入れるように言ってきた。どうやら、これらが生える場所には掘り豚が住んでいるらしい。しかし、私達はみんな肉も必要だ。 }
+Entry_Day3_02 { ブルナは私に、$GVAR:BanditMineBrutus_Config.CountMushrooms$の普通のキノコを手に入れるように言ってきた。どうやら、これが生える場所には掘り豚が住んでいるらしい。みんな肉も必要だ。 }
 
 Entry_Day3_03 { ランゾがブルナを殴った。今、彼女は料理ができなくなってしまった…だから、当然のことながら、私が明日の食事を準備することになった。 }
 

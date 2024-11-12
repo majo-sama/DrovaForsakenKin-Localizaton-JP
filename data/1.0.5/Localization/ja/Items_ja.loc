@@ -1310,7 +1310,7 @@ recipe_flow_execute_name { 能力：エグゼキュート }
 
 recipe_flow_ferventCry_name { 能力：熱烈な叫び }
 
-recipe_flow_fireCry_name { 呪文：炎の叫び }
+recipe_flow_fireCry_name { 呪文：炎の咆哮 }
 
 recipe_flow_flowForm_name { 呪文：フォーカスシェイプ }
 
@@ -1376,7 +1376,7 @@ recipe_farmersmeal_name { レシピ：農夫の食事 }
 
 recipe_fishpan_name { レシピ：魚の炒め物 }
 
-recipe_flowpotion_0_name { レシピ：トンネルロースト }
+recipe_flowpotion_0_name { レシピ：フローポーション }
 
 recipe_flowpotion_1_name { レシピ：強力なフローポーション }
 
