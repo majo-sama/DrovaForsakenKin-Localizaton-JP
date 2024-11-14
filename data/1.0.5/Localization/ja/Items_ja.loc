@@ -664,9 +664,9 @@ key_tristanBillKey_name { 上の酒場の鍵 }
 
 key_tristanBillKey_description { オラフの酒場の2階への扉の鍵。 }
 
-key_ruinenexplorer_name { 遺跡の襲撃者たちからの鍵 }
+key_ruinenexplorer_name { ルインレイダーズたちからの鍵 }
 
-key_ruinenexplorer_description { 遺跡の襲撃者たちへの扉を開ける。 }
+key_ruinenexplorer_description { ルインレイダーズたちへの扉を開ける。 }
 
 cons_Familiar_Firefly_description { 私の弾けるような小さなスパーク。私が行くところならどこでもついてくる。 }
 
@@ -1160,7 +1160,7 @@ item_hunterstrophy_description { 遠距離武器が弾薬を消費しない確�
 
 item_talismanJourneyToTheRoots_name { ブラッディタリスマン }
 
-item_talismanJourneyToTheRoots_description { ディーモから得たタリスマンです。私はこれを母の根のそれぞれに持って行くことになっています。 }
+item_talismanJourneyToTheRoots_description { ディエモから得たタリスマンです。私はこれを母の根のそれぞれに持って行くことになっています。 }
 
 armor_chest_leather_strong_name_name { 強力な革の鎧 }
 
