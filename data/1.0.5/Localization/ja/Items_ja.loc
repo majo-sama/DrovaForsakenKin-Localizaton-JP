@@ -120,7 +120,7 @@ item_earthroot_description { 洪水平野の森の川のそばに育つ。 }
 
 item_wine_name { ワイン }
 
-note_mineInformation_name { 伐採者を探している }
+note_mineInformation_name { 鉱夫を探している }
 
 item_entryMine_name { レヴィンからのメモ }
 
@@ -974,7 +974,7 @@ armor_chest_leather_name_name { 革の鎧 }
 
 armor_chest_leather_name_description { 私の初めての本格的な鎧。 }
 
-armor_chest_miner_name_name { 伐採者の装備 }
+armor_chest_miner_name_name { 鉱夫の装備 }
 
 armor_chest_miner_name_description { 爪に対してはあまり防御力がないが、作業するには快適だ。 }
 

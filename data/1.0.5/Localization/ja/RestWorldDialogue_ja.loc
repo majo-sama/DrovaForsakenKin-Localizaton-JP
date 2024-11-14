@@ -358,7 +358,7 @@ R_JurekGoToJola_178 { うーん。ここにいる人は誰も知らない気が�
 
 R_JurekGoToJola_179 { 気にしないで。 }
 
-R_JurekGoToJola_180 { 私はここで伐採者として働き始めるために来ました。 }
+R_JurekGoToJola_180 { 私はここで鉱夫として働き始めるために来ました。 }
 
 R_JurekGoToJola_181 { ああ、$GVAR:EVars_Player.Name$があなたを送ったに違いない。 }
 
