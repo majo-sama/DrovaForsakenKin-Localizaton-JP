@@ -2,7 +2,7 @@ Entry_Created { 新しい日記のエントリー }
 
 Entry_Updated { 日記が更新されました }
 
-OthersUpdated { +$JOURNAL:その他$ 雑記 }
+OthersUpdated { +$JOURNAL:Others$ 雑記 }
 
 Tab_Quests_Finished { 完了済み }
 
