@@ -382,7 +382,7 @@ Plh_327 { 今、コインを配るよ。でも、君には一枚も渡さない�
 
 Plh_277 { 君は戦いに現れなかった。コインは他の人たちに配ったよ。次回はちゃんと現れてね！ }
 
-Plh_152 { *大声で叫ぶ* 今夜、$GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$が$GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$と対戦します！全ての賭けは無効です！ }
+Plh_152 { *大声で叫ぶ* 今夜、$GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$が$GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$と対戦します！さあ、賭けて賭けて！ }
 
 Plh_275 { 今日は君が戦う。準備しておけ。 }
 
