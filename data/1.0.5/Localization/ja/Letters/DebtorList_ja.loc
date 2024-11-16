@@ -1,9 +1,0 @@
-Mog { モグは私に$GVAR:QuestVars_Debt_Config.MoneyFromMog$コインを借りている。 }
-
-Meluna { メルナが襲われたので、彼女も私に$GVAR:QuestVars_Debt_Config.MoneyFromMeluna$コインを借りている。 }
-
-Lindon { リンドンは大胆になっていた。<br>彼は私に$GVAR:QuestVars_Debt_Config.MoneyFromLindon$コインを借りている。 }
-
-Bady { 名誉あるバディは$GVAR:QuestVars_Debt_Config.MoneyFromBady$コインの借金をした。 }
-
-Lore { ロアは私に$GVAR:QuestVars_Debt_Config.MoneyFromLore$コインを借りている。 }
