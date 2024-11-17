@@ -46,7 +46,7 @@ Souvenir_Money_Tooltip { あなたはコインパースを持たずに家を出�
 
 Souvenir_Health { ライフの指輪 }
 
-Souvenir_Health_Tooltip { この指輪にはライフのエッセンスが注入されています。あなたの健康値が増加します。 }
+Souvenir_Health_Tooltip { この指輪にはライフのエッセンスが注入されています。あなたのライフが増加します。 }
 
 Souvenir_Thief { ロックピック }
 

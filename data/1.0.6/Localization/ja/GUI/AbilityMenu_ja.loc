@@ -14,6 +14,6 @@ Orientationpointtooltip_Header { 基本フォーカス }
 
 Orientationpointtooltip_Description { 時間が経つにつれて、フォーカスはこのポイントまで再生されます。 }
 
-MaxLeben { 最大健康値 }
+MaxLeben { 最大ライフ }
 
 StaminaCosts { スタミナコスト }

@@ -1,4 +1,4 @@
-healingText { [StackTime]秒間にわたり、[MaxStack]の健康を回復します。 }
+healingText { [StackTime]秒間にわたり、[MaxStack]のライフを回復します。 }
 
 damage { ダメージ }
 
@@ -22,9 +22,9 @@ dexterity { 器用さ }
 
 mind { 精神 }
 
-health { 健康 }
+health { ライフ }
 
-healing { あなたの最大健康の[VALUE]を回復します。 }
+healing { あなたの最大ライフの[VALUE]を回復します。 }
 
 learningpoints { LP }
 
@@ -38,13 +38,13 @@ unknownteacher { 不明 }
 
 talentnotknown { あなたはまだこの才能を発見していません。 }
 
-foodText { 徐々に健康を回復し、[MaxStack]の健康が回復するまで続きます。健康バーが満タンの場合、回復は一時停止されます。 }
+foodText { 徐々にライフを回復し、[MaxStack]のライフが回復するまで続きます。ライフバーが満タンの場合、回復は一時停止されます。 }
 
 recipe_requirements { 必要条件： }
 
 buffAdditionalDescription { （新しい食べ物が満腹効果を置き換えます） }
 
-maxHealth { 最大健康 [VALUE] }
+maxHealth { 最大ライフ [VALUE] }
 
 flowGain { フォーカス [VALUE] }
 

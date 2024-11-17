@@ -146,199 +146,199 @@ item_resin_name { 樹液 }
 
 item_resin_description { 樹の生き物から受け取った。 }
 
-weapon_axe_largeBranch_name { 石の斧 }
+weapon_axe_largeBranch_name { 石斧 }
 
-weapon_axe_woodSplitter_name { 丸太割り器 }
+weapon_axe_woodSplitter_name { 丸太割り斧 }
 
-weapon_axe_bronzeTusk_name { 青銅のつるはし }
+weapon_axe_bronzeTusk_name { 青銅の尖鉱斧 }
 
-weapon_axe_bronzeTusk_description { 鉱石の採掘を可能にします。 }
+weapon_axe_bronzeTusk_description { 鉱石の採掘が可能になる。 }
 
 weapon_axe_jawboneAxe_name { 顎骨の斧 }
 
-weapon_axe_heavyNailClub_name { ギザギザの青銅の斧 }
+weapon_axe_heavyNailClub_name { 荒削りの青銅斧 }
 
-weapon_axe_deformedAxe_name { 即席の石の斧 }
+weapon_axe_deformedAxe_name { 即席の石斧 }
 
-weapon_axe_lightAxe_name { 軽量の斧 }
+weapon_axe_lightAxe_name { 軽斧 }
 
-weapon_axe_coarseBronzeAxe_name { 粗雑な青銅の斧 }
+weapon_axe_coarseBronzeAxe_name { 粗雑な青銅斧 }
 
-weapon_axe_oldAxe_name { 古い斧 }
+weapon_axe_oldAxe_name { 古びた斧 }
 
-weapon_axe_splittingAxe_name { 割り斧 }
+weapon_axe_splittingAxe_name { 薪割り斧 }
 
-weapon_axe_beardedAxe_name { 変形したひげ斧 }
+weapon_axe_beardedAxe_name { 歪んだ髭斧 }
 
-weapon_axe_broadAxe_name { 大斧 }
+weapon_axe_broadAxe_name { 両刃の戦斧 }
 
 weapon_axe_highlandAxe_name { ハイランドアックス }
 
-weapon_axe_coarseDoubleAxe_name { スカルクリーバー }
+weapon_axe_coarseDoubleAxe_name { スカルクラッシャー }
 
-weapon_axe_doubleAxe_name { ラフアイアンアックス }
+weapon_axe_doubleAxe_name { 粗製の鉄斧 }
 
-weapon_axe_rustyAxe_name { バトルアックス }
+weapon_axe_rustyAxe_name { 戦斧 }
 
-weapon_axe_coarseWarAxe_name { アイアンアックス }
+weapon_axe_coarseWarAxe_name { 鉄の戦斧 }
 
-weapon_axe_warAxe_name { さびた斧 }
+weapon_axe_warAxe_name { 錆びた斧 }
 
-weapon_axe_bearSlaughtererAxe_name { クマの肉切り斧 }
+weapon_axe_bearSlaughtererAxe_name { 熊裂きの斧 }
 
-weapon_axe_greatAxe_name { 大斧 }
+weapon_axe_greatAxe_name { グレートアックス }
 
-weapon_axe_barbarianBattleAxe_name { バーバリアンポールアックス }
+weapon_axe_barbarianBattleAxe_name { 野蛮人の長柄斧 }
 
-weapon_axe_iron-BoundGreatAxe_name { 鈍器の大斧 }
+weapon_axe_iron-BoundGreatAxe_name { 鈍重な大斧 }
 
-weapon_axe_bloodReaper_name { オブシディアンリーパー }
+weapon_axe_bloodReaper_name { 黒曜の死神 }
 
-weapon_axe_berserkAxe_name { 処刑人 }
+weapon_axe_berserkAxe_name { 処刑人の斧 }
 
-weapon_axe_berserkAxe_description { 誰も彼の裁きから逃れることはできない。 }
+weapon_axe_berserkAxe_description { 誰もその裁きから逃れることはできない。 }
 
-weapon_sword_gildedSickle_name { 金メッキの鎌 }
+weapon_sword_gildedSickle_name { 金装の鎌 }
 
-weapon_sword_nailClub_name { くすんだ青銅の剣 }
+weapon_sword_nailClub_name { 鈍色の青銅剣 }
 
-weapon_sword_heavyNailClub_name { 鈍った青銅の刃 }
+weapon_sword_heavyNailClub_name { 鈍重な青銅刃 }
 
-weapon_sword_bronzeShortSword_name { 擦り切れたショートソード }
+weapon_sword_bronzeShortSword_name { 使い古された短剣 }
 
-weapon_sword_warClub_name { 即席の青銅の剣 }
+weapon_sword_warClub_name { 即席の青銅剣 }
 
-weapon_sword_oldBronzeGladius_name { 古い青銅のグラディウス }
+weapon_sword_oldBronzeGladius_name { 古びた青銅グラディウス }
 
-weapon_sword_roughSword_name { 変形した剣 }
+weapon_sword_roughSword_name { 歪んだ剣 }
 
 weapon_sword_sword_name { 短剣 }
 
-weapon_sword_scavengingScimitar_name { 略奪のシミター }
+weapon_sword_scavengingScimitar_name { 掠奪のシミター }
 
-weapon_sword_hawk'SClaw_name { ファルコンの爪 }
+weapon_sword_hawk'SClaw_name { 鷹の爪 }
 
-weapon_sword_crudeIronBlade_name { 生のアイアンブレード }
+weapon_sword_crudeIronBlade_name { 粗製鉄刃 }
 
-weapon_sword_coarseBroadsword_name { ブロードソード }
+weapon_sword_coarseBroadsword_name { 両刃剣 }
 
-weapon_sword_broadsword_name { 錆びたブロードソード }
+weapon_sword_broadsword_name { 錆びた両刃剣 }
 
-weapon_sword_longsword_name { ロングソード }
+weapon_sword_longsword_name { 長剣 }
 
-weapon_sword_battleBlade_name { バトルブレード }
+weapon_sword_battleBlade_name { 戦刃 }
 
-weapon_sword_berserkBlade_name { バーサーカーブレード }
+weapon_sword_berserkBlade_name { 狂戦士の刃 }
 
-weapon_sword_swordOfNemeton_name { 鈍器の戦士の剣 }
+weapon_sword_swordOfNemeton_name { 鈍重な戦士の剣 }
 
-weapon_sword_swordOfTheFaithful_name { 忠誠の剣 }
+weapon_sword_swordOfTheFaithful_name { 信仰の剣 }
 
-weapon_sword_runeSword_name { ルーンソード }
+weapon_sword_runeSword_name { ルーンの剣 }
 
-weapon_sword_moonSword_name { 月の剣 }
+weapon_sword_moonSword_name { 月光の剣 }
 
-weapon_sword_moonSword_description { ルナの提案を拒む者は、すぐに彼女の暗い一面を味わうことになるだろう。 }
+weapon_sword_moonSword_description { 月の誘いを拒む者は、暗黒面の一撃を味わう。 }
 
-weapon_dagger_tombstick_name { 擦り切れた青銅の短剣 }
+weapon_dagger_tombstick_name { 古びた青銅短剣 }
 
-weapon_dagger_pineDagger_name { ギザギザの青銅のナイフ }
+weapon_dagger_pineDagger_name { 荒削りの青銅短剣 }
 
-weapon_dagger_breadKnife_name { パン切り包丁 }
+weapon_dagger_breadKnife_name { パン切りナイフ }
 
-weapon_dagger_fang_name { 鈍いトゲ }
+weapon_dagger_fang_name { 鈍い針刃 }
 
-weapon_dagger_boneKnife_name { 骨のナイフ }
+weapon_dagger_boneKnife_name { 骨刃の短剣 }
 
-weapon_dagger_wornBronzeDagger_name { 青銅の短剣 }
+weapon_dagger_wornBronzeDagger_name { 青銅短剣 }
 
-weapon_dagger_bronzeDagger_name { バランスの取れた短剣 }
+weapon_dagger_bronzeDagger_name { 均衡の短剣 }
 
-weapon_dagger_pointedDagger_name { 変形した青銅の短剣 }
+weapon_dagger_pointedDagger_name { 歪んだ青銅短剣 }
 
-weapon_dagger_ceremonialDagger_name { 儀式用の短剣 }
+weapon_dagger_ceremonialDagger_name { 儀式用短剣 }
 
-weapon_dagger_sacrificialDagger_name { ショートブレード }
+weapon_dagger_sacrificialDagger_name { 献祭の刃 }
 
-weapon_dagger_shortBlade_name { 牙のある短剣 }
+weapon_dagger_shortBlade_name { 獣牙の短剣 }
 
-weapon_dagger_coarseDagger_name { 蚊の刺し針 }
+weapon_dagger_coarseDagger_name { 蚊刺し短剣 }
 
-weapon_dagger_ironSpike_name { 鉄の刺し針 }
+weapon_dagger_ironSpike_name { 鉄針の短剣 }
 
 weapon_dagger_mosquitoSting_name { 錆びた短剣 }
 
-weapon_dagger_ironDagger_name { 霧の刺し針 }
+weapon_dagger_ironDagger_name { 霧の短剣 }
 
-weapon_dagger_blackKnife_name { 黒いナイフ }
+weapon_dagger_blackKnife_name { 黒刃の短剣 }
 
-weapon_dagger_eviscerator_name { エヴィスセレーター }
+weapon_dagger_eviscerator_name { 腹裂きの刃 }
 
-weapon_dagger_silence_name { 鈍い鉄の短剣 }
+weapon_dagger_silence_name { 鈍重な鉄短剣 }
 
-weapon_dagger_heartSeeker_name { ハートシーカー }
+weapon_dagger_heartSeeker_name { 心臓を貫く短剣 }
 
-weapon_dagger_theKingslayer_name { ブラッドダガー }
+weapon_dagger_theKingslayer_name { 王殺しの短剣 }
 
-weapon_dagger_bloodDagger_name { キングスレイヤー }
+weapon_dagger_bloodDagger_name { 血塗れの短剣 }
 
-weapon_dagger_bloodDagger_description { 人々が立ち上がるとき、王は倒れるだろう。 }
+weapon_dagger_bloodDagger_description { 民が立ち上がる時、王は倒れるであろう。 }
 
-weapon_sling_coarseSling_name { 粗製スリング }
+weapon_sling_coarseSling_name { 粗製投石器 }
 
-weapon_sling_simpleSlingshot_name { シンプルなスリングショット }
+weapon_sling_simpleSlingshot_name { 簡素な投石器 }
 
-weapon_sling_heavySlingshot_name { 重いスリングショット }
+weapon_sling_heavySlingshot_name { 重投石器 }
 
-weapon_sling_headSlingshot_name { ヘッドスリングショット }
+weapon_sling_headSlingshot_name { 頭蓋砕きの投石器 }
 
-weapon_sling_battleSlingshot_name { バトルスリングショット }
+weapon_sling_battleSlingshot_name { 戦用投石器 }
 
-weapon_bow_simpleBow_name { シンプルボウ }
+weapon_bow_simpleBow_name { 簡素な弓 }
 
-weapon_bow_shortBow_name { ショートボウ }
+weapon_bow_shortBow_name { 短弓 }
 
 weapon_bow_huntingBow_name { 即席の弓 }
 
-weapon_bow_longBow_name { ロングボウ }
+weapon_bow_longBow_name { 長弓 }
 
 weapon_bow_reinforcedBow_name { 歪んだ弓 }
 
-weapon_bow_battleBow_name { バトルボウ }
+weapon_bow_battleBow_name { 戦弓 }
 
 item_bloodquitostinger_name { ナットスティンガー }
 
 item_boartusk_name { イノシシの牙 }
 
-weapon_sword_shortSword_name { ブロンズショートソード }
+weapon_sword_shortSword_name { 青銅の短剣 }
 
 weapon_sword_gladius_name { グラディウス }
 
-weapon_spear_woodenSpear_name { 古い槍 }
+weapon_spear_woodenSpear_name { 古びた槍 }
 
 weapon_spear_stoneSpear_name { 鈍い槍 }
 
 weapon_spear_pitchfork_name { 即席の槍 }
 
-weapon_spear_fishSpear_name { 歪んだ青銅の槍 }
+weapon_spear_fishSpear_name { 歪んだ青銅槍 }
 
-weapon_spear_wolfToothSpear_name { 狼の牙の槍 }
+weapon_spear_wolfToothSpear_name { 狼牙の槍 }
 
-weapon_spear_shortSpear_name { ショートスピア }
+weapon_spear_shortSpear_name { 短槍 }
 
-weapon_spear_simpleBronzeSpear_name { シンプルな青銅の槍 }
+weapon_spear_simpleBronzeSpear_name { 簡素な青銅槍 }
 
-weapon_spear_huntingSpear_name { 変形した狩猟用の槍 }
+weapon_spear_huntingSpear_name { 歪んだ狩猟槍 }
 
 weapon_spear_ango_name { アンゴ }
 
-weapon_spear_framea_name { フレメア }
+weapon_spear_framea_name { フラメア }
 
-weapon_spear_ger_name { ゲル }
+weapon_spear_ger_name { ゲール }
 
-weapon_spear_bronzeSpear_name { アイアン・スピア }
+weapon_spear_bronzeSpear_name { 鉄槍 }
 
-weapon_spear_spear_name { イノシシの槍 }
+weapon_spear_spear_name { 猪突の槍 }
 
 weapon_spear_deathRitualSpear_name { 錆びた槍 }
 
@@ -346,43 +346,43 @@ weapon_spear_partisan_name { パルティザン }
 
 weapon_spear_pilum_name { ピルム }
 
-weapon_spear_wingSpear_name { 翼の槍 }
+weapon_spear_wingSpear_name { 翼槍 }
 
-weapon_spear_silverSpear_name { 鈍い鉄の槍 }
+weapon_spear_silverSpear_name { 鈍重な鉄槍 }
 
-weapon_spear_bloodBlade_name { ブラッドブレード }
+weapon_spear_bloodBlade_name { 血塗れの刃槍 }
 
-weapon_spear_tipOfDeath_name { 赤い蛇の槍 }
+weapon_spear_tipOfDeath_name { 赤蛇の槍 }
 
 weapon_spear_messengerOfTheDivine_name { ヒドラの牙 }
 
-weapon_spear_messengerOfTheDivine_description { 目には目を、歯には歯を — 共にヒドラにも立ち向かおう。 }
+weapon_spear_messengerOfTheDivine_description { 目には目を、歯には歯を──共にヒドラに立ち向かう。 }
 
-weapon_shield_adornedWoodenShield_name { 装飾された盾 }
+weapon_shield_adornedWoodenShield_name { 飾り木盾 }
 
-weapon_shield_smallRoundShield_name { 小さな円形の盾 }
+weapon_shield_smallRoundShield_name { 小型円盾 }
 
-weapon_shield_smallBronzeShield_name { 小さな青銅の盾 }
+weapon_shield_smallBronzeShield_name { 小型青銅盾 }
 
-weapon_shield_bronzeShield_name { 変形した青銅の盾 }
+weapon_shield_bronzeShield_name { 歪んだ青銅盾 }
 
-weapon_shield_sigilShield_name { 紋章の盾 }
+weapon_shield_sigilShield_name { 紋章盾 }
 
-weapon_shield_roundShield_name { 錆びた丸い盾 }
+weapon_shield_roundShield_name { 錆びた円盾 }
 
-weapon_shield_theWall_name { 壁 }
+weapon_shield_theWall_name { 壁盾 }
 
-weapon_shield_protection_name { 鉄の盾 }
+weapon_shield_protection_name { 鉄盾 }
 
 weapon_axe_snaga_name { スナガ }
 
-weapon_sword_branch_name { 枝 }
+weapon_sword_branch_name { 小枝の剣 }
 
-weapon_sword_baton_name { バトン }
+weapon_sword_baton_name { 棍棒 }
 
-weapon_shield_woodenBoard_name { 木の板 }
+weapon_shield_woodenBoard_name { 木製板盾 }
 
-weapon_shield_smallWoodenShield_name { 小さな木の盾 }
+weapon_shield_smallWoodenShield_name { 小型木盾 }
 
 item_roastedMeat_name { 揚げた細切れ肉 }
 
@@ -944,7 +944,7 @@ item_potion_windwalker_description { [TimeAbs]秒間、あなたの移動速度�
 
 item_harpybrew_name { ハーピーブリュー }
 
-item_harpybrew_description { フォーカスと健康を入れ替えます。それは完全に無意味ではないはずですよね？ }
+item_harpybrew_description { フォーカスとライフを入れ替えます。それは完全に無意味ではないはずですよね？ }
 
 item_golemsalve_name { ゴーレム軟膏 }
 
@@ -1048,7 +1048,7 @@ item_rivercharm_description { 成功したヒット時に、攻撃は[FocusValue
 
 item_thornfetish_name { トゲのあるフェティッシュ }
 
-item_thornfetish_description { 各呪文および各能力は追加で[HealValuePercent]の健康を消費しますが、[DamageValuePercent]の追加ダメージを与えます。 }
+item_thornfetish_description { 各呪文および各能力は追加で[HealValuePercent]のライフを消費しますが、[DamageValuePercent]の追加ダメージを与えます。 }
 
 item_riptoothchain_name { 牙のネックレス }
 
@@ -1068,15 +1068,15 @@ item_cleavageskull_description { 相手に対して[PoiseValuePercent]の追加�
 
 item_bloodthirstamulet_name { ブラッドサースティアミュレット }
 
-item_bloodthirstamulet_description { 相手がアクティブな出血状態である場合、あなたの近接攻撃は[TriggerPercent]の確率で[TriggerChance]の健康を再生します。 }
+item_bloodthirstamulet_description { 相手がアクティブな出血状態である場合、あなたの近接攻撃は[TriggerPercent]の確率で[TriggerChance]のライフを再生します。 }
 
 item_berserkerring_name { バーサーカリング }
 
-item_berserkerring_description { 倒した相手ごとに[HealValueAbsolut]の健康を回復します。 }
+item_berserkerring_description { 倒した相手ごとに[HealValueAbsolut]のライフを回復します。 }
 
 item_berserkerring_2_name { 豪華なバーサーカリング }
 
-item_berserkerring_2_description { 倒した相手ごとに[HealValuePercent]の健康を回復します。 }
+item_berserkerring_2_description { 倒した相手ごとに[HealValuePercent]のライフを回復します。 }
 
 item_sprigganheart_name { 乾燥したスプリガの心臓 }
 
@@ -1096,11 +1096,11 @@ item_tendonofglory_description { 遠距離攻撃は最初に命中した対象�
 
 item_shaftofpurefury_name { 純粋なる怒りの矢 }
 
-item_shaftofpurefury_description { 失った健康ごとに[HealthPercent]につき、[DamagePercent]の追加ダメージを与えます。 }
+item_shaftofpurefury_description { 失ったライフごとに[HealthPercent]につき、[DamagePercent]の追加ダメージを与えます。 }
 
 item_bloodbornering_name { 血の指輪 }
 
-item_bloodbornering_description { 一度攻撃を受けると、相手にダメージを与えることで失った健康を再生するための短い時間が与えられます。古い血に注意してください。 }
+item_bloodbornering_description { 一度攻撃を受けると、相手にダメージを与えることで失ったライフを再生するための短い時間が与えられます。古い血に注意してください。 }
 
 item_whispersilkbag_name { ささやく絹で作られたポーチ }
 
@@ -1704,7 +1704,7 @@ misc_worldmap_shrines_name { 神殿の地図 }
 
 armor_chest_ruinenlager_gladiator_name { 剣闘士の鎧 }
 
-armor_chest_ruinenlager_gladiator_description { 失った健康の%ごとに、受けるダメージが1%減る — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は俺の手の中にある。 }
+armor_chest_ruinenlager_gladiator_description { 失ったライフの%ごとに、受けるダメージが1%減る — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は俺の手の中にある。 }
 
 misc_bagOfCurrency_big_name { コインで満たされた大きなポーチ }
 

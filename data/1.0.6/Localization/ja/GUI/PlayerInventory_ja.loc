@@ -12,9 +12,9 @@ label_character_skillpoints { 学習ポイント }
 
 tooltip_character_xp { 敵を倒したり、タスクを完了したりすることで経験値を得られます。 }
 
-label_attributes_hitpoints { 健康 }
+label_attributes_hitpoints { ライフ }
 
-tooltip_attributes_hitpoints { 健康がゼロになると、キャラクターは死亡します。 }
+tooltip_attributes_hitpoints { ライフがゼロになると、キャラクターは死亡します。 }
 
 tooltip_attributes_stamina { スタミナは、ブロック、回避、そして重い攻撃に使用されます。 }
 
