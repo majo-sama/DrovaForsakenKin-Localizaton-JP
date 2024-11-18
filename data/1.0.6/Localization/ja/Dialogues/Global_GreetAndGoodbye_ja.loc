@@ -6,13 +6,13 @@ GoodBye2 { お元気で。 }
 
 BusyWhatsUp { やることがあるんだ。どうしたの？ }
 
-WhatsUp3 { *不快そうな視線を向ける* どいて！ }
+WhatsUp3 { *不機嫌そうに見つめる* どっか行け！ }
 
-WhatsUp5 { 次は何だ？ }
+WhatsUp5 { 今度は何？ }
 
-WhatsUp { どうしたの？ }
+WhatsUp { どうした？ }
 
-Hey4 { それは何ですか？ }
+Hey4 { どうしたの？ }
 
 Hello { こんにちは。 }
 
@@ -24,23 +24,23 @@ Hey { やあ。 }
 
 ForMagielager2 { 光と共に行け。 }
 
-WhatsUp4 { それは何ですか？ }
+WhatsUp4 { 何だい？ }
 
-GoodBye4 { また後で。 }
+GoodBye4 { またな。 }
 
 ForNemeton2 { カラスと共に行け。 }
 
 ForNemeton3 { カラスが我々を導くだろう。 }
 
-ForNemeton4 { ネメトンがあなたと共にありますように。 }
+ForNemeton4 { ネメトンが君と共にあらんことを。 }
 
-DontKnowYourFace4 { ついに、新しい顔が現れた。 }
+DontKnowYourFace4 { やっと新顔を見たな。 }
 
 Hey5 { やあ。 }
 
-ForRuinenlager4 { 我々の自由に。 }
+ForRuinenlager4 { 我々の自由のために。 }
 
-Hey6 { 再び出会うこととなったな。 }
+Hey6 { また会ったな。 }
 
 ForRuinenlager3 { 我々の名誉のために。 }
 
@@ -48,11 +48,11 @@ HelloAsk { こんにちは？ }
 
 ForRuinenlager { ジェロのために。 }
 
-WhatsUp2 { 調子はどうですか？ }
+WhatsUp2 { 調子はどう？ }
 
-GoodBye { また会いましょう。 }
+GoodBye { また会おう。 }
 
-WhatCanIDoForYou { 何かお手伝いできることはありますか？ }
+WhatCanIDoForYou { 何か手伝うことあるか？ }
 
 DontKnowYourFace5 { おい、君 — 君のことは知らないな。 }
 
@@ -60,6 +60,6 @@ Hey7 { ああ、君か。 }
 
 GoodBye3 { 気をつけて。 }
 
-ForMagielager { 偉大なるイノシシが君を見守りますように。 }
+ForMagielager { マイティボアが君を見守るように。 }
 
-DontKnowYourFace { やあ、君の顔を知らない。 }
+DontKnowYourFace { やあ、君を知らないな。 }

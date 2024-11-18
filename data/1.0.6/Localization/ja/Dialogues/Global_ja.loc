@@ -1,62 +1,62 @@
 back { （戻る） }
 
-end_dialog { （会話を終了） }
+end_dialog { （会話終了） }
 
-End_(End) { （会話を終了します） }
+End_(End) { （会話を終了） }
 
 Silence { （何も言わない） }
 
-Leave { （退出する） }
+Leave { （去る） }
 
-NotEnoughMoney { そのコインは足りないよ。十分な数を持って戻ってきて。 }
+NotEnoughMoney { そのコインじゃ足りない。もっと用意してからまた来い。 }
 
-NotEnoughMoney1 { そんなコインは少ししかないから、足りないよ。十分な数を持って戻ってきて。 }
+NotEnoughMoney1 { その程度のコインじゃ足りないよ。十分な額を持って戻ってきて。 }
 
-NotEnoughMoney2 { 私を騙そうとしないで。そんなコインは足りないよ。 }
+NotEnoughMoney2 { 騙されないよ。それじゃ足りない。 }
 
 aboutQuests { クエストについて… }
 
 aboutOtherQuests { クエストの手助け… }
 
-end { 行かなきゃ。 }
+end { 行かなきゃ。（会話終了） }
 
-Teach_SpearSling { 槍とスリングショットを使ってもっと上手に戦う方法を教えてくれますか？ }
+Teach_SpearSling { 槍とスリングショットで上手く戦う方法を教えてくれる？ }
 
-End_WirSehenUns { またね。 }
+End_WirSehenUns { じゃあまたね。 }
 
 BloodSteel { 血と鉄！ }
 
-End_VergissEs { 忘れて。 }
+End_VergissEs { 忘れてくれ。 }
 
 End_KeineZeit { そんな時間はない。 }
 
-Inf_DaWarNochWas { 他に何かあった… }
+Inf_DaWarNochWas { 何か他にあったな… }
 
-SLP_GoaWay { どいて。 }
+SLP_GoaWay { どいてくれ。 }
 
-Busy_NotNow { 今じゃない。 }
+Busy_NotNow { 今は無理だ。 }
 
-End_MussLos { 行かなきゃ。 }
+End_MussLos { 行かなきゃ。（会話終了） }
 
-aboutGenericTopics { 別のことを話したい。 }
+aboutGenericTopics { 別の話をしたい。 }
 
-Teach_Smith { あなたの技術について何か教えて。 }
+Teach_Smith { あなたの技術について教えて。 }
 
-showMeWares { あなたの品物を見せて。 }
+showMeWares { 商品を見せて。 }
 
-Inf_IchSchauMichUm { ただ見て回っているだけだ。 }
+Inf_IchSchauMichUm { ただ見て回ってるだけだよ。 }
 
-Inf_HabeFrage { 質問がある… }
+Inf_HabeFrage { 質問があるんだ… }
 
 ShowMeSkills { 新しいスキルを学びたい。 }
 
-Teach_Sword_! { 剣での戦い方をもっと上手に教えてほしい。 }
+Teach_Sword_! { 剣での戦い方をもっと上手く教えてくれ。 }
 
-Teach_Dagger_! { ダガーでの戦い方をもっと上手に教えてほしい。 }
+Teach_Dagger_! { ダガーでもっと上手く戦う方法を教えてくれ。 }
 
-End_IchGehDannMal { もういくよ。 }
+End_IchGehDannMal { もう行くよ。 }
 
-End_VlltSpäter { 後にしてくれ }
+End_VlltSpäter { また後で。 }
 
 Acc_KuemmereMichDrum { 取り掛かろう }
 
@@ -72,49 +72,49 @@ Teach_Dagger { ダガーの使い方を教えてくれないか？ }
 
 Armor? { この鎧のパーツで何かできるか？ }
 
-Armor { 3つの鎧のパーツから完全な鎧を作れるか？ }
+Armor { この3つの鎧のパーツで完全な鎧を作れるか？ }
 
 ArmorLight { できるだけ軽くて、動きやすいものがいい。 }
 
 ArmorHeavy { 最大限の防御力を提供するものがいい。 }
 
-ArmorDruid { 多くのルーンが刻まれた鎧だ。 }
+ArmorDruid { 多くのルーンが刻まれた鎧がいいな。 }
 
 End_AnderesZuTun { 他にやることがある。 }
 
-LetsTraining { 戦いの準備はできてる？ }
+LetsTraining { 戦う準備はいいか？ }
 
-LetsRevance { 再戦の準備はできてる？ }
+LetsRevance { 再戦の準備はいいか？ }
 
-NoTime_TrainingTime { 太陽が空高くにあるとき、私は訓練場にいるよ。そしたら戦えるね。 }
+NoTime_TrainingTime { 太陽が高く昇ったら訓練場にいる。そしたら戦おう。 }
 
 Inf_WasMachstDuHier { ここで何をしているの？ }
 
-SLP_Dunkel { ドロヴァの空高くに太陽が昇ったら戻ってきて！ }
+SLP_Dunkel { ドロヴァの空に太陽が昇ったら戻って来て！ }
 
 Run_IchBinNochDabei { まだやってるよ… }
 
-SLP_Müde { 三日三晩ずっと寝ていられるけど…やることが多すぎる。いつもやることが多すぎる… }
+SLP_Müde { 3日3晩寝続けたいけど…やることが多すぎる。いつもやることが多すぎる… }
 
 Teach_Training { 一緒にトレーニングしよう。 }
 
-LetsTraining_fromMorvin { プロキシマスが私達はトレーニングすべきだと言った。 }
+LetsTraining_fromMorvin { プロキシマスがトレーニングしようって言ってた。 }
 
 Inf_Crimes { 私の悪行について… }
 
-FightingArena { 今日は私達二人はアリーナで戦うことになる。 }
+FightingArena { 今日はアリーナで二人とも戦うことになる。 }
 
 Teach_Mind { 魔力を高める方法を教えて。 }
 
 Teach_SpearSling_! { 槍とスリングショットの使い方を教えて。 }
 
-Teach_Axe_! { 斧の使い方を上達させる方法を教えて。 }
+Teach_Axe_! { 斧の戦い方をもっと上手く教えてくれ。 }
 
-SLP_Zeit { *あくび* 今はいいや… }
+SLP_Zeit { *あくび* 今は無理だな… }
 
 Acc_BinDabei { 参加するよ！ }
 
-Teach_Power { 私の筋力を向上させる方法を教えて。 }
+Teach_Power { 筋力を向上させる方法を教えて。 }
 
 End_NichtsZuTun { それには関わりたくない。 }
 
@@ -124,14 +124,14 @@ Teach_Lockpicking { ロックピッキングを教えてほしい。 }
 
 MeldDichBeiMir { 報告してくれ。 }
 
-HereIsMyMoney { さあ、コインだ。 }
+HereIsMyMoney { ほら、コインだ。 }
 
-PlayerSaysTheyDontHaveMoney { コインが足りません… }
+PlayerSaysTheyDontHaveMoney { コインが足りない… }
 
-PlayCatch { 鬼ごっこをしませんか？ }
+PlayCatch { 鬼ごっこしようか？ }
 
-OnlyNemetonTeaching { 教えられるのは、ネメトンの戦士たちにだけだ。 }
+OnlyNemetonTeaching { 教えられるのは、ネメトンの戦士に対してだけだ。 }
 
-Teach_Axe { 斧でより上手に戦う方法を教えてくれないか？ }
+Teach_Axe { 斧でより上手く戦う方法を教えてくれないか？ }
 
 HaveRostmoos { ラストモスを持っている。興味はないか？ }
