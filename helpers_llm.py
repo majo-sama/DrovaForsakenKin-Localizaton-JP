@@ -2,6 +2,47 @@ from typing import List
 from llm_utils import get_llm_response
 
 
+from typing import Optional
+from llm_utils import get_llm_response
+
+
+def get_noun_dictionary_prompt():
+    """
+    Get noun dictionary
+    """
+    dictionary = {
+        "Georgefarm": "ジョージファーム",
+        "apple grove": "リンゴ園",
+        "Nemeton": "ネメトン",
+        "Morbid Moor": "病み沼",
+        "Red Moor": "レッドムーア",
+        "Bygones": "古き者",
+        "Mighty Boar": "マイティボア",
+        "Hewers": "鉱夫",
+        "Remnant's Camp": "はぐれ者のキャンプ",
+        "Remnant": "はぐれ者",
+        "Molvina": "モルヴィナ",
+        "Pit": "ピット",
+        "Heath": "荒れ地",
+        "Rustmoss": "ラストモス",
+        "Rustroot": "ラストルート",
+        "Georg Farm": "ゲオルグ農場",
+        "Headless Ripper Inn": "首なしリッパー宿屋",
+        "the Marked Ones": "印の一団",
+        "Proximus": "プロキシマス",
+        "Blades of Jero ": "ジェロの刃",
+        "Floodplain Forest": "氾濫原の森",
+        "Bertine": "バーティン",
+        "the Spark": "光燐",
+    }
+
+    prompt = f"""
+翻訳時には、以下の固有名詞については、変換先に従って翻訳を行ってください。
+{"\n".join([f"{key} => {value}" for key, value in dictionary.items()])}
+"""
+    return prompt
+
+
 def sniff_persona(name: str, sentences: List[str]) -> str:
     """セリフをもとに、そのセリフの人物像を推測し、その人物像に合わせた翻訳のヒントを提供します。"""
     dialog = "\n".join([s for s in sentences if s.strip()])[:5000]
