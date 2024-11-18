@@ -22,7 +22,7 @@ item_meat_raw_name { ジューシーな肉 }
 
 item_meat_raw_description { まだ生の状態だ。人間の食用には適していない。 }
 
-item_farmersFood_name { 農夫の食事 }
+item_farmersFood_name { 農民のごちそう }
 
 item_bogIron_name { 湿地の鉄鉱石 }
 
@@ -934,7 +934,7 @@ item_skulldew_name { スカルデュー }
 
 item_skulldew_description { 湿原の最も深い部分で見つかる。非常に稀少。 }
 
-item_rustymosspipe_name { サビコケ }
+item_rustymosspipe_name { ラストモス }
 
 item_rustymosspipe_description { あなたをリラックスさせ、日々の苦労を忘れさせる。 }
 
@@ -950,7 +950,7 @@ item_golemsalve_name { ゴーレム軟膏 }
 
 item_golemsalve_description { 物理的ダメージを[DamageResPhysPercent]減軽しますが、魔法的ダメージを[DamageResMagicPercent]数で増加します。効果は[TimeAbs]秒続きます。 }
 
-item_agilostew_name { アジロの不思議なシチュー }
+item_agilostew_name { アジロの奇妙なシチュー }
 
 item_foodpile_name { 魚のオムレツ }
 
