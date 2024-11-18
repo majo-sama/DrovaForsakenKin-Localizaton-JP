@@ -8,4 +8,4 @@ Inventory_GarbageToggle_hide { ジャンクを隠す }
 
 Inventory_MarkAsGarbage { アイテムをジャンクとしてマークする }
 
-GarbageFeedback { ジャンクフィルターがアクティブです }
+GarbageFeedback { ジャンクフィルタ適用中 }

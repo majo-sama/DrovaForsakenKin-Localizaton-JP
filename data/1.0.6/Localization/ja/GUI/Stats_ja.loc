@@ -14,8 +14,8 @@ Learned { 習得した }
 
 LearnPoint { 学習ポイント }
 
-LearnPoints { 学習ポイント（複数形） }
+LearnPoints { 学習ポイント（複数） }
 
 MaximumHealth { 最大ライフ }
 
-Name_Orientationpunkt { 基本集中力 }
+Name_Orientationpunkt { 基本フォーカス }

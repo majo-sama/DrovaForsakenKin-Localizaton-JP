@@ -4,9 +4,9 @@ popup_balanceMoney { コインで支払う }
 
 popup_giveForFree { お返しはいらないって本当に大丈夫ですか？ }
 
-popup_valueAboveTrader { あなたの商品の価値は、商人が提示しているものよりも高いです。<br><br>その差額をギフトとして渡しますか、それともコインで補償してもらいますか？ }
+popup_valueAboveTrader { あなたの商品の価値は、商人が提示しているものよりも高いです。<br><br>その差額を贈りものとして渡しますか、それともコインで補償してもらいますか？ }
 
-popup_valueBelowTrader { 商人は少なくとも $TRADEVAR:RightTableValue$ コインの補償を期待しています。 }
+popup_valueBelowTrader { 商人は少なくとも $TRADEVAR:RightTableValue$ コインの支払いを期待しています。 }
 
 popup_generic { 取引を完了しますか？ }
 
@@ -22,7 +22,7 @@ Exchange { 物々交換 }
 
 ExchangeOnly { 物々交換のみ }
 
-popup_valueAboveTrader_NoCurrency { あなたの商品の価値は、商人が提示しているものよりも高いです。<br><br>その差額を彼に贈りたいですか？ }
+popup_valueAboveTrader_NoCurrency { あなたの商品の価値は、商人が提示しているものよりも高いです。<br><br>差額を贈呈しますか？ }
 
 Comment_NoCoins { 私はコインを受け取りません。 }
 

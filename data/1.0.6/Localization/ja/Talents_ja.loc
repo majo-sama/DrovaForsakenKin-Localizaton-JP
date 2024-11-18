@@ -140,7 +140,7 @@ Talent_Daggers_CritAfterDodge_desc { 回避した後のダガーによる最初�
 
 Talent_Daggers_DecreaseFlow { 完全に集中！ }
 
-Talent_Daggers_DecreaseFlow_desc { アビリティを使用した後、[FocusValueAbsolut]の集中力を得ます。 }
+Talent_Daggers_DecreaseFlow_desc { アビリティを使用した後、[FocusValueAbsolut]のフォーカスを得ます。 }
 
 Talent_Daggers_RegenerateStamina { 効率的な一撃 }
 
@@ -160,7 +160,7 @@ Talent_Sword_AddCritChance_desc { 剣で攻撃する際、クリティカルヒ�
 
 Talent_Spear_GenerateFlow { 集中打 }
 
-Talent_Spear_GenerateFlow_desc { 同じ相手に対する槍の攻撃ごとに、生成される集中力が[FocusValueAbsolut]増加します。 }
+Talent_Spear_GenerateFlow_desc { 同じ相手に対する槍の攻撃ごとに、生成されるフォーカスが[FocusValueAbsolut]増加します。 }
 
 Talent_Spear_MoreDmgOnHead { ピークパフォーマンス }
 
