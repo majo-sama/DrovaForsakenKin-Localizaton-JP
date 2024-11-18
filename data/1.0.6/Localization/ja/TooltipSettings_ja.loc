@@ -100,7 +100,7 @@ stat_change_dex { +$STATCHANGE:CritChance$ クリティカルチャンス }
 
 stat_change_mind { +$STATCHANGE:MagDmg$ 魔法ダメージ + $STATCHANGE:Focus$ 基本フォーカス }
 
-helmet_cosmetics { （ヘルメットは純粋に見た目のもので、キャラクターに影響を与えることはありません。） }
+helmet_cosmetics { （ヘルメットは純粋にキャラクターの見た目を変更するだけであり、能力には影響しません。） }
 
 mainHandWeapon { 片手武器 }
 
