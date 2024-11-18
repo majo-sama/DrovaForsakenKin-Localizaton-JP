@@ -72,7 +72,7 @@ talent_slingshot_02_desc { 与えるダメージが[DamageValuePercent]増加し
 
 talent_axe_01 { 基本斧術 }
 
-talent_axe_01_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させる。「ブラッドフレンジー」の能力を習得する。 }
+talent_axe_01_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させる。「血の狂乱」の能力を習得する。 }
 
 talent_axe_02 { 訓練された斧術 }
 
