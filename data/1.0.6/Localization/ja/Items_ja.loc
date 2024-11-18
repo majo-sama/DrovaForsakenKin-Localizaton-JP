@@ -116,7 +116,7 @@ item_letterMehlunaToBady_name { メルナからのラブレター }
 
 item_earthroot_name { アースルート }
 
-item_earthroot_description { 洪水平野の森の川のそばに育つ。 }
+item_earthroot_description { 氾濫原の森の川のそばに育つ。 }
 
 item_wine_name { ワイン }
 
@@ -672,7 +672,7 @@ cons_Familiar_Firefly_description { 私の弾けるような小さな光燐。�
 
 item_bear_claw_name { クマの爪 }
 
-item_energycrystal_aufwald_empty_name { 洪水平野の空の神聖なクリスタル }
+item_energycrystal_aufwald_empty_name { 氾濫原の森の空の神聖なクリスタル }
 
 item_energycrystal_aufwald_empty_description { この神聖なクリスタルは空っぽのように感じる。 }
 
