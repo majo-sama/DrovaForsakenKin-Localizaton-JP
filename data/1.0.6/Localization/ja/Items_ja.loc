@@ -390,7 +390,7 @@ item_roastedMeat_description { 特に美味しくはないが、少なくとも�
 
 item_signOfAtonement_name { 贖罪のトークン }
 
-item_signOfAtonement_description { 私の避難所での罪は、ここで許されたことになる。 }
+item_signOfAtonement_description { 私の避難所での罪は、これによって許される。 }
 
 item_luminousTruffle_name { トリュフ }
 
