@@ -12,9 +12,9 @@ Title_HeroSelect { キャラクター }
 
 SlotType_Quick { クイックセーブスロット }
 
-SlotType_Auto { オートセーブ $SAVE:スロットタイプ$ }
+SlotType_Auto { オートセーブ $SAVE:SlotType$ }
 
-SlotType_Normal { セーブスロット $SAVE:スロットタイプ$ }
+SlotType_Normal { セーブスロット $SAVE:SlotType$ }
 
 deleteSavegamePopUp { 本当にこのセーブデータを削除しますか？ }
 
