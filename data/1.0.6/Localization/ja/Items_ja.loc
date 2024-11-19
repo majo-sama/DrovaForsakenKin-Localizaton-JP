@@ -218,15 +218,15 @@ weapon_sword_scavengingScimitar_name { 略奪のシミター }
 
 weapon_sword_hawk'SClaw_name { 鷹の爪 }
 
-weapon_sword_crudeIronBlade_name { 粗製鉄刃 }
+weapon_sword_crudeIronBlade_name { 粗製の鉄剣 }
 
-weapon_sword_coarseBroadsword_name { 両刃剣 }
+weapon_sword_coarseBroadsword_name { ブロードソード }
 
-weapon_sword_broadsword_name { 錆びた両刃剣 }
+weapon_sword_broadsword_name { 錆びたブロードソード }
 
 weapon_sword_longsword_name { 長剣 }
 
-weapon_sword_battleBlade_name { 戦刃 }
+weapon_sword_battleBlade_name { バトルブレード }
 
 weapon_sword_berserkBlade_name { 狂戦士の刃 }
 
@@ -896,7 +896,7 @@ item_blanktrap_name { 罠の型枠 }
 
 item_blanktrap_description { これは罠の構築に使用される。 }
 
-item_splittertrap_name { クラスター罠 }
+item_splittertrap_name { クラスタートラップ }
 
 item_splittertrap_description { 発動時、効果範囲内のすべての敵に[DamageFlexAbs]のダメージを与える爆発を引き起こす。ターゲットの装甲は無視される。 }
 
@@ -1108,11 +1108,11 @@ item_whispersilkbag_description { 毎秒[StaminaValueAbsolut]のスタミナを�
 
 item_rubintalisman_name { ルビーのタリスマン }
 
-item_rubintalisman_description { すべての叫びの効果を強化する。 }
+item_rubintalisman_description { すべてのシャウトの効果を強化する。 }
 
 item_flowcatchertalisman_name { フロウキャッチャータリスマン }
 
-item_flowcatchertalisman_description { 集中能力を使用すると、次の近接ヒットのダメージが一時的に[DamageValuePercent]増加する。 }
+item_flowcatchertalisman_description { フォーカスを使用すると、次の近接ヒットのダメージが一時的に[DamageValuePercent]増加する。 }
 
 item_windtalisman_name { 風のタリスマン }
 
@@ -1460,7 +1460,7 @@ recipe_spiritamulet_0_name { レシピ: 精霊のアミュレット }
 
 recipe_spiritamulet_1_name { レシピ: 強化された精霊アミュレット }
 
-recipe_splittertrap_name { レシピ: クラスター罠 }
+recipe_splittertrap_name { レシピ: クラスタートラップ }
 
 recipe_thronyvine_name { レシピ: トゲのある蔓 }
 
