@@ -600,7 +600,7 @@ key_chest_mineBanditEntry_description { 盗賊から見つけたもの。 }
 
 item_runestone_description { このルーンストーンは、マイティボアの魔法の力に直接的につながり、呪文をいつでも唱えられる。 }
 
-cons_Familiar_Firefly_name { 光燐 }
+cons_Familiar_Firefly_name { 燐光 }
 
 key_tavernKey_name { 宿屋の鍵 }
 
@@ -668,7 +668,7 @@ key_ruinenexplorer_name { ルインレイダーズの鍵 }
 
 key_ruinenexplorer_description { ルインレイダーズたちへの扉を開ける。 }
 
-cons_Familiar_Firefly_description { 私の輝く小さな光燐。どこへ行ってもついてくる。 }
+cons_Familiar_Firefly_description { 私の輝く小さな燐光。どこへ行ってもついてくる。 }
 
 item_bear_claw_name { 熊の爪 }
 
