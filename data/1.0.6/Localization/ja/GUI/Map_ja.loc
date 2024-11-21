@@ -8,13 +8,13 @@ MapName_World_Shrines { 祠 }
 
 MapName_Nemeton { ネメトン }
 
-MapName_Ruincamp { はぐれ者のキャンプ }
+MapName_Ruincamp { はぐれ者 }
 
 MapName_Leuchtwald { 原始の森 }
 
 MapName_Tristan { トリスタンの地図 }
 
-MarkerPlaced { 地図に印を付けられた }
+MarkerPlaced { 地図に印を付けた }
 
 NoInk { インクが必要です }
 
@@ -26,4 +26,4 @@ PlaceMarker { プレースマーカー }
 
 DeleteMarker { 削除マーカー }
 
-Hint_Ink { 地図に場所をマークするためのインクを購入してください。 }
+Hint_Ink { 地図に印をつけるにはインクを購入してください。 }
