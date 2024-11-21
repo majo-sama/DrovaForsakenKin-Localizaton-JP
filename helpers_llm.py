@@ -34,6 +34,7 @@ def get_noun_dictionary_prompt():
         "Floodplain Forest": "氾濫原の森",
         "Bertine": "バーティン",
         "the Spark": "光燐",
+        "Bonded": "盟友",
     }
 
     prompt = f"""
