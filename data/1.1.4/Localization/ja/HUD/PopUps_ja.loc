@@ -1,6 +1,4 @@
-LevelUp { レベルアップしました！ }
-
-NotEnoughFightingStrength { 十分な実力が足りません。 }
+NotEnoughFightingStrength { 実力が足りません。 }
 
 NoAmmoWarning { 弾薬がありません。 }
 
