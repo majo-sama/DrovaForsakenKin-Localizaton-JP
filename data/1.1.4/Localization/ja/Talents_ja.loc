@@ -1,6 +1,6 @@
 talent_sword_01 { 基本剣術 }
 
-talent_sword_01_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加する。エグゼキュートの能力を習得する。 }
+talent_sword_01_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加する。武器の能力「ブラッドフレンジ」を習得する。 }
 
 talent_sword_02 { 訓練された剣術 }
 
@@ -36,7 +36,7 @@ talent_spear_02_desc { 与えるダメージが[DamageValuePercent]増加し、�
 
 talent_spear_03 { 達人槍術 }
 
-talent_spear_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加し、1撃ごとに[StaminaValueAbsolut]のスタミナを回復する。 }
+talent_spear_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加し、1撃ごとに最大[StaminaValueAbsolut]のスタミナを回復する。 }
 
 talent_dagger_01 { 基本短剣術 }
 
@@ -44,11 +44,11 @@ talent_dagger_01_desc { 戦闘姿勢を改善し、与えるダメージが[Dama
 
 talent_dagger_02 { 訓練された短剣術 }
 
-talent_dagger_02_desc { 与えるダメージが[DamageValuePercent]増加し、各ヒットで[FocusValueAbsolut]のフォーカスを生成する。 }
+talent_dagger_02_desc { 与えるダメージが[DamageValuePercent]増加し、各ヒットで[FocusValueAbsolut]のフォーカスを得る。 }
 
 talent_dagger_03 { 達人短剣術 }
 
-talent_dagger_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加し、各ヒットで[FocusValueAbsolut]のフォーカスを生成する。 }
+talent_dagger_03_desc { 戦闘姿勢を向上させ、与えるダメージが[DamageValuePercent]増加し、各ヒットで[FocusValueAbsolut]のフォーカスを生み出します。 }
 
 talent_bow_01 { 基本弓術 }
 
@@ -72,7 +72,7 @@ talent_slingshot_02_desc { 与えるダメージが[DamageValuePercent]増加し
 
 talent_axe_01 { 基本斧術 }
 
-talent_axe_01_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させる。「血の狂乱」の能力を習得する。 }
+talent_axe_01_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させる。「エグゼキュート」の能力を習得する。 }
 
 talent_axe_02 { 訓練された斧術 }
 
@@ -120,11 +120,11 @@ talent_shield_CritAfterBlock_desc { 攻撃をパーフェクトにブロック�
 
 talent_shield_flow_afterblock { その程度か？ }
 
-talent_shield_flow_afterblock_desc { 攻撃をパーフェクトにブロックすると、[FocusValueAbsolut]フォーカスを生成する。 }
+talent_shield_flow_afterblock_desc { 攻撃を完璧に防ぐと、[FocusValueAbsolut]フォーカスを生み出します。 }
 
 talent_axe_adddmgflow { バトルフレンジー }
 
-talent_axe_adddmgflow_desc { 成功した攻撃により、追加で[FocusValueAbsolut]フォーカスを生成する。 }
+talent_axe_adddmgflow_desc { 成功した攻撃により、追加で[FocusValueAbsolut]フォーカスを生み出す。 }
 
 talent_axe_critonpoise { クー・ド・グラース }
 
@@ -136,11 +136,11 @@ talent_axe_decreasestamina_desc { 重攻撃のスタミナ消費が[StaminaValue
 
 Talent_Daggers_CritAfterDodge { サプライズ！ }
 
-Talent_Daggers_CritAfterDodge_desc { 回避後に行うダガー攻撃の最初の攻撃が、クリティカルヒットの発生確率を[CritPercent]上昇させる。 }
+Talent_Daggers_CritAfterDodge_desc { 回避後に行うダガー攻撃の最初の一撃は、クリティカルヒットの発生確率を四倍に引き上げる。 }
 
 Talent_Daggers_DecreaseFlow { 集中力全開！ }
 
-Talent_Daggers_DecreaseFlow_desc { アビリティ使用後、[FocusValueAbsolut]フォーカスを得る。 }
+Talent_Daggers_DecreaseFlow_desc { アビリティを使用した後、[FocusValueAbsolut]のフォーカスを得る。 }
 
 Talent_Daggers_RegenerateStamina { 効率的な一撃 }
 
@@ -160,7 +160,7 @@ Talent_Sword_AddCritChance_desc { 剣で攻撃すると、クリティカルヒ�
 
 Talent_Spear_GenerateFlow { 集中打 }
 
-Talent_Spear_GenerateFlow_desc { 同じ敵への槍攻撃で、生成されるフォーカスが[FocusValueAbsolut]増加する。 }
+Talent_Spear_GenerateFlow_desc { 同じ敵への槍攻撃は、生成されるフォーカスを[FocusValueAbsolut]増加させる。 }
 
 Talent_Spear_MoreDmgOnHead { 最高のパフォーマンス }
 
@@ -168,7 +168,7 @@ Talent_Spear_MoreDmgOnHead_desc { 槍先が最大で[DamageValuePercent]追加�
 
 Talent_Spear_PoiseOnCrit { 毒の槍先 }
 
-Talent_Spear_PoiseOnCrit_desc { 槍でクリティカルヒットを与えると、相手に毒を与える。 }
+Talent_Spear_PoiseOnCrit_desc { 槍でクリティカルヒットを決めると、相手に毒を与える[ChanceToPoison]のチャンスが得られる。 }
 
 Talent_Bow_InstantAfterDodge { クイックドロー }
 
@@ -190,7 +190,7 @@ Talent_Sling_Ricochet_Name { リコシェ }
 
 Talent_Sling_Ricochet_Desc { [WeaponDamagePercent]のダメージを与える弾を放ち、相手に跳ね返り近くの相手にも当たる。 }
 
-Talent_Sling_HeavyShot_Name { 衝撃弾 }
+Talent_Sling_HeavyShot_Name { 推進弾 }
 
 Talent_Sling_HeavyShot_Desc { [WeaponDamagePercent]のダメージを与え、[StunTime]秒間相手をスタンさせる重い弾。 }
 

@@ -1,6 +1,6 @@
 Achievement_ImmersiveMod_name { アイアン }
 
-Achievement_ImmersiveMod_desc { セーブモードをアイアンに設定してゲームをクリアしよう。 }
+Achievement_ImmersiveMod_desc { セーブモードを「アイアン」に設定してドロヴァをクリアしよう。 }
 
 Achievement_CengizWoodcampQuest_name { 素晴らしい始まり }
 
@@ -88,7 +88,7 @@ Achievement_LastManStandingFeuertaufe_desc { ユージンの試練を乗り越�
 
 Achievement_CompletedBrutusMine_name { 自由！ }
 
-Achievement_CompletedBrutusMine_desc { 囚人を解放せよ。 }
+Achievement_CompletedBrutusMine_desc { ピットの囚人を解放せよ。 }
 
 Achievement_KilledRipperWoodcampAct1_name { チンギスの右手 }
 
@@ -188,12 +188,12 @@ Achievement_AllAchievements_desc { すべての実績を獲得しろ。 }
 
 Achievement_ExplorerMode_name { 探検家 }
 
-Achievement_ExplorerMode_desc { エクスプローラーモードでドロヴァをクリアしろ。 }
+Achievement_ExplorerMode_desc { エクスプローラーモードでドロヴァをクリアせよ。 }
 
 Achievement_HardcoreMode_name { ハードコア }
 
-Achievement_HardcoreMode_desc { セーブモードをハードコアに設定してゲームをクリアしろ。 }
+Achievement_HardcoreMode_desc { 「ハードコア」セーブモードでドロヴァをクリアせよ。 }
 
 Achievement_ClassicMode_name { クラシック }
 
-Achievement_ClassicMode_desc { クラシックモードでDrovaをクリアしろ。 }
+Achievement_ClassicMode_desc { クラシックモードでドロヴァをクリアせよ。 }

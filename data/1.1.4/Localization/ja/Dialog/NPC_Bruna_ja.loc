@@ -130,7 +130,7 @@ Plh_92 { それで、具体的に何を持ってきてほしいの？ }
 
 Plh_94 { 私もそう願ってる… }
 
-Plh_95 { $GVAR:BanditMineBrutus_Config.CountMushrooms$ 普通のキノコを持ってきて。これでみんな大丈夫だと思う。 }
+Plh_95 { $GVAR:BanditMineBrutus_Config.CountMushrooms$ 普通のキノコを持ってきてくれ。それでみんな満足するはずだ。 }
 
 Plh_96 { 肉があればいいけど、リスクを考えるとね。それより無事に帰ってきて。 }
 

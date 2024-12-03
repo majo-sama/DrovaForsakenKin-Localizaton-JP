@@ -12,6 +12,6 @@ off { オフ }
 
 holdToSkip { 長押しでスキップ }
 
-gameModeChangeDesc { モード変更すると元に戻せません。よろしいですか？ }
+gameModeChangeDesc { モードを変更すると、元に戻すことはできません。よろしいですか？ }
 
-loadLatestPopUp { 最新のセーブデータを読み込みますか？ }
+loadLatestPopUp { 最後のセーブデータを読み込みますか？ }

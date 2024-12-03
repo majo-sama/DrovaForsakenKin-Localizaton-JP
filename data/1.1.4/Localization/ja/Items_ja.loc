@@ -28,7 +28,7 @@ item_bogIron_name { 湿地の鉄鉱石 }
 
 armor_feet_shoe_lost_name { 片方の革靴 }
 
-armor_feet_shoe_lost_description { 片方だけの悪臭を放つ靴 }
+armor_feet_shoe_lost_description { 片方だけの悪臭を放つ靴。 }
 
 item_letterToAsmus_open_name { 開封されたアスムス宛ての手紙 }
 
@@ -176,7 +176,7 @@ weapon_axe_highlandAxe_name { ハイランドアックス }
 
 weapon_axe_coarseDoubleAxe_name { スカルクラッシャー }
 
-weapon_axe_doubleAxe_name { 粗製の鉄斧 }
+weapon_axe_doubleAxe_name { 粗雑な鉄斧 }
 
 weapon_axe_rustyAxe_name { 戦斧 }
 
@@ -450,7 +450,7 @@ item_permapotion_skill_name { 器用さのエリクサー }
 
 item_permaherb_strength_name { バサルトルート }
 
-item_permaherb_mind_name { ヴォイドプラント }
+item_permaherb_mind_name { ブレインフードプラント }
 
 item_permaherb_life_name { ホーソン }
 
@@ -504,7 +504,7 @@ misc_currency_description { ドロヴァの通貨。 }
 
 weapon_barehands_name { 拳 }
 
-weapon_barehands_description { 素手の攻撃力は、力に依存する。 }
+weapon_barehands_description { 素手の攻撃によるダメージは、力に応じて変動する。 }
 
 item_stew_tiaa_name { ティアのシチュー }
 
@@ -548,7 +548,7 @@ tool_pickaxe_improvisedpickaxebroken_description { クソ！メリクが俺に�
 
 throwing_knife_name { 投げナイフ }
 
-throwing_knife_description { [DamageFlexAbs]ダメージを与え、鎧を無視するナイフを投げる。 }
+throwing_knife_description { [DamageFlexAbs]ダメージを与えるナイフを投げる。鎧は無視される。 }
 
 item_lyra_description { すべての人が理解する言葉を奏でる。 }
 
@@ -568,7 +568,7 @@ misc_map_tristan_name { トリスタンの地図 }
 
 item_claw_description { 狩猟で「爪剥ぎ」の才能を用いて動物から入手可能。 }
 
-misc_bagOfCurrency_description { 振るとジャラジャラ音がする袋。中身はコインだけなのか、それとも他にあるのか？ }
+misc_bagOfCurrency_description { 振るとジャラジャラと音を立てるポーチ。中にはほんの少しのコインだけなのか、それとも目に見えない何かが隠されているのか？ }
 
 key_chest_mineBanditMainKey_name { 錆びた鍵 }
 
@@ -698,9 +698,9 @@ cons_flow_spartanKick_name { キック }
 
 cons_flow_spartanKick_description { [DamageFlexAbs]のダメージを与え、対戦相手を後退させる。 }
 
-cons_flow_execute_name { エグゼキュート }
+cons_flow_execute_name { ブラッドフレンジー }
 
-cons_flow_execute_description { [WeaponDamagePercent]の武器ダメージを与え、アクティブな出血ごとに追加で[WeaponDamagePercent2]を与える。 }
+cons_flow_execute_description { [WeaponDamagePercent]の武器ダメージを与え、相手に影響を与えているアクティブな出血ごとに追加で[WeaponDamagePercent2]を与えます。さらに、1つのアクティブな出血を追加します。 }
 
 cons_flow_pierce_name { 貫通 }
 
@@ -710,9 +710,9 @@ cons_flow_infection_name { 感染 }
 
 cons_flow_infection_description { [WeaponDamagePercent]武器ダメージを与え、出血中の敵を毒する。 }
 
-cons_flow_bloodRage_name { 血の狂乱 }
+cons_flow_bloodRage_name { エグゼキュート }
 
-cons_flow_bloodRage_description { [WeaponDamagePercent]の武器ダメージを与える重い攻撃。効果中に敵を倒すと、スキル使用のフォーカスポイントが回復する。 }
+cons_flow_bloodRage_description { [WeaponDamagePercent]の武器ダメージを与える重い攻撃。エグゼキュートを使用して敵を倒すと、スキルのフォーカスポイントが回復する。 }
 
 item_rubin_name { ルビー }
 
@@ -742,11 +742,11 @@ cons_flow_conjure_pack_description { 敵を引き裂くリッパーの群れを�
 
 cons_flow_conjure_insects_name { 召喚：昆虫 }
 
-cons_flow_conjure_insects_description { 敵を毒にする昆虫を召喚する。 }
+cons_flow_conjure_insects_description { 敵を毒にすることができる昆虫を召喚する。 }
 
 cons_flow_conjure_rats_name { 召喚：ネズミ }
 
-cons_flow_conjure_rats_description { 敵に「出血」を引き起こすことのあるネズミを召喚する。 }
+cons_flow_conjure_rats_description { 敵に「出血」を引き起こす可能性のあるネズミを召喚する。 }
 
 cons_flow_venomCry_name { 毒の叫び }
 
@@ -754,7 +754,7 @@ cons_flow_venomCry_description { 目の前に雲を吹き寄せ、敵を毒し�
 
 cons_flow_thunderstorm_name { 雷雨 }
 
-cons_flow_thunderstorm_description { 強力な雷雨を作り出し、敵に雷を降らせる。効果は[TimeAbs]秒続く。 }
+cons_flow_thunderstorm_description { 強力な雷雨を作り出し、敵に雷を落とす。効果は[TimeAbs]秒間持続する。 }
 
 misc_traderBag_name { 汚れた袋 }
 
@@ -784,7 +784,7 @@ item_blackboard_woodcamp_name { 通知: 伐採キャンプ }
 
 cons_flow_flowForm_name { 集中の形 }
 
-cons_flow_flowForm_description { 物理ダメージを[DamagePercent]増加させ、移動速度と攻撃速度を[MovePercent]上昇させ、あらゆる行動のスタミナ消費を[StaminaValuePercent]削減する。<br><br>集中コストは時間と共に消費される。効果はすべて消費されるまで続く。 }
+cons_flow_flowForm_description { 物理ダメージを[DamagePercent]増加させ、移動速度と攻撃速度を[MovePercent]上昇させ、すべての行動におけるスタミナ消費を[StaminaValuePercent]削減する。<br><br>集中コストは時間と共に消費され、この効果はすべての集中が使い果たされるまで持続する。 }
 
 cons_flow_whirlingEnergy_name { 渦巻くエネルギー }
 
@@ -800,7 +800,7 @@ item_traps_name { 注意：もっと罠を必要 }
 
 cons_flow_obsidianSpear_name { 黒曜槍召喚 }
 
-cons_flow_obsidianSpear_description { フォーカスを生み出す古代の槍を召喚する。 }
+cons_flow_obsidianSpear_description { フォーカスを生み出す古き者の槍を召喚する。 }
 
 item_playWithKids_name { お知らせ：子供たちと遊ぶ }
 
@@ -818,7 +818,7 @@ cons_flow_aggressiveCry_description { 前方に円錐形で叫びを放ち、[Po
 
 cons_flow_battleCry_name { バトルシャウト }
 
-cons_flow_battleCry_description { 与えるダメージが[DamagePercent]増加し、移動速度と攻撃速度が[MovePercent]上昇するが、受けるダメージも[ReceiveDamagePercent]増加。効果は[TimeAbs]秒続く。 }
+cons_flow_battleCry_description { 与えるダメージが[DamagePercent]増加し、移動速度と攻撃速度が[MovePercent]上昇するが、受けるダメージも[ReceiveDamagePercent]増加する。効果は[TimeAbs]秒間持続する。 }
 
 cons_flow_bullRush_name { チャージ }
 
@@ -826,7 +826,7 @@ cons_flow_bullRush_description { 前方に突進し、[DamageFlexAbs]の物理�
 
 cons_flow_ferventCry_name { 熱烈な叫び }
 
-cons_flow_ferventCry_description { [TimeAbs]秒間物理ダメージ耐性を[DamageResPercent]増加させる。 }
+cons_flow_ferventCry_description { [TimeAbs]秒間、物理ダメージに対する耐性を[DamageResPercent]増加させる。 }
 
 item_crowtrap_name { カラスの足跡 }
 
@@ -840,9 +840,9 @@ item_permapotion_flow_name { 集中のエリクサー }
 
 item_permaherb_flow_name { 光輝のバス }
 
-item_potion_flow_0_name { 流れのポーション }
+item_potion_flow_0_name { 集中のポーション }
 
-item_potion_flow_1_name { 強力な流れのポーション }
+item_potion_flow_1_name { 強力な集中のポーション }
 
 item_fishing_name { 注意：スープ用の魚 }
 
@@ -944,7 +944,7 @@ item_potion_windwalker_description { [TimeAbs]秒間、移動速度を[MovePerce
 
 item_harpybrew_name { ハーピーブリュー }
 
-item_harpybrew_description { フォーカスをライフに交換。しかし、無意味ってわけがない。 }
+item_harpybrew_description { フォーカスをヘルスに交換。無意味なわけがないと確信している。 }
 
 item_golemsalve_name { ゴーレム軟膏 }
 
@@ -1044,7 +1044,7 @@ item_bigquiver_description { 7本の矢を収納できる。 }
 
 item_rivercharm_name { 川のアミュレット }
 
-item_rivercharm_description { 成功したヒットで、[FocusValueAbsolut]のフォーカスを生成する。 }
+item_rivercharm_description { 成功したヒットで、攻撃はより多くのフォーカスを生成する。 }
 
 item_thornfetish_name { とげのあるフェティッシュ }
 
@@ -1056,11 +1056,11 @@ item_riptoothchain_description { 出血効果のダメージ速度が加速す�
 
 item_vipertooth_name { 毒蛇の牙 }
 
-item_vipertooth_description { 毒のスローダウン効果が[SlowPercent]増加する。 }
+item_vipertooth_description { 毒のスローダウン効果がさらに[SlowPercent]増加する。 }
 
 item_mastersmemory_name { 師匠の記憶の帯 }
 
-item_mastersmemory_description { 剣と斧のコンボで行う最後の一撃は[DamageValuePercent]の追加ダメージを与え、[FocusValuePercent]の追加集中を生成する。 }
+item_mastersmemory_description { 剣や斧のコンボにおける最後の一撃は、[DamageValuePercent]の追加ダメージを与え、[FocusValuePercent]の追加集中を生み出す。 }
 
 item_cleavageskull_name { 頭蓋骨を割るもの }
 
@@ -1092,7 +1092,7 @@ item_boartooth_description { 重い攻撃は[StaminaValuePercent]のスタミナ
 
 item_tendonofglory_name { 壮大なる一撃 }
 
-item_tendonofglory_description { 遠距離攻撃は初めを貫通する。 }
+item_tendonofglory_description { 遠距離攻撃は最初に命中した対象を貫通する。 }
 
 item_shaftofpurefury_name { 純粋なる怒りの矢 }
 
@@ -1100,7 +1100,7 @@ item_shaftofpurefury_description { [HealthPercent]を失うごとに、[DamagePe
 
 item_bloodbornering_name { 血の指輪 }
 
-item_bloodbornering_description { 攻撃されると、一時的に失ったライフを取り戻す短い時間が与えられる。古い血には用心。 }
+item_bloodbornering_description { 攻撃を受けると、敵にダメージを与えることで失った健康を回復するための短い猶予が与えられる。古き血には注意せよ。 }
 
 item_whispersilkbag_name { ささやく絹で作られたポーチ }
 
@@ -1116,7 +1116,7 @@ item_flowcatchertalisman_description { フォーカスを使用すると、次�
 
 item_windtalisman_name { 風のタリスマン }
 
-item_windtalisman_description { 回避後、次の攻撃が[DamageValuePercent]の追加ダメージを与える。 }
+item_windtalisman_description { 回避後、次の物理攻撃が[DamageValuePercent]の追加ダメージを与える。 }
 
 item_lifering_name { ノーンの指輪 }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { 私の芸術的才能のおかげで、�
 
 misc_riddle_deer_name { 銀の鹿角 }
 
-misc_riddle_deer_description { 古き者の魔術的遺物。神のインスピレーションから生まれ。 }
+misc_riddle_deer_description { 古き者の魔法の遺物。神々を彷彿とさせる。 }
 
 misc_riddle_fox_name { 銀の爪 }
 
@@ -1296,7 +1296,7 @@ recipe_flow_battleCry_name { 能力：バトルシャウト }
 
 recipe_flow_blink_name { 呪文：ミスティステップ }
 
-recipe_flow_bloodRage_name { 能力: 血の狂乱 }
+recipe_flow_bloodRage_name { 能力: エグゼキュート }
 
 recipe_flow_bullRush_name { 能力：チャージ }
 
@@ -1306,7 +1306,7 @@ recipe_flow_dash_name { 能力：ダッシュ }
 
 recipe_flow_energyProjectile_name { 呪文: 魔力投射 }
 
-recipe_flow_execute_name { 能力：エグゼキュート }
+recipe_flow_execute_name { 能力：ブラッドフレンジ }
 
 recipe_flow_ferventCry_name { 能力：熱烈な叫び }
 
@@ -1376,9 +1376,9 @@ recipe_farmersmeal_name { レシピ: 農民のごちそう }
 
 recipe_fishpan_name { レシピ: 魚の炒め物 }
 
-recipe_flowpotion_0_name { レシピ: 流動ポーション }
+recipe_flowpotion_0_name { レシピ: 集中ポーション }
 
-recipe_flowpotion_1_name { レシピ: 高効力流動ポーション }
+recipe_flowpotion_1_name { レシピ: 高効力集中ポーション }
 
 recipe_fogstew_name { レシピ: 陰鬱なシチュー }
 
@@ -1608,9 +1608,9 @@ helmet_nemeton_guard1_name_name { ネメトン軽ヘルメット }
 
 helmet_nemeton_guard2_name_name { ネメトン重ヘルメット }
 
-helmet_ruinenlager_guard1_name_name { はぐれ者シンプルヘルメット }
+helmet_ruinenlager_guard1_name_name { はぐれ者のシンプルヘルメット }
 
-helmet_ruinenlager_guard2_name_name { はぐれ者重ヘルメット }
+helmet_ruinenlager_guard2_name_name { はぐれ者の重ヘルメット }
 
 helmet_cauldron_name_name { 大釜 }
 
@@ -1704,7 +1704,7 @@ misc_worldmap_shrines_name { 神殿の地図 }
 
 armor_chest_ruinenlager_gladiator_name { 剣闘士の鎧 }
 
-armor_chest_ruinenlager_gladiator_description { 失ったライフの%ごとに、受けるダメージが1%減る — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は俺の手の中にある。 }
+armor_chest_ruinenlager_gladiator_description { 失ったライフの%ごとに、受けるダメージが1%減少する — 最大90%まで。<br><br>敵の血に染まった鎧。勝利は我が手中にある。 }
 
 misc_bagOfCurrency_big_name { コインで満たされた大きなポーチ }
 
@@ -1860,7 +1860,7 @@ recipe_meat_2_name { レシピ：ジューシーな揚げ肉 }
 
 item_ring_god_name { 神々の祝福 }
 
-item_ring_god_description { 私自身のタリスマン。 }
+item_ring_god_description { 私だけのタリスマン。 }
 
 key_harald_name { 鉱山の鍵 }
 
@@ -2016,11 +2016,11 @@ item_ironore_description { 鍛冶場で精錬する必要がある。 }
 
 item_trinket_pureDmg_name { ティンカーの復讐 }
 
-item_trinket_pureDmg_description { 罠や投擲物のダメージを100%増加させる。 }
+item_trinket_pureDmg_description { 罠や投擲物によるダメージを100%増加させる。 }
 
 item_VoragoFragment_0_name { エンブレムの断片 }
 
-item_VoragoFragment_0_description { もう一方の半分が欠けているようです。その上のシンボルははっきりと認識できません。貝殻のようなものでしょうか？ }
+item_VoragoFragment_0_description { もう一方の半分が失われているようです。そこにはシンボルがありますが、判別できません。これは貝殻のようなものでしょうか？ }
 
 item_letterAtlanter_Excalibur_name { 石に刺さった剣 }
 

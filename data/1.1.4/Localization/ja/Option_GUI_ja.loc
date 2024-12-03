@@ -10,9 +10,9 @@ dont_save { セーブしない }
 
 cancel { キャンセル }
 
-keyfield_popup { バインディングが変更されました。この設定を保存しますか？ }
+keyfield_popup { キーのバインディングが変更されました。この設定を保存しますか？ }
 
-keyfield_popup_conflict { この設定には競合するバインディングが含まれており、保存できません。保存せずに続行しますか？ }
+keyfield_popup_conflict { この設定には競合するキーのバインディングが含まれており、保存できません。保存せずに続行しますか？ }
 
 world { 世界 }
 
@@ -52,11 +52,11 @@ ShowLootFeedback { キャラクターが何かを拾ったり、何かを学ん�
 
 ShowQuickbar { クイックバーを表示する }
 
-ShowBuffs { ステータス効果のシンボルを表示する }
+ShowBuffs { 負の効果のシンボルを表示する }
 
 ShowHealthVignette { ヘルスビネットを表示する }
 
-ShowOptions_Disclaimer { 推奨プレイ設定をすべて有効にする。 }
+ShowOptions_Disclaimer { これらの設定をすべて有効にしてプレイすることをお勧めします。 }
 
 ShowDirectionFeedback { 方向指示器を表示する }
 
@@ -74,7 +74,7 @@ Toggle_ShowHelp { チュートリアルを表示 }
 
 AutosaveInterval { オートセーブ間隔 }
 
-Toggle_PickUpsToQuickbar { アイテムをクイックバーに直接自動割り当てする }
+Toggle_PickUpsToQuickbar { アイテムをクイックバーに直接配置する }
 
 Toggle_PickUpsToQuickbar_Heal { 回復アイテム }
 
@@ -160,7 +160,7 @@ Toggle_TextSounds { テキストが表示されるときの音 }
 
 Toggle_NPCDialogSounds { キャラクターの音 }
 
-Toggle_ShowCompleteHUD { フルHUDを表示 }
+Toggle_ShowCompleteHUD { フルHUDを表示する }
 
 Toggle_CharacterFeedback { キャラクターのフィードバックを表示 }
 
@@ -182,9 +182,9 @@ Toggle_ShowCharacterImprovements { キャラクターの進行状況を表示 }
 
 Toggle_ChangeSticks { スティックを入れ替える }
 
-Toggle_ChangeDirectionWithSticks { 方向パッドと標準アクションボタンを入れ替える }
+Toggle_ChangeDirectionWithSticks { 方向キーと標準アクションボタンを入れ替える }
 
-Toggle_ChangeTriggers { バンパーを入れ替える }
+Toggle_ChangeTriggers { バンパーを交換する }
 
 Keybinding_Preset { デフォルト }
 
@@ -214,7 +214,7 @@ Description_SmartQuickbar { クイックバーのスロットに最後に割り�
 
 Toggle_CameraMode { カメラを視線に合わせる }
 
-Description_CameraMode { カメラは常にカーソルが指している方向に移動します。このオプションがオフになっている場合、カメラは移動方向に合わせて調整されます。 }
+Description_CameraMode { カメラは常にカーソルの指す方向に移動します。このオプションが無効になっている場合、カメラは移動の方向に合わせて調整されます。 }
 
 Toggle_FilterSellItems { 販売アイテムを自動的にジャンクとしてマークする }
 
@@ -256,22 +256,22 @@ FontSize_Preview { プレビュー }
 
 MapMarker_Player_Toggle { 地図に位置を表示する }
 
-PlayerDmgReceive { 敵のダメージ }
+PlayerDmgReceive { 受けたダメージ }
 
-PlayerDmgOutput { 追加のプレイヤーダメージ }
+PlayerDmgOutput { 受ける追加ダメージ }
 
-Toggle_MiniGame { ミニゲームを無効にする }
+Toggle_MiniGame { ミニゲームを無効化する }
 
-MouseLock { マウスをウィンドウに制限する }
+MouseLock { マウスをウィンドウに制約する }
 
 Autosave_Min20 { 20分 }
 
 Autosave_Min30 { 30分 }
 
-UseHardwareMouse { ハードウェアマウスポインタ }
+UseHardwareMouse { ハードウェアマウスポインター }
 
-UseAltFriendlyColor { 味方HPバーの代替色 }
+UseAltFriendlyColor { 味方の体力バーの代替色 }
 
-FontSize_VeryBig { より大きい }
+FontSize_VeryBig { さらに大きい }
 
 category_quickbar { クイックバー }

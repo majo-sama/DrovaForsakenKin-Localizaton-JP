@@ -54,7 +54,7 @@ Plh_175 { 君、あんまりうまく嘘つけないね。 }
 
 Plh_181 { ネメトンの外にいる多くの人は、まさにこれを望んでいるんだ。 }
 
-Plh_32 { 何も持ってないよ。西の門の戦士たちに聞いてみな。彼らはいつも新しい手を探しているから。 }
+Plh_32 { 何も持っていないよ。西の門の戦士たちに聞いてみて。彼らは常に新しい仲間を求めているから。 }
 
 Plh_157 { 一体どこに行ってたんだ？ここにいろと言ったじゃないか。 }
 
@@ -94,24 +94,24 @@ Plh_150 { アイコ、ケラン、そしてマムーだ。ここ東の門のと�
 
 Plh_151 { でも、あんまり長いこと気を散らさないでね！彼らは働いてるんだから、おしゃべりしてる時間はないんだ。 }
 
-Plh_184 { アンガスが、君が私の家を改善するのを手伝ってくれるだろうって言ってたんだ。 }
+Plh_184 { アンガスが、君が私の小屋を整えてくれると言っていたよ。 }
 
-Plh_185 { いい仕事だね。ケンドリックがそんなことをするとは思わなかったよ。彼の古い部屋が今は君のものになったって聞いたよ。君はそれにふさわしいよ。 }
+Plh_185 { いい仕事だね。ケンドリックがそんなことを実行するとは思わなかったよ。彼の小屋を引き継いだと聞いたよ。それは当然のことだ。 }
 
-Plh_186 { もっといいベッドが欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ コインを渡す） }
+Plh_186 { もっと良いベッドが欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ コインを渡してください） }
 
-Plh_187 { 作業台が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ コインを渡す） }
+Plh_187 { 作業台が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ コインを渡してください） }
 
-Plh_188 { 炉が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ コインを渡す） }
+Plh_188 { 鍛冶炉が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ コインを渡してください） }
 
 Plh_189 { Plh_189 }
 
 Plh_190 { Plh_190 }
 
-Plh_191 { いい感じだね、今取り掛かってるよ。明日には準備が整うだろう。 }
+Plh_191 { いい感じだね。私が引き受けるよ。明日には届けられるはずだ。 }
 
 Plh_192 { 必要なコインがあるならね。 }
 
-Plh_193 { 必要なコインがあれば、君を手伝えるよ。 }
+Plh_193 { コインがあれば、君を手伝うことができるよ。 }
 
 Plh_194 { Plh_194 }

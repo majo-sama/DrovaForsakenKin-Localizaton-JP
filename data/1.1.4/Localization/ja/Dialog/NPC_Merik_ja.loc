@@ -176,7 +176,7 @@ Plh_41 { クソ野郎が。もういい。（会話終了） }
 
 Plh_46 { 私たちはビジネス関係を改善する必要があるようですね。 }
 
-Plh_113 { 割引はどうですか？次のシルバースマッシャーを$GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$シルバーで売ります。これ一回限りのオファーです！ }
+Plh_113 { 割引はいかがですか？次のシルバースマッシャーを$GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$シルバーでお譲りします。これは一度限りの特別な提案です！ }
 
 Plh_82 { わかりました。はい、こちらです。（$GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$を支払います） }
 

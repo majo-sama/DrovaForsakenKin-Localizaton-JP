@@ -1,6 +1,6 @@
 PostExpeditionRuinenlager_FarlanIdle_0 { 私を見ておくべきだったのに！ }
 
-R_Karotte_AfterRunestone_1 { ルーンストーンを手に入れたよ！ }
+R_Karotte_AfterRunestone_1 { ルーンストーンを手に入れた！ }
 
 R_Karotte_AfterRunestone_2 { 苦労した甲斐があった！ }
 
@@ -52,7 +52,7 @@ HarpyEncounterAndLore_25 { 何かがいつも私達を待ち構えている。 }
 
 HarpyEncounterAndLore_26 { あのくそったれのハーピーどもめ。 }
 
-HarpyEncounterAndLore_27 { 流血は最小限に抑えよう！ }
+HarpyEncounterAndLore_27 { 流血はできるだけ抑えよう！ }
 
 HarpyEncounterAndLore_28 { ぐずぐずするな！さっさと動け！ }
 
@@ -88,7 +88,7 @@ R_MelunaGoToJola_43 { ただいま！ }
 
 R_MelunaGoToJola_44 { メルナ！サボるのに飽きたの？ }
 
-R_MelunaGoToJola_45 { 黙って。今、戻らなきゃいけないんだ。 }
+R_MelunaGoToJola_45 { 黙れ。今、戻らなきゃならないんだ。 }
 
 R_MelunaGoToJola_46 { じゃあ、さっさと働け！ }
 
@@ -162,7 +162,7 @@ WorkingNight_80 { こちらも静かだよ。 }
 
 WorkingNight_81 { 君と場所を入れ替えたいな。 }
 
-WorkingNight_82 { はは、そう見えるね。でも、ここでは何も起こらないよ。 }
+WorkingNight_82 { はは、そう見えるね。でも、ここでは何も起こることはないよ。 }
 
 BonnyIntroduction_83 { ああ、やっとここに戻ってきた。 }
 
@@ -408,9 +408,9 @@ RunToBabsi_203 { はぐれ者のキャンプは遠くないぞ。 }
 
 GiveStuffToProximus_204 { ほら、配達物を持ってきたぞ、プロキシマス。 }
 
-AllDay_205 { もう行かなきゃ。 }
+AllDay_205 { また出発しなければならない。 }
 
-AllDay_206 { またね！ }
+AllDay_206 { また会おう！ }
 
 AllDay_207 { ちょっと息を整えているところだよ。 }
 
@@ -418,7 +418,7 @@ AllDay_208 { 戻ってきたよ！ }
 
 AllDay_209 { もう行かなきゃ。 }
 
-AllDay_210 { またね！ }
+AllDay_210 { また会おう！ }
 
 AllDay_211 { ちょっと息を整えているところだよ。 }
 
@@ -428,7 +428,7 @@ AllDay_213 { 行こう！ }
 
 AllDay_214 { こんにちは、オラフ。 }
 
-AllDay_215 { そろそろ動き出さなきゃ。 }
+AllDay_215 { そろそろ出発しなければならない。 }
 
 AllDay_216 { よし、すべて降ろしたぞ… }
 
@@ -630,7 +630,7 @@ R_RuhanGoToJola_314 { わかった、ありがとう！ }
 
 R_Fawni_RunToTavern_315 { 準備しな、スイートケーキ！ }
 
-R_Fawni_RunToTavern_316 { それはワクワクするね！ }
+R_Fawni_RunToTavern_316 { それは楽しみだね！ }
 
 Evening_317 { もう一つできるよ！ }
 

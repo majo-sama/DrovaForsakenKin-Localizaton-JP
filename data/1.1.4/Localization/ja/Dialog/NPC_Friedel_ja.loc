@@ -12,7 +12,7 @@ Plh_27 { ほんの少しでいい。 }
 
 Plh_28 { 実は、今はコインは全く必要ないんだ。 }
 
-Plh_58 { それなら、$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$コインを渡しなさい。 }
+Plh_58 { それなら、$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$コインを渡すがよい。 }
 
 Plh_98 { そんなにたくさん？！ }
 
@@ -40,7 +40,7 @@ Plh_106 { リスト…ここにあったのに！どこに行った？！ }
 
 Plh_108 { 言ったでしょ：証拠がなければ、借金はないのよ！ }
 
-Plh_109 { *歯を食いしばりながら* もし君がこれに関わっていることがわかったら、痛い目に遭うよ。そしたら、本当にリッパーに引き裂かれた方が良かったと思うことになる！ }
+Plh_109 { *歯を食いしばりながら* もし君がこれに関与していることがわかったら、君は大変な目に遭うことになる。そしたら、本当にリッパーに引き裂かれた方がマシだったと思うことになるだろう！ }
 
 Plh_70 { ユージンが今回も無事にみんなを連れ戻してくれるといいんだけど。リンドンは私の大事な客だからね。 }
 
@@ -142,24 +142,24 @@ Plh_91 { *名前と金額が書かれた羊皮紙がすぐに目を引く。* }
 
 Plh_92 { （リストを取る） }
 
-Plh_112 { キリアンが、あなたが私の家を改善する手助けをしてくれるって言ってたよ。 }
+Plh_112 { キリアンが、あなたがその廃墟を住めるように整えてくれる責任者だと言っていたよ。 }
 
-Plh_113 { まずは借金を返しなさい、それから話をしましょう。 }
+Plh_113 { 借金を返してから、話をしましょう。 }
 
-Plh_114 { もっといいベッドが欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ コインを渡す） }
+Plh_114 { もっと良いベッドが欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ コインを渡してください） }
 
-Plh_115 { 作業台が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ コインを渡す） }
+Plh_115 { 作業台が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ コインを渡してください） }
 
-Plh_116 { 炉が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ コインを渡す） }
+Plh_116 { 鋳造炉が欲しい。（$GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ コインを渡してください） }
 
-Plh_118 { ああ、キリアンがそう言ったの？君は到着したばかりなのに、もう自分専用の部屋をもらえるとは！でも、キリアンがそう言うなら、きっと理由があるんだろうね。 }
+Plh_118 { ああ、キリアンがそう言ったのか？君はまだ到着したばかりなのに、もう自分の家を手に入れたとは！でも、キリアンがそう言うなら、きっとそれは真実なんだろうね。 }
 
-Plh_119 { コインと引き換えに、私は手伝いするよ。 }
+Plh_119 { コインがあれば、私は手伝うことができるよ。 }
 
-Plh_120 { いいよ、すぐに取り掛かるから。明日には準備が整うはずだ。 }
+Plh_120 { いいね。私が引き受けるよ。明日には届けられるはずだ。 }
 
-Plh_121 { 私のリストだって？それはないよ。誰かが盗んだに違いない。 }
+Plh_121 { 私のリストだ！そんなことがあるはずがない！誰かが盗んだに違いない！ }
 
-Plh_122 { で、コインはどうなった？今ここで何か借りられるのか？ }
+Plh_122 { さて、コインはどうなった？少し借りられるかな？ }
 
-Plh_123 { リストなしでは、何も貸せないんだ。なんて厄介なことだ。 }
+Plh_123 { リストがなければ、何も貸し出せない。くそっ。 }

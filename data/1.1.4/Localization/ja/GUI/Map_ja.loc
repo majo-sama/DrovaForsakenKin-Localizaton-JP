@@ -26,6 +26,6 @@ PlaceMarker { プレースマーカー }
 
 DeleteMarker { 削除マーカー }
 
-Hint_Ink { 地図に印をつけるにはインクを購入してください。 }
+Hint_Ink { 地図に場所を記すためにインクを購入してください。 }
 
 MapName_CaveSystem { 地下洞 }

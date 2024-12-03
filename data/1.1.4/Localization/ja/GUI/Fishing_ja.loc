@@ -1,1 +1,1 @@
-FishingTutorial { 青い形の中に針を保とう。<br>$INPUT:Lockpick_Left$: 針を左に動かす。<br>$INPUT:Lockpick_Right$: 針を右に動かす。<br>緑のゲージが満タンになったら、魚を釣ったことになる。 }
+FishingTutorial { 上の針が魚の真上に来るのを待ってから、クリックして魚を捕まえよう。魚を逃すと、捕まえることができなくなるぞ。 }

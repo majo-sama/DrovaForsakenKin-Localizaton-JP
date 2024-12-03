@@ -120,9 +120,9 @@ action_QuickslotAssignment { クイックバーに割り当てる }
 
 action_DeleteQuickbarItem { クイックバーを空にする }
 
-action_PrevPanel { 前のタブ }
+action_PrevPanel { 前のカテゴリ }
 
-action_NextPanel { 次のタブ }
+action_NextPanel { 次のカテゴリ }
 
 action_Lockpick_Left { 左へ（ミニゲーム） }
 
@@ -158,11 +158,11 @@ action_CraftingMenu { クラフトメニュー }
 
 action_ToggleGarbageVisibility { ジャンク表示オン/オフ }
 
-action_UIDelete { 削除 }
+action_UIDelete { GUIを閉じる }
 
-action_CamZoom { ズームトグル }
+action_CamZoom { ズーム切り替え }
 
-action_toggleCraftables { トグル: 作成可能なレシピのみ表示 }
+action_toggleCraftables { 切り替え: 作成可能なレシピのみ表示 }
 
 dialogoption_1 { 対話の選択肢 1 }
 
@@ -188,7 +188,7 @@ rightalt { RAlt }
 
 rightshift { RShift }
 
-action_uiSubmit { GUI Confirm }
+action_uiSubmit { GUI 確認 }
 
 action_minigameSubmit { ミニゲームアクション }
 

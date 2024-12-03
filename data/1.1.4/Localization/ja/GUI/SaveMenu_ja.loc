@@ -16,7 +16,7 @@ SlotType_Auto { オートセーブ $SAVE:SlotType$ }
 
 SlotType_Normal { セーブスロット $SAVE:SlotType$ }
 
-deleteSavegamePopUp { 本当にこのセーブデータを削除しますか？ }
+deleteSavegamePopUp { 本当にこのセーブゲームを削除しますか？ }
 
 overwriteHeroPopUp { 最大キャラクター数に達しました。上書きしたいキャラクターを1体選んでください。 }
 
@@ -32,8 +32,8 @@ Corrupted_PopUp_Desc { このセーブデータは破損しており、ロード
 
 ToMainMenuPopUp_Desc { 本当にメインメニューに戻りますか？ }
 
-ToMainMenuPopUp_Restricted_Desc { 現在ゲームをセーブできませんが、それでもメインメニューに戻りますか？ }
+ToMainMenuPopUp_Restricted_Desc { 現在、ゲームをセーブすることができません。それでもメインメニューに戻りますか？ }
 
-QuitPopUp_Desc { 本当にゲームを閉じますか？ }
+QuitPopUp_Desc { 本当にゲームを終了しますか？ }
 
-QuitPopUp_Restricted_Desc { 現在ゲームをセーブできませんが、それでもゲームを閉じますか？ }
+QuitPopUp_Restricted_Desc { 現在ゲームをセーブできませんが、それでもゲームを終了しますか？ }

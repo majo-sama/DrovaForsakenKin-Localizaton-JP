@@ -4,12 +4,12 @@ Plh_9 { 何か必要なものがあるなら…俺のところに来なよ。 }
 
 Plh_7 { さて、何か買う？ }
 
-Plh_11 { そのアイテムはどこで手に入れている？ }
+Plh_11 { その商品はどこで手に入れているのですか？ }
 
-Plh_12 { ああ、俺にはいろいろ手があるんだ。時にはアイテムがそこらに転がってることもあるし、器用な手を使えば、鍵のかかったチェストも開けられる。もし$GVAR:EVars_Frithjof.MoneyForLearning$くれるなら、チェストの開け方を教えてあげるよ。 }
+Plh_12 { ああ、俺にはいろんなやり方があるんだ。時には、物がどこかに転がっていることもあるし、ちょっとした手先の器用さでチェストを開けることもできる。$GVAR:EVars_Frithjof.MoneyForLearning$コインをくれれば、自分でチェストを開ける方法を教えてやるよ。 }
 
-Plh_14 { もし君が$GVAR:EVars_Frithjof.MoneyForLearning$コインを持ってるならね。 *ニヤリ* }
+Plh_14 { もし君が$GVAR:EVars_Frithjof.MoneyForLearning$コインを持っているなら。 *ニヤリ* }
 
-Plh_15 { よし、これがそっちの金だ。（$GVAR:EVars_Frithjof.MoneyForLearning$コインを渡す） }
+Plh_15 { これがコインだ。（$GVAR:EVars_Frithjof.MoneyForLearning$コインを渡す） }
 
-Plh_17 { *ニヤリ* 約束通りにするよ。 }
+Plh_17 { *ニヤリ* 約束は守るさ。 }

@@ -12,7 +12,7 @@ Orientationpoint_Label { 基本フォーカス： }
 
 Orientationpointtooltip_Header { 基本フォーカス }
 
-Orientationpointtooltip_Description { 時間が経つにつれて、フォーカスはこのポイントまで再生されます。 }
+Orientationpointtooltip_Description { 時間が経つにつれて、フォーカスはこの地点まで回復します。 }
 
 MaxLeben { 最大ライフ }
 

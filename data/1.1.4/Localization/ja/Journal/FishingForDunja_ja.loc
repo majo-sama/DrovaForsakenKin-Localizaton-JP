@@ -1,6 +1,6 @@
 Title { ドゥンヤのための魚 }
 
-Entry_01 { ドゥンヤは彼女の魚スープのために$GVAR:QuestVars_FishingForDunja_Config.AmountFish$匹の魚が必要です。どうやら、リンゴ園の近くにいくつかいるようです。 }
+Entry_01 { ドゥンヤは彼女の魚スープのために、同じ種類の魚を$GVAR:QuestVars_FishingForDunja_Config.AmountFish$匹必要としています。どうやら、リンゴ園の近くにいくつかいるようです。 }
 
 Entry_02 { ドゥンヤに魚を持ってきました。明日、魚スープと引き換えに手に入れるつもりです。 }
 
