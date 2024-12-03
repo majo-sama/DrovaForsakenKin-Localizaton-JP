@@ -263,3 +263,15 @@ PlayerDmgOutput { 追加のプレイヤーダメージ }
 Toggle_MiniGame { ミニゲームを無効にする }
 
 MouseLock { マウスをウィンドウに制限する }
+
+Autosave_Min20 { 20分 }
+
+Autosave_Min30 { 30分 }
+
+UseHardwareMouse { ハードウェアマウスポインタ }
+
+UseAltFriendlyColor { 味方HPバーの代替色 }
+
+FontSize_VeryBig { より大きい }
+
+category_quickbar { クイックバー }

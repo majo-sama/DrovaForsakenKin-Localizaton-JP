@@ -2037,3 +2037,23 @@ item_letterAtlanter_Extractor2_description {  }
 item_letterAtlanter_Armor_name { 古き者の鎧 }
 
 item_letterAtlanter_Armor_description {  }
+
+misc_caveSystem_name { 洞窟の地図 }
+
+misc_caveSystem_description { はぐれ者のキャンプの下にある洞窟の地図。 }
+
+item_potion_respec_name { 忘却のポーション }
+
+item_potion_respec_description { 強いアルコールを含む飲み物です。この霊薬を飲んだ者は、その後飲んだことを忘れてしまうと言われています。<br>(学習ポイントで習得した才能をリセットします) }
+
+weapon_sling_legendarySlingshot_name { サイクロン }
+
+weapon_sling_legendarySlingshot_description { スリングショットは、その勢いを増幅させる風に包まれている。 }
+
+item_letterCelts_Spark_name { バーティンの光燐 }
+
+item_letterCelts_Spark_description { item_letterCelts_Spark_description }
+
+item_letter_library_soundRoom_note2_name { 共鳴の角 }
+
+item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }

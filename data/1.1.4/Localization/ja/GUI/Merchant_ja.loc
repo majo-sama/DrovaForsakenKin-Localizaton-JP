@@ -27,3 +27,5 @@ popup_valueAboveTrader_NoCurrency { あなたの商品の価値は、商人が�
 Comment_NoCoins { 私はコインを受け取りません。 }
 
 SellWholeStack { アイテムスタックを追加/削除して、バーターを行ってください。 }
+
+Sell_Ten { 取引に10を足す/引く }

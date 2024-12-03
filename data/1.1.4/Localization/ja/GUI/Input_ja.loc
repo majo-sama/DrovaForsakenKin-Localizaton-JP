@@ -159,3 +159,39 @@ action_CraftingMenu { クラフトメニュー }
 action_ToggleGarbageVisibility { ジャンク表示オン/オフ }
 
 action_UIDelete { 削除 }
+
+action_CamZoom { ズームトグル }
+
+action_toggleCraftables { トグル: 作成可能なレシピのみ表示 }
+
+dialogoption_1 { 対話の選択肢 1 }
+
+dialogoption_2 { 対話の選択肢 2 }
+
+dialogoption_3 { 対話の選択肢 3 }
+
+dialogoption_4 { 対話の選択肢 4 }
+
+dialogoption_5 { 対話の選択肢 5 }
+
+dialogoption_6 { 対話の選択肢 6 }
+
+leftcontrol { LCtrl }
+
+leftalt { LAlt }
+
+leftshift { LShift }
+
+rightcontrol { RCtrl }
+
+rightalt { RAlt }
+
+rightshift { RShift }
+
+action_uiSubmit { GUI Confirm }
+
+action_minigameSubmit { ミニゲームアクション }
+
+action_PrevNavigation { 前のタブ }
+
+action_NextNavigation { 次のタブ }

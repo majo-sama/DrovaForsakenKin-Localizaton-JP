@@ -141,3 +141,51 @@ Plh_99 { うーん、私の直感ではバディの勝ち目はちょっと微�
 Plh_100 { バディのテントはこの辺り、アリーナの西の丘にあるよ。もしかすると、お役に立つものが他にも見つかるかも。 }
 
 Plh_67 { 私の直感じゃ、今のままじゃ足りないね。グラはそんなに強くないし、バディは頑固者だ。もうちょっと…言ってしまえば、影響力が必要さ。 }
+
+Plh_110 { 私はアリーナの戦士になった…！ついに！ }
+
+Plh_114 { もうすぐ、私はアリーナで戦うことになる。あなたも…手伝ってくれないか？ }
+
+Plh_111 { 消え失せろ。おかげで、賭けに負けてしまった。 }
+
+Plh_112 { そこで大きな勝利を収めることができるわ。もし助けが必要になったら教えてね。戦いが思い通りにいかない場合、私が何とかできるかもしれない…私の言いたいことが分かるかい。 }
+
+Plh_118 { もちろん、コインがある場合だけだが。 }
+
+Plh_113 { あなたも私たちの仲間だからね。ボリスを選んでくれて良かった。価格を少し割り引いてあげるよ。*ニヤリ* }
+
+Plh_115 { もちろん…あなたがもっとコインを私のポケットに入れる手助けをしてくれるなら。 }
+
+Plh_117 { 私たちの仲間だから、$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$コインでどうかしら。これで戦いがずっと楽になるわよ。*ニヤリ* }
+
+Plh_119 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ コインを渡す) }
+
+Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ コイン。これで戦いがずっと楽になるわ。*ニヤリ* }
+
+Plh_121 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ コインを渡す) }
+
+Plh_125 { 私たちの仲間だから、$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$コインでどうかしら。これで戦いがずっと楽になるわ。*ニヤリ* }
+
+Plh_126 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ コインを渡す) }
+
+Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ コイン。これで戦いがずっと楽になるわ。*ニヤリ* }
+
+Plh_127 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ コインを渡す) }
+
+Plh_129 { あなたも私たちの仲間なのだから、$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$コインでどうだろう。これで戦いがずっと楽になるわよ。*ニヤリ* }
+
+Plh_131 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ コインを渡す) }
+
+Plh_130 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ コイン。これで戦いがずっと楽になるわ。*ニヤリ* }
+
+Plh_132 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ コインを渡す) }
+
+Plh_133 { 私たちの仲間だから、$GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$コインでどうだろう。これで戦いがずっと楽になるわ。*ニヤリ* }
+
+Plh_135 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ コインを渡す) }
+
+Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ コイン。これで戦いがずっと楽になるわ。*ニヤリ* }
+
+Plh_136 { ほら、コインだ. ( $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ コインを渡す) }
+
+Plh_124 { あなたの戦いを見た。素晴らしい戦いだった！*ニヤリ* 私を頼りにしても大丈夫だよ！ }

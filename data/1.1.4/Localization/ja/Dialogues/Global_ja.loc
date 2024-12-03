@@ -135,3 +135,23 @@ OnlyNemetonTeaching { 教えられるのは、ネメトンの戦士に対して�
 Teach_Axe { 斧でより上手く戦う方法を教えてくれないか？ }
 
 HaveRostmoos { ラストモスを持っている。興味はないか？ }
+
+FastTravel { 乗せてくれないか？ }
+
+FastTravel_Ruinenlager { はぐれ者のキャンプへ連れて行ってくれ。 }
+
+FastTravel_Nemeton { ネメトンへ連れて行ってくれ。 }
+
+FastTravel_Tavern { 宿屋に連れて行って。 }
+
+FastTravel_Georgsfarm { ゲオルグ農場へ連れて行ってくれ。 }
+
+FastTravel_Accepted { さあさあ、カートに乗って。すぐに出発しますよ。 }
+
+FastTravel_Rejected { もし気が変わったら、私がどこにいるかは分かるでしょう。 }
+
+FastTravel_IntroChapter2_01 { 一人で彷徨いたくないのなら、私の荷車に乗って一緒に行くことができますよ。 }
+
+FastTravel_IntroChapter2_02 { それには$GVAR:QuestVars_FastTravel_Config.Costs$コインが必要です。 }
+
+FastTravel_GerogsFarm { 新しい仲間を雇ったので、今はゲオルグ農場に行くところです。 }
