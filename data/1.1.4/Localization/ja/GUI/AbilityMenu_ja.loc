@@ -1,0 +1,19 @@
+Title_MainSpells { 能力 }
+
+Title_ConsSpells { 呪文の巻物 }
+
+header_physicalAbilities { アビリティ }
+
+header_magicalAbilities { 呪文 }
+
+header_memory { 記憶 }
+
+Orientationpoint_Label { 基本フォーカス： }
+
+Orientationpointtooltip_Header { 基本フォーカス }
+
+Orientationpointtooltip_Description { 時間が経つにつれて、フォーカスはこのポイントまで再生されます。 }
+
+MaxLeben { 最大ライフ }
+
+StaminaCosts { スタミナコスト }

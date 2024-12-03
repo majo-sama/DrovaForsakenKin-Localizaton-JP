@@ -1,0 +1,125 @@
+healingText { [StackTime]秒間にわたり、[MaxStack]のライフを回復します。 }
+
+damage { ダメージ }
+
+attack { 攻撃ダメージ }
+
+flowgain { フォーカス }
+
+physicalblock { 物理ブロック }
+
+magicalblock { 魔法ブロック }
+
+physicalresistance { アーマー }
+
+magicalresistance { 魔法耐性 }
+
+flowcosts { フォーカスコスト }
+
+strength { 力 }
+
+dexterity { 器用さ }
+
+mind { 精神 }
+
+health { ライフ }
+
+healing { あなたの最大ライフの[VALUE]を回復します。 }
+
+learningpoints { LP }
+
+talentlearned { 習得した }
+
+talentcannotlearned { まだ習得できません }
+
+talentcanbelearned { 習得可能な }
+
+unknownteacher { 不明 }
+
+talentnotknown { あなたはまだこの才能を発見していません。 }
+
+foodText { 徐々にライフを回復し、[MaxStack]のライフが回復するまで続きます。ライフバーが満タンの場合、回復は一時停止されます。 }
+
+recipe_requirements { 必要条件： }
+
+buffAdditionalDescription { （新しい食べ物が満腹効果を置き換えます） }
+
+maxHealth { 最大ライフ [VALUE] }
+
+flowGain { フォーカス [VALUE] }
+
+magicDamage { 魔法ダメージ [VALUE] }
+
+bleedingChance { 出血チャンス [VALUE] }
+
+weaponDamage { 武器ダメージ [VALUE] }
+
+movementSpeed { 移動速度 [VALUE] }
+
+poiseDamage { スタンスダメージ [VALUE] }
+
+magicResistance { 魔法耐性 [VALUE] }
+
+staminaReg { スタミナ再生 [VALUE] }
+
+flowReg { フォーカス再生 [VALUE] }
+
+armor { アーマー [VALUE] }
+
+healAdditionalDescription { （類似のアイテムがバフ効果を置き換えます） }
+
+flowPhysical { アビリティ }
+
+flowMagical { スペル }
+
+flowOneTime { スペルスクロール }
+
+learnspell { このアイテムを使って能力を習得してください。 }
+
+learnrecipe { このアイテムを使ってレシピを習得してください。 }
+
+alreadylearned { すでに習得済みです。 }
+
+trashtotrade { 商品の価値にジャンクを加えます。 }
+
+craftingItem { クラフト素材 }
+
+saleitem { 販売アイテム }
+
+weaponDamage_single { 武器のダメージ [VALUE] }
+
+critchance { クリティカルチャンス }
+
+critchance_Value { クリティカルチャンス [VALUE] }
+
+orientationpoint { ベースフォーカス [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ 物理ダメージ }
+
+stat_change_dex { +$STATCHANGE:CritChance$ クリティカルチャンス }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ 魔法ダメージ + $STATCHANGE:Focus$ 基本フォーカス }
+
+helmet_cosmetics { （ヘルメットは純粋にキャラクターの見た目を変更するだけであり、能力には影響しません。） }
+
+mainHandWeapon { 片手武器 }
+
+offHandWeapon { オフハンド }
+
+twoHandedWeapon { 両手武器 }
+
+munition { 弾薬 }
+
+drug_description { 感覚を鈍らせる }
+
+LearnSpell { 武器の能力を教える }
+
+flowText { [StackTime]秒間に[HealValue]のフォーカスを生成する。 }
+
+needrunestone { ルーンストーンが必要です。 }
+
+strength_value { 力 [VALUE] }
+
+dex_value { 器用さ [VALUE] }
+
+mind_value { 精神力 [VALUE] }

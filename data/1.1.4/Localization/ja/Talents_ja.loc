@@ -1,0 +1,209 @@
+talent_sword_01 { 基本剣術 }
+
+talent_sword_01_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加する。エグゼキュートの能力を習得する。 }
+
+talent_sword_02 { 訓練された剣術 }
+
+talent_sword_02_desc { 与えるダメージが[DamageValuePercent]増加し、3段目のコンボ攻撃が使用可能になる。 }
+
+talent_sword_03 { 達人剣術 }
+
+talent_sword_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加する。 }
+
+talent_sneak_01 { 隠密 }
+
+talent_sneak_01_desc { より静かに忍び寄り、相手に気づかれにくくなる。 }
+
+talent_shield_02 { 訓練されたシールド戦闘 }
+
+talent_shield_02_desc { パーフェクトブロックで敵を一時的にスタンさせることができる。 }
+
+talent_shield_01 { 基本シールド戦闘 }
+
+talent_shield_01_desc { シールドを使ってパーフェクトブロックを行えるようになる。 }
+
+talent_shield_01_additionale_headline { パーフェクトブロック }
+
+talent_shield_01_additionale_desc { 攻撃が当たる瞬間にブロックすると、少ないスタミナでパーフェクトブロックを行うことができる。 }
+
+talent_spear_01 { 基本槍術 }
+
+talent_spear_01_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加する。「貫通」の能力を習得する。 }
+
+talent_spear_02 { 訓練された槍術 }
+
+talent_spear_02_desc { 与えるダメージが[DamageValuePercent]増加し、通常攻撃で[StaminaValueAbsolut]のスタミナを回復する。 }
+
+talent_spear_03 { 達人槍術 }
+
+talent_spear_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加し、1撃ごとに[StaminaValueAbsolut]のスタミナを回復する。 }
+
+talent_dagger_01 { 基本短剣術 }
+
+talent_dagger_01_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加する。「感染」の能力を習得する。 }
+
+talent_dagger_02 { 訓練された短剣術 }
+
+talent_dagger_02_desc { 与えるダメージが[DamageValuePercent]増加し、各ヒットで[FocusValueAbsolut]のフォーカスを生成する。 }
+
+talent_dagger_03 { 達人短剣術 }
+
+talent_dagger_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加し、各ヒットで[FocusValueAbsolut]のフォーカスを生成する。 }
+
+talent_bow_01 { 基本弓術 }
+
+talent_bow_02 { 達人弓術 }
+
+talent_bow_01_additionale_headline { 強力な一射 }
+
+talent_bow_01_additionale_desc { 弓を構えながら、絶妙なタイミングで強力な一射を放ち、[WeaponDamagePercent]の武器ダメージを与える。 }
+
+talent_bow_01_desc { 与えるダメージが[DamageValuePercent]増加する。弓で強力な一射を行えるようになる。 }
+
+talent_bow_02_desc { 与えるダメージが[DamageValuePercent]増加し、狙いを定める時間が短縮される。「衝撃射撃」の能力を習得する。 }
+
+talent_slingshot_01 { 基本スリングショット術 }
+
+talent_slingshot_02 { 達人スリングショット術 }
+
+talent_slingshot_01_desc { 与えるダメージが[DamageValuePercent]増加し、姿勢ダメージを[PoiseValuePercent]増加させる。「リコシェ」の能力を習得する。 }
+
+talent_slingshot_02_desc { 与えるダメージが[DamageValuePercent]増加し、姿勢ダメージを[PoiseValuePercent]増加させる。 }
+
+talent_axe_01 { 基本斧術 }
+
+talent_axe_01_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させる。「血の狂乱」の能力を習得する。 }
+
+talent_axe_02 { 訓練された斧術 }
+
+talent_axe_02_desc { 与えるダメージを[DamageValuePercent]増加させ、3段目のコンボ攻撃を開放する。 }
+
+talent_axe_03 { 達人斧術 }
+
+talent_axe_03_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させる。 }
+
+talent_alchemy { ポーション調合 }
+
+talent_alchemy_desc { 戦闘を支援したりステータスを上げたりするポーションを調合できる。 }
+
+talent_lockpicking_01 { 複雑な錠を解錠 }
+
+talent_lockpicking_01_desc { もはや安全と思える錠は存在しない。 }
+
+talent_extractsecretion { イコル抽出 }
+
+talent_extractsecretion_desc { 特定の動物からイコルを抽出できる。イコルはポーション調合やクラフトに必要。 }
+
+talent_tearclaws { 爪剥ぎ }
+
+talent_tearclaws_desc { 動物の爪や歯を取り出せる。爪は販売可能で、歯はクラフトに使用される。 }
+
+talent_melting_01 { 精錬 }
+
+talent_melting_01_desc { ブルーメリーで鉱石を精錬できる。 }
+
+talent_smith_01 { クラフト }
+
+talent_smith_01_desc { 様々なアイテムを工作できる。 }
+
+talent_smith_02 { 熟練の工芸 }
+
+talent_smith_02_desc { 危険な罠、アイテム、弾薬を工作できる。 }
+
+talent_stripfur { 皮剥ぎ }
+
+talent_stripfur_desc { 動物の皮を剥ぐことができる。剥いだ皮は売ることもクラフトに使うこともできる。 }
+
+talent_shield_CritAfterBlock { バランス崩し }
+
+talent_shield_CritAfterBlock_desc { 攻撃をパーフェクトにブロックすると、次の攻撃がクリティカルヒットになる。 }
+
+talent_shield_flow_afterblock { その程度か？ }
+
+talent_shield_flow_afterblock_desc { 攻撃をパーフェクトにブロックすると、[FocusValueAbsolut]フォーカスを生成する。 }
+
+talent_axe_adddmgflow { バトルフレンジー }
+
+talent_axe_adddmgflow_desc { 成功した攻撃により、追加で[FocusValueAbsolut]フォーカスを生成する。 }
+
+talent_axe_critonpoise { クー・ド・グラース }
+
+talent_axe_critonpoise_desc { 相手の構えを崩した後の最初の斧攻撃はクリティカルヒットになる。 }
+
+talent_axe_decreasestamina { フルスロットル }
+
+talent_axe_decreasestamina_desc { 重攻撃のスタミナ消費が[StaminaValuePercent]減少する。 }
+
+Talent_Daggers_CritAfterDodge { サプライズ！ }
+
+Talent_Daggers_CritAfterDodge_desc { 回避後に行うダガー攻撃の最初の攻撃が、クリティカルヒットの発生確率を[CritPercent]上昇させる。 }
+
+Talent_Daggers_DecreaseFlow { 集中力全開！ }
+
+Talent_Daggers_DecreaseFlow_desc { アビリティ使用後、[FocusValueAbsolut]フォーカスを得る。 }
+
+Talent_Daggers_RegenerateStamina { 効率的な一撃 }
+
+Talent_Daggers_RegenerateStamina_desc { 通常攻撃で[StaminaValueAbsolut]スタミナを生成する。 }
+
+Talent_Sword_NextSpellLesserFlow { 機会主義者 }
+
+Talent_Sword_NextSpellLesserFlow_desc { 剣でクリティカルヒットを出すと、次のフォーカスを消費するアビリティのフォーカスコストが[FocusValuePercent]回復する。 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { 強打 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { 重い剣の攻撃が[StaminaValuePercent]分スタミナの消費を減少させる。 }
+
+Talent_Sword_AddCritChance { 精密攻撃 }
+
+Talent_Sword_AddCritChance_desc { 剣で攻撃すると、クリティカルヒットの発生確率が[CritValuePercent]増加する。 }
+
+Talent_Spear_GenerateFlow { 集中打 }
+
+Talent_Spear_GenerateFlow_desc { 同じ敵への槍攻撃で、生成されるフォーカスが[FocusValueAbsolut]増加する。 }
+
+Talent_Spear_MoreDmgOnHead { 最高のパフォーマンス }
+
+Talent_Spear_MoreDmgOnHead_desc { 槍先が最大で[DamageValuePercent]追加ダメージを与える。 }
+
+Talent_Spear_PoiseOnCrit { 毒の槍先 }
+
+Talent_Spear_PoiseOnCrit_desc { 槍でクリティカルヒットを与えると、相手に毒を与える。 }
+
+Talent_Bow_InstantAfterDodge { クイックドロー }
+
+Talent_Bow_InstantAfterDodge_desc { 回避後、狙いを定めずに矢を射ることができる。 }
+
+Talent_Bow_IncreaseCritDamage { 裏の目標 }
+
+Talent_Bow_IncreaseCritDamage_desc { 弓のクリティカルヒットが[DamageValuePercent]追加ダメージを与える。 }
+
+Talent_Sling_MultipleProjectiles { ダブルチャージ }
+
+Talent_Sling_MultipleProjectiles_desc { 弾丸が発射される時に[TriggerPercent]の確率で、弾薬を消費せずに追加の弾を発射する。 }
+
+Talent_Sling_AddDmgOnPoise { ウィップラッシュ }
+
+Talent_Sling_AddDmgOnPoise_desc { スリングショットで相手の構えを崩すと、次の攻撃が追加で[DamageValuePercent]のダメージを与える。 }
+
+Talent_Sling_Ricochet_Name { リコシェ }
+
+Talent_Sling_Ricochet_Desc { [WeaponDamagePercent]のダメージを与える弾を放ち、相手に跳ね返り近くの相手にも当たる。 }
+
+Talent_Sling_HeavyShot_Name { 衝撃弾 }
+
+Talent_Sling_HeavyShot_Desc { [WeaponDamagePercent]のダメージを与え、[StunTime]秒間相手をスタンさせる重い弾。 }
+
+teachers { 教師 }
+
+talent_mining_desc { 鉱石の採掘収穫量を増加させる。 }
+
+talent_mining_01 { 探鉱 1 }
+
+talent_mining_02 { 探鉱 2 }
+
+talent_mining_03 { 探鉱 3 }
+
+talent_mining_04 { 探鉱 4 }
+
+talent_mining_05 { 探鉱 5 }
