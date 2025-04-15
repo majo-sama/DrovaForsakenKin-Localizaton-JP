@@ -4,10 +4,12 @@ from typing_extensions import get_args
 from tenacity import retry, wait_fixed, stop_after_attempt
 
 
+import openai
 from openai import OpenAI, AsyncOpenAI
+### from openai import OpenAI, AsyncOpenAI
 import anthropic
 from anthropic import Anthropic, AsyncAnthropic
-import google.generativeai as genai
+# import google.generativeai as genai
 
 
 def get_llm_response(model_name: str, params_: dict, messages: list[dict]) -> str:
@@ -103,7 +105,7 @@ async def get_claude_response_async(
     return response.content[0].text
 
 
-from google.generativeai.types import HarmCategory, HarmBlockThreshold
+# from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 
 def get_gemini_response(model_name: str, params: dict, messages: list[dict]) -> str:
