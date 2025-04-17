@@ -37,9 +37,10 @@ def get_noun_dictionary_prompt():
         "Bonded": "盟友",
     }
 
+    returnchar = "\n"
     prompt = f"""
 翻訳時には、以下の固有名詞については、変換先に従って翻訳を行ってください。
-{"\n".join([f"{key} => {value}" for key, value in dictionary.items()])}
+{returnchar.join([f"{key} => {value}" for key, value in dictionary.items()])}
 """
     return prompt
 

@@ -1,0 +1,709 @@
+PostExpeditionRuinenlager_FarlanIdle_0 { 私の姿を見ておくべきだったのに！ }
+
+R_Karotte_AfterRunestone_1 { ルーンストーンを手に入れたよ！ }
+
+R_Karotte_AfterRunestone_2 { お前がそれを手に入れるに値するよ！ }
+
+R_Karotte_AfterRunestone_3 { ついに、私はネメトンの真の戦士だ！ }
+
+R_Mottek_Routine_4 { またピットで働きたい。 }
+
+R_Mottek_Routine_5 { もう聞き飽きた！ }
+
+R_Mottek_Routine_6 { 俺も他の場所にいたいけど、命令があるんだ。 }
+
+R_Kati_Routine_7 { でも、あそこには一体何があるっていうんだ？ }
+
+R_Kati_Routine_8 { さあ、俺にわかるわけないさ。 }
+
+R_Kati_Routine_9 { うわ、なんで俺たちがこんなクソみたいな仕事を引き受けなきゃいけないんだ？ }
+
+R_Kati_Routine_10 { 危険な場所にいるよりはマシだろ。 }
+
+R_Kati_Routine_11 { ただここで見張りをしているだけなんて、まっぴらごめんだ。 }
+
+R_Kati_Routine_12 { ここでは何も起こってないじゃないか！ }
+
+R_Kati_Routine_13 { じゃあ、あっちに行って、俺をうるさくしないでくれ！ }
+
+R_Kati_Routine_14 { 俺が命令に逆らう？ありえない！ }
+
+R_Kati_Routine_15 { 今は黙るよ… }
+
+R_Jero_EndAuwald_AfterDialog_16 { もしかしたら、ネメトンがまたすぐに攻撃してくるかもしれない。 }
+
+R_Jero_EndAuwald_AfterDialog_17 { 戦士たちは準備万端で立っている。私たちは準備ができている。 }
+
+R_Karotte_18 { ここで何が起こっているんだ？ }
+
+BerniWaitForPlayerSecretRoom_19 { ここには何かがあるに違いない！ }
+
+BerniRunIntoDungeon_20 { これは一体どんなクリーチャーなんだ？ }
+
+BerniRunIntoDungeon_21 { ルナの像だ！やっぱり正しかった！ }
+
+PitchNewPath_22 { 自分を祝おう。 }
+
+PitchNewPath_23 { もうすぐ、神性と栄光は私たちのものになる。 }
+
+HarpyEncounterAndLore_24 { 戦う準備をしろ。 }
+
+HarpyEncounterAndLore_25 { 何かがいつも私たちを待ち構えている。 }
+
+HarpyEncounterAndLore_26 { あのくそったれのハーピーども。 }
+
+HarpyEncounterAndLore_27 { 血の流れを最小限に抑えよう。 }
+
+HarpyEncounterAndLore_28 { ぐずぐずするな！さっさと動け！ }
+
+BossfightDarwinLead_29 { 神の気配を感じる… }
+
+BossfightDarwinLead_30 { もうすぐだ。 }
+
+BossfightDarwinLead_31 { これが彼に違いない。 }
+
+BossfightDarwinLead_32 { 力の場所。 }
+
+LeaveLeuchtwald_33 { 炎は消えてしまった… }
+
+LeaveLeuchtwald_34 { これは神性に関係しているに違いない。 }
+
+LeaveLeuchtwald_35 { 周りを見て、みんな。 }
+
+LeaveLeuchtwald_36 { 原始の森全体が… }
+
+LeaveLeuchtwald_37 { 壊滅してしまった。 }
+
+LeaveLeuchtwald_38 { まだ私たちの任務は完了していない。 }
+
+LeaveLeuchtwald_39 { 続けて！ }
+
+RunHome1_40 { 戻ってきたよ。 }
+
+EugenEngageBoar_41 { もう一匹のクリッターを倒した。 }
+
+DailyRoutineInRuinenlager_42 { それを一人でやるのは良くない考えだよ… }
+
+R_MelunaGoToJola_43 { 戻ったよ。 }
+
+R_MelunaGoToJola_44 { メルナ！サボるのに飽きたのか？ }
+
+R_MelunaGoToJola_45 { うるさい。今は戻らなきゃいけないんだ。 }
+
+R_MelunaGoToJola_46 { じゃあ、さっさと働け！ }
+
+R_MelunaGoToJola_47 { レヴィンに君が来ることを伝えておくよ。 }
+
+R_MelunaGoToJola_48 { うんうん、仕組みはわかってるよ。 }
+
+R_Conor_RunToCamp_49 { くそ、誰がここにいたんだ？ }
+
+Freetime_50 { 今日は…えっと。 }
+
+Freetime_51 { 新しく到着したばかりだ！ }
+
+TalkToJola_52 { やあ、ジョラ！今日は…いい感じだね！ }
+
+TalkToJola_53 { あ、ありがとう、ユージン。君もそうだよ。 }
+
+TalkToJola_54 { ねえ… }
+
+TalkToJola_55 { 今度、一緒に飲みに行かない？ }
+
+TalkToJola_56 { その質問をしてくれるのをずっと待ってたよ。 }
+
+WayToRippers_SecondStation_57 { ちょっと待って、用を足してくるから。 }
+
+WayToRippers_ThirdStation_58 { ふむ、足音が聞こえる。 }
+
+Working_59 { 魔法と武器スキル！ }
+
+Working_60 { こんなの見たことないだろう！ }
+
+Working_61 { 私は最高の装備を持っている！ }
+
+Working_62 { 絶望するな！ }
+
+Working_63 { ハデウィンの武器を身につけるがよい！ }
+
+Day_64 { もし奴らを見つけたら… }
+
+Training_65 { おい、ブラーン、お前の一撃が弱くなってきてるぞ。 }
+
+Training_66 { まだお前よりはマシだ。黙ってトレーニングしろ。 }
+
+Evening_Chill_67 { 明日の戦いが楽しみだ。 }
+
+Evening_Chill_68 { 俺もだ。でも気をつけろよ。 }
+
+Evening_Chill_69 { もちろんさ。俺の斧と一緒に、すべてを切り裂いてやる。 }
+
+Evening_Chill_70 { 明日、見せてやるよ。 }
+
+Training_71 { 燃え上がるのを感じろ！手を緩めるわけにはいかない！ }
+
+Training_72 { 手を緩めるな、モグ！ }
+
+Training_73 { うん、すぐにやるよ！ }
+
+FreetimeWorking_74 { 偉大なるバディは、かつての自分の影、グラと対峙する！ }
+
+FreetimeWorking_75 { 昔ながらのプロクシマスに賭けをして、財布を膨らませよう！ }
+
+FreetimeWorking_76 { 偉大なるバディは、かつての自分の影、グラと対峙する！ }
+
+FreetimeWorking_77 { 昔ながらのプロクシマスに賭けをして、財布を膨らませよう！ }
+
+Juri_OnFighterEnterArena_78 { 戦いが始まろうとしている。準備を整えろ。 }
+
+WorkingNight_79 { こちらはすべて静かだ。 }
+
+WorkingNight_80 { こちらも静かだ。 }
+
+WorkingNight_81 { 君と場所を入れ替えたいな。 }
+
+WorkingNight_82 { はは、そう見えるね。でも、ここでは何も起こらないよ。 }
+
+BonnyIntroduction_83 { ああ、やっとここに戻ってきた。 }
+
+BonnyIntroduction_84 { また散歩に出かけてたの？ }
+
+BonnyIntroduction_85 { はい、温かい食事をどうぞ。 }
+
+BonnyIntroduction_86 { ああ、ちょうどいい感じだ。 }
+
+BonnyIntroduction_87 { 外に出てからずっとこれを待ってたんだ。 }
+
+BonnyIntroduction_88 { ああ、信じてるよ。 }
+
+IdleWeaponBeforeQuest_89 { いや、またかよ… }
+
+IdleWeaponBeforeQuest_90 { どうやってそれを説明すればいいんだ… }
+
+IdleWeaponDuringQuest_91 { どうやってそれを説明すればいいんだ… }
+
+IdleWeaponDuringQuest_92 { いや、またかよ… }
+
+TalkToMombert_93 { もっと気をつけなきゃダメだよ、ルカン！ }
+
+TalkToMombert_94 { アンガスが誰が渡れるかを決める。 }
+
+TalkToMombert_95 { お前じゃない！ }
+
+TalkToMombert_96 { う、うん、わかってる。 }
+
+TalkToMombert_97 { もう二度と起こらないよ、モンバート。 }
+
+TalkToMombert_98 { ドルイドたちが君に頼っているんだ。 }
+
+TalkToMombert_99 { はい！ }
+
+Kendrick_Start_100 { ただ、私の話を聞いてくれ、アンガス… }
+
+Kendrick_Start_101 { ただ、その泥棒を見つけてくれ。 }
+
+Kendrick_Start_102 { パリーナは裏切り者だ。そうに違いない。 }
+
+Kendrick_Start_103 { おかしなことを言うな、ケンドリック。 }
+
+CrafterIntro_104 { あのくそったれのスウェン。 }
+
+CrafterIntro_105 { こんな状態では働けない！ }
+
+GoToAdwinWithPlayer_106 { ついて来て。 }
+
+GoToAdwinWithPlayer_107 { 永遠の炎はここにある。 }
+
+GoToAdwinWithPlayer_108 { ミルテがそれを見守っている。 }
+
+GoToAdwinWithPlayer_109 { ここはチュナイクの工房だ。 }
+
+GoToAdwinWithPlayer_110 { もし武器が必要になったときのために。 }
+
+GoToAdwinWithoutPlayer_111 { ついてきて。 }
+
+GoToAdwinWithoutPlayer_112 { 永遠の炎はここにある。 }
+
+GoToAdwinWithoutPlayer_113 { ミルテがそれを見守っている。 }
+
+GoToAdwinWithoutPlayer_114 { ここはチュナイクの工房だ。 }
+
+GoToAdwinWithoutPlayer_115 { もし武器が必要になったときのために。 }
+
+AllDay_116 { やあ、小さな子たち。 }
+
+RunToWaterRatsWorldDialogue_117 { これはどんな生き物なんだ？ }
+
+RunToSecondSpotMoorlagerhof_118 { うーん、それは何だ？ }
+
+RunToMoorlagerhof_119 { ここでは本当に足元に気をつけないといけないよ。 }
+
+RunToMoorlagerhof_120 { この湿地はかなりふかふかだね。 }
+
+RunToMoorlagerhof_121 { この木の上にいて。 }
+
+GoToRura_122 { ルーラ！今ここにいるよ… }
+
+GoToRura_123 { 時々、本当に役立たずだね、ムク。 }
+
+GoToRura_124 { ごめんね、ルーラ… }
+
+GoToRura_125 { 気にしないで。さあ、仕事に取り掛かって。 }
+
+GoToRuraFromEntrance_126 { ルーラ！今、ここにいるよ… }
+
+GoToRuraFromEntrance_127 { 時々、本当に役立たずだね、ムク。 }
+
+GoToRuraFromEntrance_128 { ごめん、ルーラ… }
+
+GoToRuraFromEntrance_129 { 気にしないで。仕事に取り掛かって。 }
+
+FavourOfCraftsmenGardenerAct1Intro_130 { ゲリオンがこれを受け取るように言ってた。 }
+
+FavourOfCraftsmenGardenerAct1Intro_131 { そして、これが足りないんだ！ }
+
+FavourOfCraftsmenGardenerAct1Intro_132 { 残りはどこで手に入れればいいんだ？ }
+
+FavourOfCraftsmenGardenerAct1Intro_133 { 俺の尻から引っ張り出せっていうのか？ }
+
+FavourOfCraftsmenGardenerAct1Intro_134 { さあ、俺にわかるわけないだろ。 }
+
+FavourOfCraftsmenGardenerAct1Intro_135 { ジェリオンとこの件を片付けてくれ。 }
+
+MorningMiddayAfternoonEvening_136 { これらの品物は届いたが、あちらの品物はまだ届いていない… }
+
+GoToMolvina_137 { 湿原の相続人！ }
+
+GoToMolvina_138 { アフリンに証拠がある！ }
+
+GoToMolvina_139 { 何だって？ }
+
+GoToMolvina_140 { これをじっくりと注意深く見てみよう。 }
+
+PreOutcastOrBadEnding_141 { あいつら、最低だな！ }
+
+PreOutcastOrBadEnding_142 { あいつらは俺から離れていてくれればいいんだ… }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_143 { 気にするなよ、アフリン。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_144 { ただ深呼吸して。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_145 { うん、わかった。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_146 { 何かを片付けなきゃ。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_147 { また後で話そう。 }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_148 { わかった、近くにいるよ。 }
+
+RuinEntranceLeuchtwald_149 { 覚えておいて。 }
+
+RuinEntranceLeuchtwald_150 { 人々は私たちに頼っている。 }
+
+RuinEntranceLeuchtwald_151 { 続けて！ }
+
+RuinEntranceLeuchtwald_152 { ああ、ヒースだ。 }
+
+RuinEntranceLeuchtwald_153 { 景色を楽しんで。 }
+
+RuinEntranceLeuchtwald_154 { 悪いことが起こる前に。 }
+
+LeaveLeuchtwald_02_155 { ブラックフレイム... }
+
+LeaveLeuchtwald_02_156 { 彼らは完全にいなくなった。 }
+
+LeaveLeuchtwald_02_157 { それは神の不在のせいに違いない。 }
+
+StopAtTavern_158 { シャドーリッパー？ここに？ }
+
+StopAtTavern_159 { 彼らがそんなに遠くまで冒険することは決してない。 }
+
+StopAtTavern_160 { 誰が気にするもんか！続けろ！ }
+
+TalkToKarotte_161 { ほら、カロッテ。 }
+
+TalkToKarotte_162 { うん？ }
+
+TalkToKarotte_163 { これを光らせることができるよ。 }
+
+TalkToKarotte_164 { ほら、見て？ }
+
+TalkToKarotte_165 { ああ、うん。 }
+
+HenikWaitForEatingTogether_166 { ボニーのために… }
+
+HideySpotOne_167 { 今は本当に静かにしなきゃ。 }
+
+HideySpotOne_168 { まだ誰かが私を探してる？ }
+
+HideySpotTwo_169 { 今は本当に静かにしなきゃ。 }
+
+HideySpotTwo_170 { まだ誰かが私を探してる？ }
+
+HideySpotThree_171 { 今は本当に静かにしなきゃ。 }
+
+HideySpotThree_172 { まだ誰かが私を探してる？ }
+
+HideySpotFour_173 { 今は本当に静かにしなきゃ。 }
+
+HideySpotFour_174 { まだ誰かが私を探してる？ }
+
+Afternooon_175 { やっと、あの厄介なブラッドフライがいなくなった。 }
+
+Afternooon_176 { 新しいフィールドはうまくいってる？ }
+
+Afternooon_177 { うん、そうであってほしいよ。大変だけど、結構楽しいんだ。 }
+
+R_JurekGoToJola_178 { うーん。ここに知ってる人はいない気がするな。 }
+
+R_JurekGoToJola_179 { 気にしないで。 }
+
+R_JurekGoToJola_180 { 私はここで伐採者として働き始めるために来ました。 }
+
+R_JurekGoToJola_181 { ああ、$GVAR:EVars_Player.Name$が君を送ったに違いない。 }
+
+R_JurekGoToJola_182 { ピットのレヴィンに報告してくれ。 }
+
+R_JurekGoToJola_183 { ここから東だ。 }
+
+R_JurekGoToJola_184 { わかった、ありがとう。 }
+
+RunToFirstMobsIntent_185 { 一緒に来て、近道を知ってるよ！ }
+
+PanicAtFirstMobs_186 { フォグリングたち！何かしろ！ }
+
+PanicAtFirstMobs_187 { もう一匹だ！ }
+
+RunToSecondMobs_188 { やっと… }
+
+RunToSecondMobs_189 { 次はもっと早く倒してくれ！ }
+
+RunToSecondMobs_190 { さもなければ、報酬は忘れてくれ。 }
+
+PanicAtSecondMobs_191 { くそ！もっと来やがった！ }
+
+PanicAtSecondMobs_192 { お前は俺を守るはずだろ！ }
+
+PanicAtSecondMobs_193 { お前、何かしてるのか？ }
+
+RunToThirdMobs_194 { この霧の奴ら…怖いな。 }
+
+RunToThirdMobs_195 { くそったれなハエども。殺せ！ }
+
+RunToThirdMobs_196 { もうこの厄介者を殺してくれないか？ }
+
+RunToNarrativePoint_197 { やっと終わったな。そんなに難しくなかっただろ。 }
+
+RunToFourthMobs_198 { さあ、戦士。仕事を始めろ。 }
+
+HideAtFourthMobs_199 { もう戦ってるのか？ }
+
+HideAtFourthMobs_200 { ぐずぐずするな！ }
+
+HideAtFourthMobs_201 { もう攻撃しろよ、頼むから！ }
+
+RunToBabsi_202 { くそったれな害虫ども！ }
+
+RunToBabsi_203 { 残党のキャンプは遠くない。 }
+
+GiveStuffToProximus_204 { ほら、配達物を持ってきたよ、プロクシマス。 }
+
+AllDay_205 { また出発するよ。 }
+
+AllDay_206 { またね。 }
+
+AllDay_207 { ちょっと息を整えているところだ。 }
+
+AllDay_208 { 戻ってきたよ！ }
+
+AllDay_209 { もう行かなきゃ。 }
+
+AllDay_210 { またね。 }
+
+AllDay_211 { ちょっと息を整えているところだ。 }
+
+AllDay_212 { 戻ってきたよ！ }
+
+AllDay_213 { 行こう！ }
+
+AllDay_214 { こんにちは、オラフ。 }
+
+AllDay_215 { もうすぐ出発しなければならない。 }
+
+AllDay_216 { よし、すべて降ろした… }
+
+AllDay_217 { 行こう。 }
+
+AllDay_218 { こんにちは、オラフ。 }
+
+AllDay_219 { もうすぐ動き出さなきゃな。 }
+
+AllDay_220 { よし、すべて降ろしたぞ… }
+
+R_Jendra_DITM_Station_01_221 { さあ、降下が始まる。 }
+
+R_Jendra_DITM_Station_01_222 { 汗をかく準備をしろ。 }
+
+R_Jendra_DITM_Station_02_223 { この方向には何かあるはずだ。 }
+
+R_Jendra_DITM_Station_02_224 { 大事なのは、あまり深く潜らないことだ。 }
+
+R_Jendra_DITM_Station_02_225 { あそこはかなり危険だ。 }
+
+R_Jendra_DITM_Station_04_EllaLead_226 { うわっ。腕が！ }
+
+AllDay_227 { ハニービールを飲ませれば、彼女も元気になるよ。 }
+
+HitReceiver_WorldDialogue_228 { ここにいろ、くそ！まだお前と話は終わってないんだ！ }
+
+PostFightRoutine_229 { 待て、汚い奴！ }
+
+PostFightRoutine_230 { くそっ！ }
+
+GoAndEngageEindringling_231 { お前の足を引きちぎってやる！ }
+
+GoAndEngageEindringling_232 { もっと来たぞ！あそこだ！ }
+
+GoAndEngageEindringling_233 { 頼む、彼女はここにいるはずだ。 }
+
+EngageWanderwesen_234 { お前の足を引きちぎってやる！ }
+
+IdleInFrontOfWanderwesen_235 { このクソったれの生き物はどこだ… }
+
+IdleInFrontOfWanderwesen_236 { 彼女はどこかにいるはずだ… }
+
+GoToWanderwesen_237 { あそこにあの厄介者がいる！ }
+
+GoToWanderwesen_238 { アナトリのために！ }
+
+Morning_PostHoneyQuest_239 { 新鮮なハチミツが届いたよ！ }
+
+R_CarimaSpectateBlaanBlock_240 { ブラーンの攻撃を防げ！ }
+
+R_CarimaSpectateBlaanTakeAttack_241 { ブラーンの防御を崩すまで攻撃し続けろ！ }
+
+BlaanSpectateCarima_242 { さあ、コンボを決めろ！ }
+
+BlaanSpectateCarima_243 { どんどん叩け！リズムに合わせて！ }
+
+JendrikWaitAtAmbushSpot_244 { くそっ、スプリッガーども。 }
+
+JendrikWaitAtAmbushSpot_245 { こんな風には働けないよ。 }
+
+JendrikMoveToLog_246 { さあ、早く薪割り機を持ってきて！ }
+
+JendrikMoveToLog_247 { この木の切り株を使って、さあ始めよう！ }
+
+JendrikWorkAtBridge_248 { ただ汗をかき続けて！ }
+
+R_Larea_GoToWoodcamp_249 { やっと見つけた、ラレア！ついに！ }
+
+R_Larea_GoToWoodcamp_250 { もちろん！ボンバス、会えて嬉しいよ。 }
+
+R_NialaRunToWoodcamp_251 { 急いで！ }
+
+R_AgiloGoToJola_252 { $GVAR:EVars_Player.Name$が俺を送ってきた。 }
+
+R_AgiloGoToJola_253 { まだヒューアを探しているって聞いたけど？ }
+
+R_AgiloGoToJola_254 { その通りだ。レヴィンに報告してくれ。 }
+
+R_AgiloGoToJola_255 { 彼がここでのやり方を説明してくれるよ。 }
+
+R_AgiloGoToJola_256 { それで…レヴィンはどこにいる？ }
+
+R_AgiloGoToJola_257 { ピットの近くだよ。 }
+
+R_AgiloGoToJola_258 { 東の道を進んでいけばいいよ。 }
+
+R_AgiloGoToJola_259 { それから北に向かって。 }
+
+R_AgiloGoToJola_260 { もう一つだけ… }
+
+R_AgiloGoToJola_261 { ピットで働いているのは一人のゲロなのか？ }
+
+R_AgiloGoToJola_262 { さあ、俺にはわからない。お前が確かめてみればいいじゃないか。 }
+
+R_AgiloGoToJola_263 { わかった、ありがとう！ }
+
+GoToAndarta_264 { おい、アンダルタ… }
+
+GoToAndarta_265 { 何が欲しいの？ }
+
+GoToAndarta_266 { 君に渡したいものがあるんだ。 }
+
+GoToAndarta_267 { 僕に…？ }
+
+GoToAndarta_268 { そう、君のためだけに。 }
+
+GoToAndarta_269 { あ、ああ、ありがとう。それは… }
+
+GoToAndarta_270 { 一緒に参加しない？ }
+
+GoToAndarta_271 { 一杯奢るよ！ }
+
+GoToAndarta_272 { 喜んで！ }
+
+Evening_273 { 素敵な夕方ですね？ }
+
+Evening_274 { うん、まったくその通りだね。 }
+
+HuntWithPlayerFirstRoutine_275 { さあ、行こう！ }
+
+HuntWithPlayerFirstRoutine_276 { 足跡… }
+
+HuntWithPlayerFirstRoutine_277 { こっちだ！ }
+
+HuntWithPlayerSecondRoutine_278 { 害虫だ。 }
+
+Evening_279 { ああ、ちょうどいい感じだ。 }
+
+Evening_280 { ほっとした。 }
+
+Morning_281 { ねえ、サイン、まだあのハニービール残ってる？ }
+
+Morning_282 { 二つお願い。 }
+
+Morning_283 { 二つ？また？ }
+
+Morning_284 { それはできないよ、メルフ。オラフが… }
+
+Morning_285 { 静かに！声を抑えて。 }
+
+Morning_286 { さあ、シネ。 }
+
+Morning_287 { ふん。 }
+
+Morning_288 { 今回はダメだ、メルフ。 }
+
+Morning_289 { うわ、くそ… }
+
+EveningNightEarlyMorning_290 { メルフ、行け！ }
+
+EveningNightEarlyMorning_291 { 客たちは自分でサービスを受けるわけじゃないんだぞ！ }
+
+EveningNightEarlyMorning_292 { 任せておいて！ }
+
+EveningNightEarlyMorning_293 { お前の備品だ、アンダルタ。 }
+
+EveningNightEarlyMorning_294 { 何でそんなに時間がかかったんだ？ }
+
+EveningNightEarlyMorning_295 { さっさと渡せよ！ }
+
+EveningNightEarlyMorning_296 { そして、もう一つ、懐かしいマーギットのために。 }
+
+EveningNightEarlyMorning_297 { 四つだけ残しておいて。 }
+
+OrganizeBar_Chapter2And3_298 { さあ、働け、サイン！ }
+
+OrganizeBar_Chapter2And3_299 { もっとカウンターに持ってきて。 }
+
+OrganizeBar_Chapter2And3_300 { もうやってるよ！ }
+
+AllDay_301 { 大丈夫だよ… }
+
+AllDay_302 { 楽に… }
+
+Morning_303 { 聞け、聞け、英雄の偉業を…！ }
+
+Morning_304 { いいえ…うーん。 }
+
+Morning_305 { カラスの夜が訪れますように… }
+
+Morning_306 { やっぱりダメかも。 }
+
+AllDay_307 { 観客なしに芸術はない… }
+
+Singing_308 { どうだった、私のこと？ }
+
+Daily_AllDayMine_309 { こんなにたくさんの銀が… }
+
+R_RuhanGoToJola_310 { 私はここでピットで働き始めるために来た。 }
+
+R_RuhanGoToJola_311 { とても良い。 }
+
+R_RuhanGoToJola_312 { $GVAR:EVars_Player.Name$ は忙しく勧誘中だ。 }
+
+R_RuhanGoToJola_313 { ピットの前でレヴィンに報告せよ。 }
+
+R_RuhanGoToJola_314 { わかった、ありがとう。 }
+
+R_Fawni_RunToTavern_315 { 準備しておけ、スイートケーキ。 }
+
+R_Fawni_RunToTavern_316 { それはワクワクするね。 }
+
+Evening_317 { もう一回できるよ！ }
+
+Evening_318 { マーテンに！ }
+
+GoingAway_319 { すぐ戻るから。私がやらないことはしないでね。 }
+
+R_Work_320 { この場所の一番の魅力は食べ物だね。 }
+
+R_Working_321 { やっとだ。美味しい食べ物。 }
+
+R_Working_322 { 自分を大切にしてね、ハッソ。 }
+
+R_Working_323 { もちろん！明日ね！ }
+
+R_Working_RunIntoRoom_324 { これで終わりだ！やっとだ！ }
+
+R_Working_RunIntoRoom_325 { おお、見てみて。 }
+
+R_Working_RunIntoRoom_326 { これは何だ？ }
+
+R_Working_RunIntoRoom_327 { ここには何かあるかもしれない。周りを探すのを手伝ってくれ。 }
+
+R_Working_RunIntoRoom_WarningPlayer_328 { 気をつけて！警備員に驚かれたくないからな！ }
+
+GoToEggs_329 { こっちだ！ }
+
+GoToEggs_330 { あっちだ！ }
+
+GoToEggs_331 { 覚悟しておけ。 }
+
+IdleTavern_332 { 大丈夫だよ。 }
+
+Library_GoToEntry_333 { こっちに行く必要がある。 }
+
+Library_IdleSecretRoom_334 { この道を進めるかもしれない。 }
+
+Library_IdleSecretRoom_335 { 必ずここから出られるようにするよ。 }
+
+Library_IdleSecretRoom_336 { さっさと逃げよう。 }
+
+IDLE_AfterFight_337 { ルーンが機能してる。 }
+
+IDLE_AfterFight_338 { ルーンはまだアクティブだ。ラッキーだな！ }
+
+HitReceiver_339 { あのスプリガの身に何をしたんだ？ }
+
+HitReceiver_Reija_Dialog_EnterWurmArea_340 { ここは何かおかしい。 }
+
+HitReceiver_Reija_Dialog_FireRoom_341 { もしかしたら、呪文が逆効果になったのかもしれない。 }
+
+HitReceiver_Reija_Dialog_PictureWall_01_342 { あそこ、壁のそばに…あれはルーンストーンに違いない。 }
+
+HitReceiver_Reija_Dialog_DoorOpen_343 { ドアが開いた！ }
+
+HitReceiver_Reija_Dialog_Spear_344 { この素材…こんなものは見たことがない。 }
+
+HitReceiver_Reija_Dialog_EndRoom_345 { ここをもう少し詳しく見てみるべきだ。 }
+
+HitReceiver_Reija_Dialog_GolemFightRoom_346 { な、何だったんだ？ }
+
+HitReceiver_Reija_Dialog_AfterGolemFight_347 { あれはゴーレムに違いない。 }
+
+HitReceiver_Reija_Dialog_AfterGolemFight_348 { 急いで、逃げよう！ }
+
+HitReceiver_349 { 霧が迫ってきてる。気をつけて！ }
+
+HitReceiver_350 { 気をつけて、これは危険だ！ }
+
+Dylara_Moorlagerhof_351 { 火のそばが一番心地いいね。 }
+
+Dylara_Moorlagerhof_352 { ちょっと周りを見てくるよ。静かかどうか確認してみる。 }
+
+Plh_0 { バーンホルドの酒場へようこそ。ビールをどうぞ。 }
+
+Bady_Duel_Leaving_0 { 島に留まっていてくれ。君をドロヴァ中追いかけ回すのは本当に勘弁だから。 }

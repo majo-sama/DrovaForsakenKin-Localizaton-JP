@@ -1,0 +1,11 @@
+Inventory_AssignQuick_PC { クイックバー1、クイックバー2、クイックバー3、クイックバー4に割り当てる }
+
+Inventory_AssignQuick_Joystick { クイックスロット割り当て + クイックバー1 クイックバー2 クイックバー3 クイックバー4 に割り当てる }
+
+Inventory_GarbageToggle_show { ジャンクを表示する }
+
+Inventory_GarbageToggle_hide { ジャンクを隠す }
+
+Inventory_MarkAsGarbage { アイテムをジャンクとしてマークする }
+
+GarbageFeedback { ジャンクフィルターがアクティブです }

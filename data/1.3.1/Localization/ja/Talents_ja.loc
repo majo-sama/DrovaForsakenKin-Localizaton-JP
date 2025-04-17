@@ -1,0 +1,209 @@
+talent_sword_01 { 基本的な剣術 }
+
+talent_sword_01_desc { 戦闘姿勢が改善され、与えるダメージが[DamageValuePercent]増加します。武器の能力「ブラッドフレンジー」を習得します。 }
+
+talent_sword_02 { 訓練された剣術 }
+
+talent_sword_02_desc { 与えるダメージが[DamageValuePercent]増加し、3回目のコンボ攻撃が解放されます。 }
+
+talent_sword_03 { 達人の剣術 }
+
+talent_sword_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加します。 }
+
+talent_sneak_01 { スニーク }
+
+talent_sneak_01_desc { より stealthily に動き回ることができ、相手に気づかれにくくなります。 }
+
+talent_shield_02 { 訓練されたシールドファイティング }
+
+talent_shield_02_desc { パーフェクトブロックは、一時的に相手をスタンさせます。 }
+
+talent_shield_01 { 基本的なシールドファイティング }
+
+talent_shield_01_desc { これで、シールドを使ってパーフェクトブロックを行えるようになります。 }
+
+talent_shield_01_additionale_headline { パーフェクトブロック }
+
+talent_shield_01_additionale_desc { 攻撃が当たる直前にブロックすると、非常に少ないスタミナでパーフェクトブロックを行うことができます。 }
+
+talent_spear_01 { 基本的な槍術 }
+
+talent_spear_01_desc { 戦闘姿勢が改善され、与えるダメージが[DamageValuePercent]増加します。武器の能力「貫通」を習得します。 }
+
+talent_spear_02 { 訓練された槍術 }
+
+talent_spear_02_desc { 与えるダメージが[DamageValuePercent]増加します。通常の槍攻撃で[StaminaValueAbsolut]スタミナが回復します。 }
+
+talent_spear_03 { 達人の槍術 }
+
+talent_spear_03_desc { 戦闘姿勢を改善します。与えるダメージが[DamageValuePercent]増加し、各ヒットで回復するスタミナが最大[StaminaValueAbsolut]まで増加します。 }
+
+talent_dagger_01 { 基本の短剣術 }
+
+talent_dagger_01_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加します。武器の能力「感染」を習得します。 }
+
+talent_dagger_02 { 訓練された短剣術 }
+
+talent_dagger_02_desc { 与えるダメージが[DamageValuePercent]増加し、各ヒットで生成するフォーカスが[FocusValueAbsolut]増加します。 }
+
+talent_dagger_03 { 達人の短剣術 }
+
+talent_dagger_03_desc { 戦闘姿勢を改善し、与えるダメージが[DamageValuePercent]増加し、各ヒットで生成するフォーカスが[FocusValueAbsolut]増加します。 }
+
+talent_bow_01 { 基本的な弓術 }
+
+talent_bow_02 { 達人の弓術 }
+
+talent_bow_01_additionale_headline { 強力な一撃 }
+
+talent_bow_01_additionale_desc { 弓を構えながら、まさにその瞬間に強力な一撃を放ち、[WeaponDamagePercent]の武器ダメージを与えます。 }
+
+talent_bow_01_desc { 与えるダメージが[DamageValuePercent]増加します。これで弓で強力な一撃を放つことができるようになります。 }
+
+talent_bow_02_desc { 与えるダメージが[DamageValuePercent]増加し、狙いを定める時間が短縮されます。武器の能力「衝撃弾」を習得します。 }
+
+talent_slingshot_01 { 基本スリングショット戦闘 }
+
+talent_slingshot_02 { 達人のスリングショット戦闘 }
+
+talent_slingshot_01_desc { あなたが与えるダメージを[DamageValuePercent]増加させ、スタンスダメージを[PoiseValuePercent]増加させます。武器の能力「リコシェ」を習得します。 }
+
+talent_slingshot_02_desc { あなたが与えるダメージを[DamageValuePercent]増加させ、スタンスダメージを[PoiseValuePercent]増加させます。 }
+
+talent_axe_01 { 基本的な斧の戦い }
+
+talent_axe_01_desc { あなたの戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させます。あなたは「エグゼキュート」の能力を習得します。 }
+
+talent_axe_02 { 訓練された斧の戦い }
+
+talent_axe_02_desc { 与えるダメージを[DamageValuePercent]増加させ、3回目のコンボ攻撃を解放します。 }
+
+talent_axe_03 { 達人の斧の戦い }
+
+talent_axe_03_desc { 戦闘姿勢を改善し、与えるダメージを[DamageValuePercent]増加させます。 }
+
+talent_alchemy { ポーションを調合する }
+
+talent_alchemy_desc { 戦闘を助けたり、ステータスを上げたりするポーションを調合できます。 }
+
+talent_lockpicking_01 { 複雑な鍵を開ける }
+
+talent_lockpicking_01_desc { もはやあなたに安全な鍵はありません。 }
+
+talent_extractsecretion { イコールを抽出する }
+
+talent_extractsecretion_desc { 特定の動物からイコールを抽出できます。イコールはポーションの醸造やクラフトに必要です。 }
+
+talent_tearclaws { 爪を引き抜く }
+
+talent_tearclaws_desc { 一部の動物の爪や歯を取り外すことができます。爪は売却でき、歯はクラフトに使用できます。 }
+
+talent_melting_01 { 精錬 }
+
+talent_melting_01_desc { ブルーメリーで鉱石を加工できます。 }
+
+talent_smith_01 { クラフト }
+
+talent_smith_01_desc { さまざまなアイテムをクラフトできます。 }
+
+talent_smith_02 { 熟練のクラフトマンシップ }
+
+talent_smith_02_desc { 危険な罠、アイテム、弾薬をクラフトできます。 }
+
+talent_stripfur { 動物の皮を剥ぐ }
+
+talent_stripfur_desc { いくつかの動物の皮を剥ぐことができます。皮は売ることも、クラフトに使うこともできます。 }
+
+talent_shield_CritAfterBlock { バランスが崩れている }
+
+talent_shield_CritAfterBlock_desc { 攻撃を完璧にブロックすると、次の攻撃はクリティカルヒットになります。 }
+
+talent_shield_flow_afterblock { それだけか？ }
+
+talent_shield_flow_afterblock_desc { 攻撃を完璧にブロックすると、[FocusValueAbsolut] フォーカスを生成します。 }
+
+talent_axe_adddmgflow { バトルフレンジー }
+
+talent_axe_adddmgflow_desc { 成功したヒット時に、攻撃は追加で [FocusValueAbsolut] フォーカスを生成します。 }
+
+talent_axe_critonpoise { クーデグラース }
+
+talent_axe_critonpoise_desc { 姿勢が崩れた相手に対する最初の斧の攻撃は、クリティカルヒットになります。 }
+
+talent_axe_decreasestamina { フルスロットル }
+
+talent_axe_decreasestamina_desc { ヘビー攻撃は[StaminaValuePercent]分スタミナを消費します。 }
+
+Talent_Daggers_CritAfterDodge { サプライズ！ }
+
+Talent_Daggers_CritAfterDodge_desc { 回避した後の最初のダガー攻撃は、クリティカルヒットのチャンスを4倍にします。 }
+
+Talent_Daggers_DecreaseFlow { 完全に集中！ }
+
+Talent_Daggers_DecreaseFlow_desc { アビリティを使用した後、[FocusValueAbsolut]のフォーカスを獲得します。 }
+
+Talent_Daggers_RegenerateStamina { 効率的な一撃 }
+
+Talent_Daggers_RegenerateStamina_desc { 通常攻撃は[StaminaValueAbsolut]のスタミナを生成します。 }
+
+Talent_Sword_NextSpellLesserFlow { 機会主義者 }
+
+Talent_Sword_NextSpellLesserFlow_desc { 剣でクリティカルヒットを決めると、次にフォーカスを必要とするアビリティのフォーカスコストの[FocusValuePercent]を回復します。 }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { ハードブロー }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { ヘビーソード攻撃は、[StaminaValuePercent]分スタミナを消費しません。 }
+
+Talent_Sword_AddCritChance { 精度 }
+
+Talent_Sword_AddCritChance_desc { 剣で攻撃する際、クリティカルヒットを出す確率が[CritValuePercent]高くなります。 }
+
+Talent_Spear_GenerateFlow { 集中攻撃 }
+
+Talent_Spear_GenerateFlow_desc { 同じ相手への槍攻撃ごとに、生成されるフォーカスが[FocusValueAbsolut]増加します。 }
+
+Talent_Spear_MoreDmgOnHead { ピークパフォーマンス }
+
+Talent_Spear_MoreDmgOnHead_desc { 槍の先端は最大で[DamageValuePercent]の追加ダメージを与えます。 }
+
+Talent_Spear_PoiseOnCrit { 毒の先端 }
+
+Talent_Spear_PoiseOnCrit_desc { 槍でクリティカルヒットを決めると、相手に毒を与える[ChanceToPoison]の確率が得られます。 }
+
+Talent_Bow_InstantAfterDodge { クイックドロー }
+
+Talent_Bow_InstantAfterDodge_desc { 回避した後、狙わずに矢を放つことができます。 }
+
+Talent_Bow_IncreaseCritDamage { 的中 }
+
+Talent_Bow_IncreaseCritDamage_desc { 弓によるクリティカルヒットは、[DamageValuePercent]％の追加ダメージを与えます。 }
+
+Talent_Sling_MultipleProjectiles { ダブルチャージ }
+
+Talent_Sling_MultipleProjectiles_desc { 弾丸が発射されるとき、[TriggerPercent]％の確率で、弾薬を消費せずに2発目が発射されます。 }
+
+Talent_Sling_AddDmgOnPoise { ウィップラッシュ }
+
+Talent_Sling_AddDmgOnPoise_desc { スリングショットを使って相手のスタンスを崩すと、次の攻撃は追加で[DamageValuePercent]のダメージを与えます。 }
+
+Talent_Sling_Ricochet_Name { リコシェ }
+
+Talent_Sling_Ricochet_Desc { あなたは[WeaponDamagePercent]のダメージを与える弾を投げ、相手に跳ね返って近くの敵にも当たります。 }
+
+Talent_Sling_HeavyShot_Name { インペタスショット }
+
+Talent_Sling_HeavyShot_Desc { [WeaponDamagePercent]のダメージを与え、[StunTime]秒間敵をスタンさせるヘビショット。 }
+
+teachers { 教師 }
+
+talent_mining_desc { 鉱石採掘の収穫量を増加させる。 }
+
+talent_mining_01 { 採掘 1 }
+
+talent_mining_02 { 採掘 2 }
+
+talent_mining_03 { 採掘 3 }
+
+talent_mining_04 { 採掘 4 }
+
+talent_mining_05 { 採掘 5 }

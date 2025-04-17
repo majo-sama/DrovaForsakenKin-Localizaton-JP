@@ -1,0 +1,11 @@
+Title { - 一時停止 - }
+
+Continue { 続ける }
+
+QuitApp { 終了 }
+
+LoadLatest { 最後に保存したゲーム }
+
+ToMainMenu { メインメニューへ戻る }
+
+PleaseWait { ゲームを保存中です。お待ちください。 }

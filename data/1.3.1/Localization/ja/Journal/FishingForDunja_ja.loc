@@ -1,0 +1,7 @@
+Title { ダンジャのための魚 }
+
+Entry_01 { ダンジャの魚スープのために、彼女は同じ種類の魚を$GVAR:QuestVars_FishingForDunja_Config.AmountFish$匹必要としています。どうやら、リンゴの grove の近くにいくつかいるようです。 }
+
+Entry_02 { ダンジャに魚を持ってきました。明日、代わりに魚スープをもらいます。 }
+
+Entry_03 { 魚スープができました。 }

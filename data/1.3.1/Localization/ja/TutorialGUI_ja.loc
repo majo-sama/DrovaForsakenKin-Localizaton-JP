@@ -1,0 +1,77 @@
+Title { チュートリアル }
+
+IsTrader { 商人 }
+
+Category_Basics { 基本事項 }
+
+Category_Journal { 日記 }
+
+Category_Combat { 戦闘 }
+
+Category_Items { アイテム }
+
+Name_Movement { 移動 }
+
+Name_Perception_01 { 調査モード：周囲を見渡す }
+
+Name_Perception_02 { 調査モード：発見する }
+
+Name_Perception_03 { 調査モード：調べる }
+
+Name_Interact { インタラクション }
+
+Name_Stealing { 盗む }
+
+Name_Crafting { クラフト }
+
+Name_LevelUp { レベルアップ }
+
+Name_ChangeStance { スタンスを変更する }
+
+Name_StatusEffects { 状態異常 }
+
+Name_UsedHealItem { 回復 }
+
+Name_Journal { 日記の記録 }
+
+Name_FirstNote { メモ }
+
+Name_FirstTreasure { 宝の地図 }
+
+Name_Dodge { 回避する }
+
+Name_SecondWeapon { 武器を切り替える }
+
+Name_Abilities_02 { アビリティ }
+
+Name_BattleBuddies_Blocks { ブロック }
+
+Name_BattleBuddies_Combos { コンボ }
+
+Name_BattleBuddies_GetFlow { フォーカス }
+
+Name_BattleBuddies_Spell { スペル }
+
+Name_NeedMunition { 弾薬 }
+
+Name_Secondaries { オフハンドアクション }
+
+Name_PoiseBreak { スタンス }
+
+Name_LookDirectionCombat { 戦闘における視線のライン }
+
+Name_FirstHeal { ヒーリング }
+
+Name_FirstFood { 食べ物 }
+
+Name_FirstGoodFood { リッチフード }
+
+Name_FirstWeapon { 武器の種類 }
+
+Name_FirstRangeWeapon { 遠距離武器 }
+
+Name_FirstConsFlow { 巻物 }
+
+Name_FirstThrow { 消耗品 }
+
+Name_FistRecipe { レシピ }

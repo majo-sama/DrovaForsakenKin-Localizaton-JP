@@ -1,0 +1,31 @@
+title_splitstack { アイテムを分割する }
+
+popup_balanceMoney { コインでバランスを取る }
+
+popup_giveForFree { お返しに何も欲しくないって本当に大丈夫ですか？ }
+
+popup_valueAboveTrader { あなたの品物の価値は、商人が提示しているものよりも高いです。<br><br>その差額をただ贈り物として渡しますか、それともコインで補償してもらいますか？ }
+
+popup_valueBelowTrader { 商人は$TRADEVAR:RightTableValue$コインの補償を期待しています。 }
+
+popup_generic { 取引を完了しますか？ }
+
+title { 取引 }
+
+Value { 商品の価値 }
+
+Trader { 商人 }
+
+Spend { 与える }
+
+Exchange { 物々交換 }
+
+ExchangeOnly { 物々交換のみ }
+
+popup_valueAboveTrader_NoCurrency { あなたの品物の価値は、商人が提示しているものよりも高いです。<br><br>その差額を彼に贈ってあげますか？ }
+
+Comment_NoCoins { 私はコインを受け取りません。 }
+
+SellWholeStack { アイテムスタックを取引に追加/削除します。 }
+
+Sell_Ten { 10を取引に追加/削除します。 }

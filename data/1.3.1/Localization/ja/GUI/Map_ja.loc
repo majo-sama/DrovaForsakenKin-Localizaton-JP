@@ -1,0 +1,31 @@
+Title_Maps { 地図 }
+
+MapName_World_Rough { 粗い世界地図 }
+
+MapName_World_Detailed { 世界地図 }
+
+MapName_World_Shrines { 神社 }
+
+MapName_Nemeton { ネメトン }
+
+MapName_Ruincamp { 残骸 }
+
+MapName_Leuchtwald { 原始の森 }
+
+MapName_Tristan { トリスタンの地図 }
+
+MarkerPlaced { 地図にマークされた }
+
+NoInk { インクが必要です }
+
+Title_Markers { スタンプ }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { マーカーを置く }
+
+DeleteMarker { マーカーを削除する }
+
+Hint_Ink { 地図上の場所をマークするためにインクを購入してください。 }
+
+MapName_CaveSystem { 洞窟システム }

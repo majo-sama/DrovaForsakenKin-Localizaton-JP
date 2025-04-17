@@ -1,0 +1,9 @@
+NotEnoughFightingStrength { 力不足だ。 }
+
+NoAmmoWarning { 弾薬がない。 }
+
+ReloadWarning { リロード！ }
+
+SpellAlreadyKnown { この能力はすでに習得済みだ。 }
+
+NeedsQuiver { クイバーが必要です。 }

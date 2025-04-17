@@ -1,0 +1,197 @@
+Key_Shift { シフト }
+
+control_mousebutton_left { マウス左 }
+
+control_mousebutton_right { マウス右 }
+
+control_keycode_space { スペース }
+
+control_keycode_control { Ctrl }
+
+control_keycode_tab { タブ }
+
+control_keycode_return { エンター }
+
+control_keycode_alt { オルト }
+
+control_keycode_up { Up }
+
+control_keycode_down { ダウン }
+
+control_keycode_left { 左 }
+
+control_keycode_right { 右 }
+
+action_MoveX_Pos { 右に移動 }
+
+action_MoveX_Neg { 左に移動 }
+
+action_MoveY_Pos { 上に移動 }
+
+action_MoveY_Neg { 下に移動 }
+
+action_LookX_Pos { 右を見る }
+
+action_LookX_Neg { 左を見る }
+
+action_LookY_Pos { 上を見る }
+
+action_LookY_Neg { 下を見る }
+
+action_Attack_Primary { 攻撃する }
+
+action_Block { オフハンドアクション }
+
+action_Attack_And_Interaction { インタラクト（通常の構え） / <br>攻撃（戦闘の構え） }
+
+action_Block_And_Perception { 調査モード（通常の構え） / <br> オフハンドアクション（戦闘の構え） }
+
+action_Dodge { 回避 }
+
+action_DrawWeapon { 武器を抜く/しまう }
+
+action_GameMenu { ゲームメニュー }
+
+action_PauseMenu { 一時停止 }
+
+action_Interact { インタラクト }
+
+action_Inventory { インベントリ }
+
+action_LootAll { すべて取る }
+
+action_Journal { ジャーナル }
+
+action_PerceptionMode { 調査モード }
+
+action_QuickSave { クイックセーブ }
+
+action_QuickLoad { クイックロード }
+
+action_SwapWeaponSet { 武器セットを変更する }
+
+action_Walk { 歩く }
+
+action_Trade_All { すべてを物々交換する }
+
+action_Trade_Ten { 10を物々交換する }
+
+action_Screenshot { スクリーンショット }
+
+action_ReportBug { バグを報告する }
+
+action_UseSpell { アビリティを使う }
+
+action_RingMenu { ホイールメニュー }
+
+action_OpenMap { マップ }
+
+action_MarkObject { オブジェクトにタグを付ける }
+
+action_TalentMenu { タレント }
+
+action_MarkAsGarbage { ジャンクとしてマークする }
+
+action_Flow_1 { アビリティ 1 }
+
+action_Flow_2 { アビリティ 2 }
+
+action_Flow_3 { アビリティ 3 }
+
+action_Flow_4 { アビリティ 4 }
+
+action_Flow_5 { アビリティ 5 }
+
+action_Flow_6 { アビリティ 6 }
+
+action_Flow_7 { アビリティ 7 }
+
+action_Flow_8 { アビリティ 8 }
+
+action_Quickbar_1 { クイックバー 1 }
+
+action_Quickbar_2 { クイックバー 2 }
+
+action_Quickbar_3 { クイックバー 3 }
+
+action_Quickbar_4 { クイックバー 4 }
+
+action_QuickslotAssignment { クイックバーに割り当てる }
+
+action_DeleteQuickbarItem { クイックバーを空にする }
+
+action_PrevPanel { 前のカテゴリ }
+
+action_NextPanel { 次のカテゴリ }
+
+action_Lockpick_Left { ミニゲームが残りです }
+
+action_Lockpick_Right { ミニゲームが右にあります }
+
+action_GuiScrollY { スクロールインターフェース }
+
+action_PlayNote_1 { ライラノート1 }
+
+action_PlayNote_2 { ライラノート2 }
+
+action_PlayNote_3 { ライラノート3 }
+
+action_PlayNote_4 { ライラノート4 }
+
+action_MoveX { 移動 }
+
+action_MoveY { 動き }
+
+action_LookX { 周りを見る }
+
+action_lookY { 周囲を見渡す }
+
+action_HelpUp { 手伝う }
+
+action_Abilities { アビリティ }
+
+action_Squat { しゃがむ }
+
+action_DialogSkip { 対話を続ける }
+
+action_CraftingMenu { クラフトメニュー }
+
+action_ToggleGarbageVisibility { ジャンク表示オン/オフ }
+
+action_UIDelete { GUIを閉じる }
+
+action_CamZoom { ズーム切替 }
+
+action_toggleCraftables { 切替: 作成可能なレシピのみ表示 }
+
+dialogoption_1 { 対話オプション1 }
+
+dialogoption_2 { 対話オプション2 }
+
+dialogoption_3 { 対話オプション3 }
+
+dialogoption_4 { 対話オプション4 }
+
+dialogoption_5 { 対話オプション5 }
+
+dialogoption_6 { 対話オプション6 }
+
+leftcontrol { 左Ctrl }
+
+leftalt { 左Alt }
+
+leftshift { 左Shift }
+
+rightcontrol { 右Ctrl }
+
+rightalt { 右Alt }
+
+rightshift { 右Shift }
+
+action_uiSubmit { GUI 確認 }
+
+action_minigameSubmit { ミニゲーム アクション }
+
+action_PrevNavigation { 前のタブ }
+
+action_NextNavigation { 次のタブ }

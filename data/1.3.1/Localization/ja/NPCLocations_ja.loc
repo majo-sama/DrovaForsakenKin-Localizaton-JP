@@ -1,0 +1,115 @@
+Faction_Neutral { 中立 }
+
+Remnants_Arena { 残党のキャンプ：アリーナ地区 }
+
+Remnants_WayToMine { 残党のキャンプの鉱山の南側 }
+
+Nemeton_Gate_North { ネメトン：北の門 }
+
+Nemeton_Dormitory { ネメトンの東部にて }
+
+Woodcamp { 木こりのキャンプ }
+
+Remnants_Mine { 残骸の鉱山 }
+
+Remnants_MinerArea { 残骸のキャンプ：切り出し者の区画 }
+
+Nemeton_Palisades_North { ネメトン：柵の北壁 }
+
+Neutral_SilverMine { 河床の銀鉱 }
+
+Cave_RuinRaiders { 遺跡襲撃者の隠れ家 }
+
+Tavern_Forest { 首なしリッパーの宿 }
+
+Nemeton_WarriorsQuarter { ネメトン：戦士の区画 }
+
+Remnants_Academy { 残党のキャンプ：アカデミー }
+
+Neutral_Forest { 針葉樹林の北部で }
+
+Remnants_Market { 残党のキャンプ：マーケット広場 }
+
+MissingPerson { 行方不明 }
+
+Remnants_UpperQuarter { 残党のキャンプ：上層地区 }
+
+Remnants_Tavern { ベルノルドの酒場 }
+
+Neutral_Refugee { 避難所 }
+
+Nemeton_Kitchen { ネメトン：キッチン }
+
+Remnants_LostQuater { 残党のキャンプ：ダーククォーター }
+
+Nemeton_FrontCamp { ネメトンの外のキャンプ }
+
+Nemeton_CraftingQuarter { ネメトン：クラフターズクォーター }
+
+Nemeton_Market { ネメトン：マーケットスクエア }
+
+Nemeton_Farm_Georg { ジョージファーム }
+
+Neutral_DestroyedBridge { 壊れた橋 }
+
+Neutra_Heath { ニュートラ・ヒース }
+
+Nemeton_Global { ネメトン }
+
+Remnants_Entry { 残党のキャンプ：入口 }
+
+Remnants_Global { 残党のキャンプ }
+
+Nemeton_MarketAndCrafting { ネメトン：マーケットスクエア / クラフターズクォーター }
+
+Nemeton_Moor_South { ネメトンの南の湿地 }
+
+Nemeton_Garden { ネメトン：東の庭 }
+
+Neutral_Maw { 峡谷 }
+
+Nemeton_WarriorQuarter { ネメトン：戦士の区画 }
+
+Nemeton_SacredGrove { ネメトン：聖なる森 }
+
+Neutral_River_WoodcampAndRemnants { 木こりのキャンプと残党のキャンプの間の川沿いで }
+
+Nemeton_AppleGrove { ネメトンの近くのリンゴの森 }
+
+Nemeton_BridgeToDruids { ネメトン：ドルイドの区画への橋 }
+
+Neutral_FloodplainForest_Plateau_Ruins { 洪水平野の森の小高い丘にある地下遺跡 }
+
+Nemeton_Gate_South { ネメトン：南の門 }
+
+Neutral_ForestPrimeval_Border { 原始の森：境界 }
+
+Neutral_Cave_Woodcamp_South { 木こりのキャンプの近く }
+
+Dead { 死んでいる }
+
+DrivaniusChamber { ドリヴァニウスの間 }
+
+Riverbed_North { 北の河床 }
+
+TravelingMerchants { 残党のキャンプ：入口；ネメトン：入口；酒場；ジョージファームの西 }
+
+Neutral_Heath { ヒース }
+
+Neutral_ForestPrimeval { 原始の森 }
+
+Remnants_Underground { 残党のキャンプ：地下 }
+
+Neutral_Forest_Camp { 針葉樹林のキャンプ }
+
+Unknown { 申し訳ありませんが、何かお手伝いできることがあれば教えてください。 }
+
+Nemeton_DruidCave { ネメトン：ドルイドの洞窟 }
+
+Nemeton_Leader { ネメトン：リーダーの家 }
+
+Expedition_Moor { 湿地への遠征 }
+
+Nemeton_Muc { ネメトン：南の門；ジョージファームまたはリンゴの grove }
+
+SmugglersDen { 密輸業者の隠れ家 }

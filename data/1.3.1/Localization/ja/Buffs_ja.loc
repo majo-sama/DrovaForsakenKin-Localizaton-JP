@@ -1,0 +1,35 @@
+SleepBuff { 休息中 }
+
+SleepBuffDescription { 移動速度が[MovementPercent]増加します。 }
+
+Poison { 毒 }
+
+PoisonDescription { 移動速度が[MovementPercent]減少し、装甲が[ArmorReduce]減少します。 }
+
+Bleeding { 出血 }
+
+BleedingDescription { 定期的に体力が減少しています。 }
+
+SleepBuff_T2 { 十分に休息を取った }
+
+Veil_Name { 黒炎 }
+
+Veil_Desc { 継続的にダメージを受けています。 }
+
+Intoxicated_Name { 酔っ払っている }
+
+Intoxicated_Desc { すべてが少しぼやけて見える… }
+
+NoFood_Name { 空腹 }
+
+NoFood_Desc { 何かを食べてお腹を満たそう。満腹であれば、時間とともに失った健康が回復する。 }
+
+waterbarrel { 水 }
+
+waterbarrel_description { 短時間で健康を回復する。 }
+
+HealReduction { 湿原の苦悩 }
+
+HealReduction_Desc { 受ける回復量が[ValuePercent]減少した。 }
+
+BlackPuddle_Name { 湿原の血 }

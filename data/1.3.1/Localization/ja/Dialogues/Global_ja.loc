@@ -1,0 +1,157 @@
+back { (戻る) }
+
+end_dialog { (会話を終える) }
+
+End_(End) { (会話を終える) }
+
+Silence { (何も言わない) }
+
+Leave { (立ち去る) }
+
+NotEnoughMoney { そのコインじゃ足りないな。十分になったらまたおいで。 }
+
+NotEnoughMoney1 { そんな少しのコインじゃ足りないよ。十分になったらまたおいで。 }
+
+NotEnoughMoney2 { 騙されないよ。それじゃ足りないから。 }
+
+aboutQuests { クエストについて... }
+
+aboutOtherQuests { クエストの助けがほしい... }
+
+end { 私はもう行かないと。(会話を終える) }
+
+Teach_SpearSling { 槍やパチンコの使い方をもっと上手くなる方法を教えてくれる？ }
+
+End_WirSehenUns { またね。 }
+
+BloodSteel { 血と鉄を！ }
+
+End_VergissEs { もういいよ。 }
+
+End_KeineZeit { そんな時間はないよ。 }
+
+Inf_DaWarNochWas { まだ何かあったような... }
+
+SLP_GoaWay { あっち行って。 }
+
+Busy_NotNow { 今は無理だよ。 }
+
+End_MussLos { 私はもう行かないと。(会話を終える) }
+
+aboutGenericTopics { 他のことを話したいな。 }
+
+Teach_Smith { あなたの手仕事について何か教えて。 }
+
+showMeWares { 商品を見せて。 }
+
+Inf_IchSchauMichUm { ちょっと見て回るだけ。 }
+
+Inf_HabeFrage { 質問があるんだけど... }
+
+ShowMeSkills { 新しいスキルを習いたいな。 }
+
+Teach_Sword_! { 剣の戦い方をもっと教えてくれない？ }
+
+Teach_Dagger_! { 短剣の戦い方をもっと教えてくれない？ }
+
+End_IchGehDannMal { それじゃ、行くね。 }
+
+End_VlltSpäter { まあ、後でね。 }
+
+Acc_KuemmereMichDrum { 任せておいて。 }
+
+Teach_Animals { 動物のさばき方を教えてくれる？ }
+
+Teach_General { 何か教えてほしい。 }
+
+Acc_HelfeDir { じゃあ、手伝うね。 }
+
+End_ÜberlegeNoch { まだ考えてるところだよ。 }
+
+Teach_Dagger { 短剣の戦い方を教えてくれる？ }
+
+Armor? { この鎧の部品で何かできる？ }
+
+Armor { この3つの鎧の部品で、完全な鎧を作ってくれない？ }
+
+ArmorLight { できるだけ軽くて、動きやすいものがいいな。 }
+
+ArmorHeavy { 最大限の防御を提供するものがいいな。 }
+
+ArmorDruid { ルーンがたくさん刻まれた鎧がいい。 }
+
+End_AnderesZuTun { 他にもやることがあるんだ。 }
+
+LetsTraining { 戦いの準備はいい？ }
+
+LetsRevance { もう一度勝負する準備はできてる？ }
+
+NoTime_TrainingTime { 太陽が高く昇ったら、訓練場にいるよ。そのときに戦おう。 }
+
+Inf_WasMachstDuHier { ここで何をしているの？ }
+
+SLP_Dunkel { ドロヴァの上に太陽が高く昇ったら戻っておいで！ }
+
+Run_IchBinNochDabei { まだ取り組んでいるところなんだ... }
+
+SLP_Müde { 3日3晩寝続けられそうだけど...やることが多すぎる。いつだってそうさ... }
+
+Teach_Training { 一緒に訓練しよう。 }
+
+LetsTraining_fromMorvin { プロキシマスが一緒に訓練すべきだって。 }
+
+Inf_Crimes { 私の悪事について... }
+
+FightingArena { 今日は二人でアリーナで戦うんだ。 }
+
+Teach_Mind { 魔法の力をどう高めるか教えて。 }
+
+Teach_SpearSling_! { 槍やパチンコの戦い方をもっと教えてくれない？ }
+
+Teach_Axe_! { 斧の戦い方をもっと教えてくれない？ }
+
+SLP_Zeit { *あくび* 今じゃない... }
+
+Acc_BinDabei { 私もやるよ！ }
+
+Teach_Power { 力をどう強化すればいいか教えて。 }
+
+End_NichtsZuTun { それに関わりたくないんだ。 }
+
+Teach_Sword { 剣の戦い方を教えてくれる？ }
+
+Teach_Lockpicking { 解錠術を教えて。 }
+
+MeldDichBeiMir { 私に報告して。 }
+
+HereIsMyMoney { これが私のコインだよ。 }
+
+PlayerSaysTheyDontHaveMoney { コインが足りないんだ... }
+
+PlayCatch { 鬼ごっこしない？ }
+
+OnlyNemetonTeaching { 私はネメトンの戦士のみを教えているの。 }
+
+Teach_Axe { 斧の戦い方を教えてくれる？ }
+
+HaveRostmoos { ラストモス持ってるよ。必要？ }
+
+FastTravel { 乗せて行ってくれない？ }
+
+FastTravel_Ruinenlager { はぐれ者のキャンプまで連れてって。 }
+
+FastTravel_Nemeton { ネメトンまで連れてって。 }
+
+FastTravel_Tavern { 宿屋まで連れてってくれない？ }
+
+FastTravel_Georgsfarm { ジョージファームまで連れてって。 }
+
+FastTravel_Accepted { よし、馬車に乗ってくれ。すぐに出発する。 }
+
+FastTravel_Rejected { 気が変わったら、どこで私を見つけられるかわかるだろう。 }
+
+FastTravel_IntroChapter2_01 { 一人でうろうろしたくなければ、私の馬車に乗って行けばいいよ。 }
+
+FastTravel_IntroChapter2_02 { それにかかるのはたったの$GVAR:QuestVars_FastTravel_Config.Costs$コインだよ。 }
+
+FastTravel_GerogsFarm { 新しい人を雇ったから、今はジョージファームにも行ってるんだ。 }

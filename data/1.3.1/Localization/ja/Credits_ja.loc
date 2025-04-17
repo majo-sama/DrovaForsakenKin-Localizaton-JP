@@ -1,0 +1,108 @@
+director { ゲームディレクター }
+
+game_design_lead { ゲームデザインリード }
+
+game_design { ゲームデザイン }
+
+additional_game_design { 追加ゲームデザイン }
+
+programming_lead { プログラミングリード }
+
+programming { プログラミング }
+
+art_lead { アートディレクション }
+
+art { アート }
+
+community { コミュニティ }
+
+sound_lead { サウンドと音楽 }
+
+organisation { サポート＆バックオフィス }
+
+praktikanten { インターン }
+
+freelancer { 外部契約者 }
+
+musik { 音楽 }
+
+sound { 音響 }
+
+grafiken { イラストレーション }
+
+autor { 執筆 }
+
+testers { テスター }
+
+publisher { パブリッシャー }
+
+spotlight { デッキ13スポットライト }
+
+spotlight_interns { インターン }
+
+spotlight_productionBaby { プロダクションベイビー }
+
+spotlight_deck13 { デック13 }
+
+spotlight_deck13_interns { インターン }
+
+spotlight_deck13_memory { フェリックス・リシュビッターの記憶に捧げて }
+
+pr_hound { PRハウンド }
+
+bxdxo { BXDXO }
+
+headline_Localization { ローカリゼーション }
+
+loca_coordination { 調整 }
+
+loca_english_lead { 英語言語リード }
+
+loca_english_translators { 英語翻訳者 }
+
+loca_english_proofreading { 英語校正 }
+
+loca_french_localization { フランス語ローカリゼーション }
+
+loca_french_translators { フランス語翻訳者 }
+
+special_thank_Grounding { スタジオ設立に特別な感謝を捧げます： }
+
+specia_thank { 特別な感謝 }
+
+tools { ツール }
+
+voice { 声優陣 }
+
+thanks_family { 私たちは、家族、友人、そしてパートナーの皆様に、継続的なサポートに感謝いたします。皆様がいなければ、ここまで来ることはできませんでした。 }
+
+thanks_pb { ピラニアバイトに感謝します、ゴシックシリーズを。私たち全員に長く影響を与えた素晴らしいゲームです。 }
+
+chris_wish { 愛するサラ、私のクレイジーな夢を追いかけている間、支えてくれてありがとう。いつも簡単ではなかったけれど、私たちはやり遂げました！  
+そして、安らかに眠ってください、おばあちゃん。あなたが恋しいです。 }
+
+gecko { ゲッコ！助けてくれてありがとう！私たちのディスコードの鉄の拳。 }
+
+bady { あなたに乾杯、バディ「アティロズ」！アリーナのチャンピオンであり、ドロヴァの開発を通じての忠実な仲間。あなたは最初からここにいてくれました。 }
+
+entwicklerWG { 私たちの「Entwickler WG」をTwitchでフォローしてくれたすべての観客に感謝します。あなたたちのおかげで、ドロヴァに取り組む力とモチベーションを与えられました。 }
+
+lavapotion { 私たちのプロジェクトに取り組み始めたとき、世界のデザインに関する貴重な洞察を提供してくれたLavapotionチームに感謝します。 }
+
+tinyroar { Tiny Roarに感謝の意を表し、たくさんのアドバイスとファビオを私たちのもとに送ってくれたことに感謝します！ }
+
+Acagamics { 私たちを結びつけ、Drovaの開発を促進するイベントやコンペティションを開催してくれた大学の学生団体Acagamicsに感謝します。あなたたちがいなければ、Drovaは存在しませんでした！ }
+
+finish_line { 最後の言葉はあなたのために。Drovaをプレイしていただき、ありがとうございます。 }
+
+special_thanks_support { 開発プロセス中のご支援に特別な感謝を申し上げます： }
+
+johannes_wish { ありがとう、リア。あなたの支援と素晴らしい友情に感謝します。Drovaの作業のために、計画していた休暇を3回もキャンセルしなければならなかったにもかかわらず。 }
+
+Fabio_wish { Just2Dの四人の創設者、クリス、ヨハネス、カイ、ジュリアンに感謝します。あなたたちの勇気、コミットメント、責任感、そして構造によって、私たちは困難な時期でも安全に感じることができ、共通の夢であるゲーム開発を実現することができる職場環境を作り出しました。 }
+
+Gratulation_Insane { あなたは「インセインモード」でゲームをクリアしました — これはごく少数の人々しか成し遂げられない偉業です。<br>Drovaにあなたの時間と情熱を注いでくださり、私たちにとって大変な賛辞となりました。<br><br>今後の冒険を楽しみにしています。<br><br>Just2Dチームより }
+
+Gratulation_Hardcore { 一度の人生で、あなたはそれを有効に活用しました。<br>一度もミスをせずにDrovaをクリアすることは、尊敬に値します。<br>私たちにとって、最も大きな賛辞は、あなたがDrovaに時間と情熱を注いでくださったことです。<br><br>次の冒険を楽しみにしています。<br><br>Just2Dチームより }
+
+Gratulation_Both { Drovaにおける究極の挑戦 — あなたはそれをマスターしました！<br>Drovaにあなたの時間と情熱を注いでくださり、私たちにとって大変な賛辞となりました。<br><br>今後の冒険を楽しみにしています。<br><br>Just2Dチームより }
