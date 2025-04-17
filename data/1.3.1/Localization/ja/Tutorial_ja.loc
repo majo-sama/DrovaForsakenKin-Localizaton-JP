@@ -80,7 +80,7 @@ Stealing_Gamepad { ドロヴァの住民は自分の持ち物に細心の注意�
 
 Crafting { キャンプファイヤーで料理を作り、ポーションを調合しましょう。他にも罠や装備、投擲物を作成するための作業台があります。<br>作業台なしで、$INPUTANIM:CraftingMenu$クラフトメニューから直接いくつかのレシピを作成しましょう。 }
 
-CloseTutorial { 隠れる }
+CloseTutorial { 閉じる }
 
 CloseTutorial_Gamepad { 閉じる（$INPUTANIM:UISubmit$を長押し） }
 
